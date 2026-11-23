@@ -1,0 +1,9 @@
+{
+  "model": "swin_tiny_patch4_window7_224.ms_in1k",
+  "dim": 768,
+  "n": 200183,
+  "params_m": 27.52,
+  "input_size": 224,
+  "extract_seconds": 246.5,
+  "gpu_images_per_s": 1402.1
+}

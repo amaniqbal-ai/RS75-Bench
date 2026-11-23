@@ -1,0 +1,9 @@
+{
+  "model": "convnext_small.fb_in22k_ft_in1k",
+  "dim": 768,
+  "n": 200183,
+  "params_m": 49.45,
+  "input_size": 224,
+  "extract_seconds": 60.4,
+  "gpu_images_per_s": 1216.4
+}

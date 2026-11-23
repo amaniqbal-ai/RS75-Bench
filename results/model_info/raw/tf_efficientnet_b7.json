@@ -1,0 +1,9 @@
+{
+  "model": "tf_efficientnet_b7.ns_jft_in1k",
+  "dim": 2560,
+  "n": 216472,
+  "params_m": 63.79,
+  "input_size": 600,
+  "extract_seconds": 2120.7,
+  "gpu_images_per_s": 113.0
+}

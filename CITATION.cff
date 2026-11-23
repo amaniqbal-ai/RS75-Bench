@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the paper (details will be added after publication)."
+title: "RS75-Bench: A Human-Verified 75-Class Remote-Sensing Scene Benchmark"
+authors:
+  - family-names: Jan
+    given-names: Bilal
+  - family-names: Anwar
+    given-names: Hafeez
+  - family-names: Iqbal
+    given-names: Aman
+license: MIT

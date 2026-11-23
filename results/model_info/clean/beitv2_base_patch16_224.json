@@ -1,0 +1,9 @@
+{
+  "model": "beitv2_base_patch16_224.in1k_ft_in22k_in1k",
+  "dim": 768,
+  "n": 200183,
+  "params_m": 85.76,
+  "input_size": 224,
+  "extract_seconds": 256.0,
+  "gpu_images_per_s": 1184.7
+}

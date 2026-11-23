@@ -1,0 +1,9 @@
+{
+  "model": "resnet152.a1h_in1k",
+  "dim": 2048,
+  "n": 200183,
+  "params_m": 58.14,
+  "input_size": 224,
+  "extract_seconds": 268.8,
+  "gpu_images_per_s": 1146.4
+}

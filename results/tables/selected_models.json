@@ -1,0 +1,21 @@
+{
+  "raw": [
+    "tf_efficientnet_b7.ns_jft_in1k",
+    "densenet201.tv_in1k",
+    "densenet169.tv_in1k",
+    "convnext_base.fb_in22k_ft_in1k",
+    "densenet121.tv_in1k",
+    "vit_large_patch16_224.augreg_in21k_ft_in1k",
+    "vit_base_patch16_clip_224.openai",
+    "swin_base_patch4_window7_224.ms_in22k_ft_in1k",
+    "beit_base_patch16_224.in22k_ft_in22k_in1k",
+    "vit_base_patch16_224.augreg2_in21k_ft_in1k"
+  ],
+  "ft": [
+    "densenet201.tv_in1k",
+    "densenet169.tv_in1k",
+    "vit_large_patch16_224.augreg_in21k_ft_in1k",
+    "vit_base_patch16_clip_224.openai"
+  ],
+  "rule": "ranked by mean macro-F1 (then accuracy) of the clean linear probe"
+}

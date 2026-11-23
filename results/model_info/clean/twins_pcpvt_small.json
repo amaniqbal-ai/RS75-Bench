@@ -1,0 +1,9 @@
+{
+  "model": "twins_pcpvt_small.in1k",
+  "dim": 512,
+  "n": 200183,
+  "params_m": 23.59,
+  "input_size": 224,
+  "extract_seconds": 216.5,
+  "gpu_images_per_s": 1754.6
+}

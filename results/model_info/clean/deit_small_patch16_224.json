@@ -1,0 +1,9 @@
+{
+  "model": "deit_small_patch16_224.fb_in1k",
+  "dim": 384,
+  "n": 200183,
+  "params_m": 21.67,
+  "input_size": 224,
+  "extract_seconds": 161.1,
+  "gpu_images_per_s": 3510.8
+}

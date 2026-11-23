@@ -1,0 +1,9 @@
+{
+  "model": "vit_small_patch14_dinov2.lvd142m",
+  "dim": 384,
+  "n": 200183,
+  "params_m": 22.06,
+  "input_size": 518,
+  "extract_seconds": 721.9,
+  "gpu_images_per_s": 400.9
+}

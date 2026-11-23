@@ -1,0 +1,9 @@
+{
+  "model": "crossvit_tiny_240.in1k",
+  "dim": 288,
+  "n": 200183,
+  "params_m": 6.72,
+  "input_size": 240,
+  "extract_seconds": 167.6,
+  "gpu_images_per_s": 4096.2
+}

@@ -1,0 +1,76 @@
+class,real_images,augmented_copies,total,approx_real_test_images_15pct
+sewage plant-type-two,64,1936,2000,10
+center,132,516,648,20
+plastic greenhouse,152,1848,2000,23
+Tower,173,1827,2000,26
+pipeline,353,1647,2000,53
+graff,451,1549,2000,68
+construction site,486,1509,1995,73
+Fork_Road,520,1480,2000,78
+square,692,665,1357,104
+island,699,1240,1939,105
+cloud,700,1300,2000,105
+roundabout,700,1240,1940,105
+sea_ice,700,1300,2000,105
+terrace farming,700,1300,2000,105
+wetland,700,1300,2000,105
+dam,734,1241,1975,110
+Ships in the Sea  or port,748,1241,1989,112
+oil_well,797,1200,1997,120
+parking_space,797,1200,1997,120
+christmas_tree_farm,799,1200,1999,120
+nursing_home,800,1200,2000,120
+oil_gas_field,800,1200,2000,120
+swimming_pool,800,1200,2000,120
+transformer_station,800,1200,2000,120
+River_Protection_Forest,861,1082,1943,129
+sewage plant-type-one,867,1120,1987,130
+thermal power plant,889,1111,2000,133
+Park,983,468,1451,147
+Turning_Circle and closed_road,1108,892,2000,166
+cemetery,1237,735,1972,186
+solar power station,1250,746,1996,188
+Leisure(Resort+Coastal mansion),1256,744,2000,188
+lakeshore,1520,0,1520,228
+Pond or Lake,1544,0,1544,232
+avenue,1575,0,1575,236
+mobile_home_park,1597,0,1597,240
+chaparral,1600,0,1600,240
+hirst,1670,0,1670,250
+baseballdiamond or field,1686,0,1686,253
+sparseresidential,1757,0,1757,264
+stream,1781,0,1781,267
+mangrove,1948,0,1948,292
+Commercial,1983,0,1983,297
+Airport,2038,0,2038,306
+golfcourse,2199,0,2199,330
+sapling,2338,0,2338,351
+AirPlane,2387,0,2387,358
+marina_harbor,2483,0,2483,372
+Sparse_Forest,2547,0,2547,382
+shrubwood,2782,0,2782,417
+snow_mountain,2818,0,2818,423
+storage land or containers,2942,0,2942,441
+dry_farm,3001,0,3001,450
+bare_land,3101,0,3101,465
+Port,3237,0,3237,486
+Mountain,3526,0,3526,529
+overpass and viaduct,3707,0,3707,556
+crossroads or intersection,4062,0,4062,609
+Desert,4120,0,4120,618
+Bridge,4248,0,4248,637
+storage or oil tanks,4393,0,4393,659
+railwayStation or railway,4672,0,4672,701
+airport_runway,4841,0,4841,726
+Beach,4879,0,4879,732
+Parking_partial or fully occupied,5207,0,5207,781
+sea,5871,0,5871,881
+buildings,6126,0,6126,919
+highway or freeway or city road,6599,0,6599,990
+river,6707,0,6707,1006
+Grass Art+real or meadow,7566,0,7566,1135
+Industrial,7793,0,7793,1169
+Stadium or playground or football field or tenis or basketball,9338,0,9338,1401
+Forest,10168,0,10168,1525
+town or Residential,10629,0,10629,1594
+Farmland + pasture +agriculture Land + vegetable plot,12449,0,12449,1867

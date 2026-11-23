@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "clean_images": 241435,
+  "clean_classes": 75,
+  "clean_topup_generated": 2815,
+  "clean_originals": 200183,
+  "clean_augmented": 41252,
+  "clean_orphan_augmented": 390,
+  "raw_images": 216472,
+  "raw_classes": 132,
+  "raw_dropped_small_classes": []
+}

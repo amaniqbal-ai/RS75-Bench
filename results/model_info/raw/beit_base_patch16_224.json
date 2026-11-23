@@ -1,0 +1,9 @@
+{
+  "model": "beit_base_patch16_224.in22k_ft_in22k_in1k",
+  "dim": 768,
+  "n": 216472,
+  "params_m": 85.76,
+  "input_size": 224,
+  "extract_seconds": 281.5,
+  "gpu_images_per_s": 1174.5
+}

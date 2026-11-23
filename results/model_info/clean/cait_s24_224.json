@@ -1,0 +1,9 @@
+{
+  "model": "cait_s24_224.fb_dist_in1k",
+  "dim": 384,
+  "n": 200183,
+  "params_m": 46.53,
+  "input_size": 224,
+  "extract_seconds": 389.7,
+  "gpu_images_per_s": 678.4
+}

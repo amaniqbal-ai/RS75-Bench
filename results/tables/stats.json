@@ -1,0 +1,11 @@
+{
+  "cnn_vs_vit_macroF1_mannwhitney_p": 0.7557428276359095,
+  "cnn_mean_f1": 0.8757386606622232,
+  "vit_mean_f1": 0.8664003366392035,
+  "kendall_tau_clean_vs_raw": 0.911111111111111,
+  "kendall_p": 2.9761904761904762e-05,
+  "silhouette_clean_mean": 0.053353947593132035,
+  "silhouette_raw_mean": -0.04302517923060804,
+  "models_where_clean_labels_cluster_better": 40,
+  "models_with_silhouette": 40
+}

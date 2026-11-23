@@ -1,0 +1,9 @@
+{
+  "model": "resnet50.a1_in1k",
+  "dim": 2048,
+  "n": 200183,
+  "params_m": 23.51,
+  "input_size": 224,
+  "extract_seconds": 181.5,
+  "gpu_images_per_s": 2355.9
+}

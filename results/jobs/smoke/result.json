@@ -1,0 +1,208 @@
+{
+  "device": "cuda",
+  "gpus": 1,
+  "models": {
+    "tf_efficientnet_b7.ns_jft_in1k": {
+      "ok": true,
+      "dim": 2560,
+      "input": 600
+    },
+    "resnetv2_50.a1h_in1k": {
+      "ok": true,
+      "dim": 2048,
+      "input": 224
+    },
+    "resnet101.a1h_in1k": {
+      "ok": true,
+      "dim": 2048,
+      "input": 224
+    },
+    "convnext_base.fb_in22k_ft_in1k": {
+      "ok": true,
+      "dim": 1024,
+      "input": 224
+    },
+    "convnext_small.fb_in22k_ft_in1k": {
+      "ok": true,
+      "dim": 768,
+      "input": 224
+    },
+    "densenet121.tv_in1k": {
+      "ok": true,
+      "dim": 1024,
+      "input": 224
+    },
+    "efficientnet_b3.ra2_in1k": {
+      "ok": true,
+      "dim": 1536,
+      "input": 288
+    },
+    "convnext_tiny.fb_in22k_ft_in1k": {
+      "ok": true,
+      "dim": 768,
+      "input": 224
+    },
+    "resnet152.a1h_in1k": {
+      "ok": true,
+      "dim": 2048,
+      "input": 224
+    },
+    "resnet50.a1_in1k": {
+      "ok": true,
+      "dim": 2048,
+      "input": 224
+    },
+    "densenet201.tv_in1k": {
+      "ok": true,
+      "dim": 1920,
+      "input": 224
+    },
+    "xception71.tf_in1k": {
+      "ok": true,
+      "dim": 2048,
+      "input": 299
+    },
+    "vgg19.tv_in1k": {
+      "ok": true,
+      "dim": 4096,
+      "input": 224
+    },
+    "densenet169.tv_in1k": {
+      "ok": true,
+      "dim": 1664,
+      "input": 224
+    },
+    "efficientnet_b0.ra_in1k": {
+      "ok": true,
+      "dim": 1280,
+      "input": 224
+    },
+    "mobilenetv3_large_100.ra_in1k": {
+      "ok": true,
+      "dim": 1280,
+      "input": 224
+    },
+    "regnety_032.ra_in1k": {
+      "ok": true,
+      "dim": 1512,
+      "input": 224
+    },
+    "vgg16.tv_in1k": {
+      "ok": true,
+      "dim": 4096,
+      "input": 224
+    },
+    "resnet34.a1_in1k": {
+      "ok": true,
+      "dim": 512,
+      "input": 224
+    },
+    "mobilenetv3_small_100.lamb_in1k": {
+      "ok": true,
+      "dim": 1024,
+      "input": 224
+    },
+    "vit_large_patch16_224.augreg_in21k_ft_in1k": {
+      "ok": true,
+      "dim": 1024,
+      "input": 224
+    },
+    "swin_small_patch4_window7_224.ms_in22k_ft_in1k": {
+      "ok": true,
+      "dim": 768,
+      "input": 224
+    },
+    "swin_tiny_patch4_window7_224.ms_in1k": {
+      "ok": true,
+      "dim": 768,
+      "input": 224
+    },
+    "swin_base_patch4_window7_224.ms_in22k_ft_in1k": {
+      "ok": true,
+      "dim": 1024,
+      "input": 224
+    },
+    "vit_base_patch16_224.augreg2_in21k_ft_in1k": {
+      "ok": true,
+      "dim": 768,
+      "input": 224
+    },
+    "deit_base_patch16_224.fb_in1k": {
+      "ok": true,
+      "dim": 768,
+      "input": 224
+    },
+    "beitv2_base_patch16_224.in1k_ft_in22k_in1k": {
+      "ok": true,
+      "dim": 768,
+      "input": 224
+    },
+    "beit_base_patch16_224.in22k_ft_in22k_in1k": {
+      "ok": true,
+      "dim": 768,
+      "input": 224
+    },
+    "vit_small_patch16_224.augreg_in21k_ft_in1k": {
+      "ok": true,
+      "dim": 384,
+      "input": 224
+    },
+    "twins_pcpvt_small.in1k": {
+      "ok": true,
+      "dim": 512,
+      "input": 224
+    },
+    "coat_lite_mini.in1k": {
+      "ok": true,
+      "dim": 512,
+      "input": 224
+    },
+    "cait_xxs24_224.fb_dist_in1k": {
+      "ok": true,
+      "dim": 192,
+      "input": 224
+    },
+    "vit_base_patch16_clip_224.openai": {
+      "ok": true,
+      "dim": 768,
+      "input": 224
+    },
+    "cait_s24_224.fb_dist_in1k": {
+      "ok": true,
+      "dim": 384,
+      "input": 224
+    },
+    "pvt_v2_b2.in1k": {
+      "ok": true,
+      "dim": 512,
+      "input": 224
+    },
+    "crossvit_tiny_240.in1k": {
+      "ok": true,
+      "dim": 288,
+      "input": 240
+    },
+    "deit_tiny_patch16_224.fb_in1k": {
+      "ok": true,
+      "dim": 192,
+      "input": 224
+    },
+    "vit_small_patch14_dinov2.lvd142m": {
+      "ok": true,
+      "dim": 384,
+      "input": 518
+    },
+    "vit_tiny_patch16_224.augreg_in21k_ft_in1k": {
+      "ok": true,
+      "dim": 192,
+      "input": 224
+    },
+    "deit_small_patch16_224.fb_in1k": {
+      "ok": true,
+      "dim": 384,
+      "input": 224
+    }
+  },
+  "problems": [],
+  "failed_models": []
+}

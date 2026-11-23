@@ -1,0 +1,9 @@
+{
+  "model": "mobilenetv3_small_100.lamb_in1k",
+  "dim": 1024,
+  "n": 200183,
+  "params_m": 1.52,
+  "input_size": 224,
+  "extract_seconds": 141.0,
+  "gpu_images_per_s": 20486.9
+}

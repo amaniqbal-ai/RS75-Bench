@@ -1,0 +1,14 @@
+# never commit secrets or large files
+hf_token.txt
+rclone.conf
+notify.txt
+*.pt
+*.zip
+runtime/
+features/
+data/datasets_initail/
+data/upload_package/
+logs/
+state/
+COLLECT_OUTPUT/
+__pycache__/

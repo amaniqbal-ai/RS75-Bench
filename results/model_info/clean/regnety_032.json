@@ -1,0 +1,9 @@
+{
+  "model": "regnety_032.ra_in1k",
+  "dim": 1512,
+  "n": 200183,
+  "params_m": 17.92,
+  "input_size": 224,
+  "extract_seconds": 194.2,
+  "gpu_images_per_s": 2078.2
+}

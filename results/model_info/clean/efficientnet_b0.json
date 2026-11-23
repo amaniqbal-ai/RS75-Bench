@@ -1,0 +1,9 @@
+{
+  "model": "efficientnet_b0.ra_in1k",
+  "dim": 1280,
+  "n": 200183,
+  "params_m": 4.01,
+  "input_size": 224,
+  "extract_seconds": 149.2,
+  "gpu_images_per_s": 5001.2
+}

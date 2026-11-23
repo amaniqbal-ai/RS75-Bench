@@ -1,0 +1,9 @@
+{
+  "model": "vgg19.tv_in1k",
+  "dim": 4096,
+  "n": 200183,
+  "params_m": 139.57,
+  "input_size": 224,
+  "extract_seconds": 273.4,
+  "gpu_images_per_s": 1295.4
+}

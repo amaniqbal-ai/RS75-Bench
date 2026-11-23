@@ -1,0 +1,9 @@
+{
+  "model": "xception71.tf_in1k",
+  "dim": 2048,
+  "n": 200183,
+  "params_m": 40.29,
+  "input_size": 299,
+  "extract_seconds": 515.9,
+  "gpu_images_per_s": 539.6
+}

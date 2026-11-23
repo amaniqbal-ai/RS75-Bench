@@ -1,0 +1,9 @@
+{
+  "model": "densenet121.tv_in1k",
+  "dim": 1024,
+  "n": 216472,
+  "params_m": 6.95,
+  "input_size": 224,
+  "extract_seconds": 228.0,
+  "gpu_images_per_s": 1917.6
+}

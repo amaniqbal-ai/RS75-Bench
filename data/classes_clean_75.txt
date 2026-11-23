@@ -1,0 +1,75 @@
+AirPlane
+Airport
+Beach
+Bridge
+Commercial
+Desert
+Farmland + pasture +agriculture Land + vegetable plot
+Forest
+Fork_Road
+Grass Art+real or meadow
+Industrial
+Leisure(Resort+Coastal mansion)
+Mountain
+Park
+Parking_partial or fully occupied
+Pond or Lake
+Port
+River_Protection_Forest
+Ships in the Sea  or port
+Sparse_Forest
+Stadium or playground or football field or tenis or basketball
+Tower
+Turning_Circle and closed_road
+airport_runway
+avenue
+bare_land
+baseballdiamond or field
+buildings
+cemetery
+center
+chaparral
+christmas_tree_farm
+cloud
+construction site
+crossroads or intersection
+dam
+dry_farm
+golfcourse
+graff
+highway or freeway or city road
+hirst
+island
+lakeshore
+mangrove
+marina_harbor
+mobile_home_park
+nursing_home
+oil_gas_field
+oil_well
+overpass and viaduct
+parking_space
+pipeline
+plastic greenhouse
+railwayStation or railway
+river
+roundabout
+sapling
+sea
+sea_ice
+sewage plant-type-one
+sewage plant-type-two
+shrubwood
+snow_mountain
+solar power station
+sparseresidential
+square
+storage land or containers
+storage or oil tanks
+stream
+swimming_pool
+terrace farming
+thermal power plant
+town or Residential
+transformer_station
+wetland

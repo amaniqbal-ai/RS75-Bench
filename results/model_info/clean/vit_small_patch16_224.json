@@ -1,0 +1,9 @@
+{
+  "model": "vit_small_patch16_224.augreg_in21k_ft_in1k",
+  "dim": 384,
+  "n": 200183,
+  "params_m": 21.67,
+  "input_size": 224,
+  "extract_seconds": 160.9,
+  "gpu_images_per_s": 3522.9
+}
