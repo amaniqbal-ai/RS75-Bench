@@ -1,0 +1,3001 @@
+x,y,clean_label,raw_label,source
+15.818015,24.695171,Pond or Lake,river_lake,08_RSSCN7
+26.177687,6.974328,Pond or Lake,lake,07_NWPU_RESISC45
+15.216321,22.081577,Pond or Lake,lake,07_NWPU_RESISC45
+14.629904,20.673306,Pond or Lake,pond,RSITMD
+12.297269,20.85729,Pond or Lake,lake,07_NWPU_RESISC45
+9.477981,15.659751,Pond or Lake,pond,11_SIRI_WHU
+12.864491,19.339153,Pond or Lake,lake,07_NWPU_RESISC45
+-7.713075,14.922095,Pond or Lake,pond,RSITMD
+8.330943,19.95602,Pond or Lake,river_lake,08_RSSCN7
+12.584972,21.128061,Pond or Lake,lake,07_NWPU_RESISC45
+8.254337,19.80914,Pond or Lake,river_lake,08_RSSCN7
+11.50523,23.271593,Pond or Lake,lake,07_NWPU_RESISC45
+7.8075075,13.996813,Pond or Lake,lake,07_NWPU_RESISC45
+-5.0784965,17.599699,Pond or Lake,pond,RSITMD
+11.62012,19.78635,Pond or Lake,lake,07_NWPU_RESISC45
+26.21842,6.96469,Pond or Lake,lake,07_NWPU_RESISC45
+-5.1034403,17.5665,Pond or Lake,pond,RSITMD
+8.745238,20.491768,Pond or Lake,river_lake,08_RSSCN7
+2.7968512,12.668475,Pond or Lake,pond,RSITMD
+18.122086,17.329432,Pond or Lake,lake,07_NWPU_RESISC45
+-6.49676,15.645597,Pond or Lake,river_lake,08_RSSCN7
+18.497665,17.548588,Pond or Lake,lake,07_NWPU_RESISC45
+2.289856,-1.2282465,Pond or Lake,pond,RSD46-WHU
+-7.182152,15.402915,Pond or Lake,pond,RSITMD
+9.700005,16.28375,Pond or Lake,lake,07_NWPU_RESISC45
+-2.90521,12.524857,Pond or Lake,pond,11_SIRI_WHU
+-5.1932664,17.458021,Pond or Lake,pond,WHU-RS19
+18.334501,20.506111,Pond or Lake,lake,07_NWPU_RESISC45
+12.933857,19.856447,Pond or Lake,pond,RSITMD
+14.993675,20.822777,Pond or Lake,lake,07_NWPU_RESISC45
+-0.5136281,10.115322,Pond or Lake,pond,RSITMD
+7.6575255,1.9896431,Pond or Lake,pond,RSITMD
+16.698349,23.076696,Pond or Lake,river_lake,08_RSSCN7
+18.338797,17.48299,Pond or Lake,lake,07_NWPU_RESISC45
+15.383256,22.90899,Pond or Lake,pond,RSD46-WHU
+-8.93983,14.756162,Pond or Lake,pond,RSD46-WHU
+1.6242423,16.678852,Pond or Lake,lake,07_NWPU_RESISC45
+14.742519,20.645718,Pond or Lake,lake,07_NWPU_RESISC45
+13.367269,20.210869,Pond or Lake,lake,07_NWPU_RESISC45
+-2.7572365,9.173159,Pond or Lake,lake,07_NWPU_RESISC45
+9.505686,55.946487,mangrove,woodland,01_RSI_CB128
+7.1766405,59.289833,mangrove,woodland,01_RSI_CB128
+7.982686,57.1338,mangrove,woodland,01_RSI_CB128
+7.9660025,55.85498,mangrove,woodland,01_RSI_CB128
+8.736792,59.059254,mangrove,mangrove,09_RSI-CB256
+7.7179384,58.27209,mangrove,woodland,01_RSI_CB128
+8.2590275,55.981823,mangrove,woodland,01_RSI_CB128
+9.395224,59.314915,mangrove,mangrove,09_RSI-CB256
+7.580877,56.438213,mangrove,woodland,01_RSI_CB128
+8.545257,54.878323,mangrove,woodland,01_RSI_CB128
+8.491044,54.779026,mangrove,woodland,01_RSI_CB128
+7.1461616,58.021633,mangrove,woodland,01_RSI_CB128
+5.69196,58.26346,mangrove,woodland,01_RSI_CB128
+8.210056,60.11194,mangrove,woodland,01_RSI_CB128
+7.078889,57.323097,mangrove,woodland,01_RSI_CB128
+9.191445,58.649593,mangrove,mangrove,09_RSI-CB256
+8.313782,58.27869,mangrove,woodland,01_RSI_CB128
+9.110465,58.332943,mangrove,mangrove,09_RSI-CB256
+9.130049,55.988213,mangrove,woodland,01_RSI_CB128
+9.797649,57.102245,mangrove,mangrove,09_RSI-CB256
+8.98661,59.181747,mangrove,mangrove,09_RSI-CB256
+7.0472436,59.7928,mangrove,woodland,01_RSI_CB128
+8.26229,60.2063,mangrove,woodland,01_RSI_CB128
+5.695527,58.307323,mangrove,woodland,01_RSI_CB128
+8.203581,56.66196,mangrove,woodland,01_RSI_CB128
+9.367301,57.392056,mangrove,mangrove,09_RSI-CB256
+6.2846794,58.11286,mangrove,woodland,01_RSI_CB128
+9.806141,57.07476,mangrove,mangrove,09_RSI-CB256
+9.45367,57.968243,mangrove,mangrove,09_RSI-CB256
+8.9209385,60.54861,mangrove,woodland,01_RSI_CB128
+8.913018,59.775078,mangrove,mangrove,09_RSI-CB256
+7.809504,57.623264,mangrove,woodland,01_RSI_CB128
+9.7704315,57.950382,mangrove,mangrove,09_RSI-CB256
+8.019612,59.019375,mangrove,woodland,01_RSI_CB128
+8.326913,56.5938,mangrove,woodland,01_RSI_CB128
+9.404722,58.663994,mangrove,mangrove,09_RSI-CB256
+11.199802,60.255817,mangrove,mangrove,09_RSI-CB256
+10.868289,60.14104,mangrove,mangrove,09_RSI-CB256
+6.8545446,58.34989,mangrove,woodland,01_RSI_CB128
+10.203555,56.309277,mangrove,mangrove,09_RSI-CB256
+-6.9075603,-2.4022756,Farmland + pasture +agriculture Land + vegetable plot,agriculture,RSD46-WHU
+20.997742,-14.361236,Farmland + pasture +agriculture Land + vegetable plot,permanent_crop,03_EuroSAT
+20.839788,-14.096496,Farmland + pasture +agriculture Land + vegetable plot,permanent_crop,03_EuroSAT
+20.241026,-16.05073,Farmland + pasture +agriculture Land + vegetable plot,agriculture,03_EuroSAT
+23.339499,-13.1709585,Farmland + pasture +agriculture Land + vegetable plot,pasture,03_EuroSAT
+22.609537,-15.565682,Farmland + pasture +agriculture Land + vegetable plot,agriculture,03_EuroSAT
+4.749083,-6.241913,Farmland + pasture +agriculture Land + vegetable plot,agriculture,09_RSI-CB256
+23.005991,-12.875776,Farmland + pasture +agriculture Land + vegetable plot,pasture,03_EuroSAT
+23.367197,-15.615382,Farmland + pasture +agriculture Land + vegetable plot,agriculture,03_EuroSAT
+3.95127,-7.905022,Farmland + pasture +agriculture Land + vegetable plot,agriculture,01_RSI_CB128
+21.043776,-13.757119,Farmland + pasture +agriculture Land + vegetable plot,permanent_crop,03_EuroSAT
+20.459219,-11.458787,Farmland + pasture +agriculture Land + vegetable plot,pasture,03_EuroSAT
+3.18291,-7.596645,Farmland + pasture +agriculture Land + vegetable plot,agriculture,09_RSI-CB256
+20.436815,-13.040396,Farmland + pasture +agriculture Land + vegetable plot,permanent_crop,03_EuroSAT
+7.511715,5.271259,Farmland + pasture +agriculture Land + vegetable plot,rectangular_farmland,07_NWPU_RESISC45
+20.301788,-14.596148,Farmland + pasture +agriculture Land + vegetable plot,permanent_crop,03_EuroSAT
+22.059399,-13.047407,Farmland + pasture +agriculture Land + vegetable plot,pasture,03_EuroSAT
+22.183186,-10.763029,Farmland + pasture +agriculture Land + vegetable plot,pasture,03_EuroSAT
+22.262459,-11.804013,Farmland + pasture +agriculture Land + vegetable plot,pasture,03_EuroSAT
+22.095257,-15.04763,Farmland + pasture +agriculture Land + vegetable plot,agriculture,03_EuroSAT
+23.189882,-15.988396,Farmland + pasture +agriculture Land + vegetable plot,agriculture,03_EuroSAT
+23.48384,-14.178447,Farmland + pasture +agriculture Land + vegetable plot,agriculture,03_EuroSAT
+5.813587,7.3455625,Farmland + pasture +agriculture Land + vegetable plot,rectangular_farmland,07_NWPU_RESISC45
+4.344785,2.4158738,Farmland + pasture +agriculture Land + vegetable plot,vegetable_plot,RSD46-WHU
+21.899408,-12.100483,Farmland + pasture +agriculture Land + vegetable plot,pasture,03_EuroSAT
+20.719828,-14.715078,Farmland + pasture +agriculture Land + vegetable plot,agriculture,03_EuroSAT
+21.843264,-15.46339,Farmland + pasture +agriculture Land + vegetable plot,agriculture,03_EuroSAT
+24.8051,-9.518223,Farmland + pasture +agriculture Land + vegetable plot,agriculture,03_EuroSAT
+22.073076,-15.47989,Farmland + pasture +agriculture Land + vegetable plot,agriculture,03_EuroSAT
+4.4942727,-3.6619906,Farmland + pasture +agriculture Land + vegetable plot,agriculture,RSD46-WHU
+4.758825,-6.2767086,Farmland + pasture +agriculture Land + vegetable plot,agriculture,11_SIRI_WHU
+21.523802,-12.419321,Farmland + pasture +agriculture Land + vegetable plot,pasture,03_EuroSAT
+8.824236,7.633876,Farmland + pasture +agriculture Land + vegetable plot,agriculture,RSD46-WHU
+7.557529,5.75693,Farmland + pasture +agriculture Land + vegetable plot,agriculture,RSD46-WHU
+4.538752,-7.4826837,Farmland + pasture +agriculture Land + vegetable plot,agriculture,09_RSI-CB256
+21.303404,-11.010092,Farmland + pasture +agriculture Land + vegetable plot,pasture,03_EuroSAT
+19.74713,-11.765426,Farmland + pasture +agriculture Land + vegetable plot,pasture,03_EuroSAT
+1.7431341,16.104616,Farmland + pasture +agriculture Land + vegetable plot,agriculture,06_AID
+2.9469364,-7.6258516,Farmland + pasture +agriculture Land + vegetable plot,agriculture,01_RSI_CB128
+-4.4299135,-19.519781,Farmland + pasture +agriculture Land + vegetable plot,rectangular_farmland,07_NWPU_RESISC45
+-27.780128,-37.905884,solar power station,solar_panel,05_PatternNet
+-29.337465,-32.597595,solar power station,solar_power_station,RSD46-WHU
+-25.626715,-38.237938,solar power station,solar_panel,05_PatternNet
+-25.749046,-38.481735,solar power station,solar_panel,05_PatternNet
+-25.570576,-35.781258,solar power station,solar_panel,05_PatternNet
+-24.895258,-34.662853,solar power station,solar_panel,05_PatternNet
+-25.503603,-39.177326,solar power station,solar_panel,05_PatternNet
+-26.9722,-33.51143,solar power station,solar_power_station,RSD46-WHU
+-29.21857,-35.424606,solar power station,solar_power_station,RSD46-WHU
+-25.541069,-35.471252,solar power station,solar_panel,05_PatternNet
+-28.404041,-38.52788,solar power station,solar_power_station,RSD46-WHU
+-26.537266,-38.397293,solar power station,solar_panel,05_PatternNet
+-21.459385,9.135303,solar power station,solar_panel,05_PatternNet
+-37.430046,-38.458405,solar power station,solar_power_station,RSD46-WHU
+-18.480986,-32.559597,solar power station,solar_power_station,RSD46-WHU
+-26.67704,-37.500668,solar power station,solar_panel,05_PatternNet
+-29.506111,-34.42362,solar power station,solar_power_station,RSD46-WHU
+-29.066185,-36.304047,solar power station,solar_power_station,RSD46-WHU
+-19.706656,-3.272741,solar power station,solar_power_station,RSD46-WHU
+-25.50945,-37.891777,solar power station,solar_panel,05_PatternNet
+-32.60465,-37.25815,solar power station,solar_power_station,RSD46-WHU
+-29.457537,-34.603443,solar power station,solar_power_station,RSD46-WHU
+-32.637497,-37.28992,solar power station,solar_power_station,RSD46-WHU
+-29.09508,-35.06305,solar power station,solar_power_station,RSD46-WHU
+-35.298115,-33.772083,solar power station,solar_power_station,RSD46-WHU
+-27.332869,-36.48091,solar power station,solar_power_station,RSD46-WHU
+-27.683655,-37.852627,solar power station,solar_panel,05_PatternNet
+-25.821035,-38.221497,solar power station,solar_panel,05_PatternNet
+-27.276169,13.722182,solar power station,solar_panel,05_PatternNet
+-26.19988,-36.418617,solar power station,solar_panel,05_PatternNet
+-27.601114,-37.760433,solar power station,solar_panel,05_PatternNet
+-26.294636,-36.78056,solar power station,solar_panel,05_PatternNet
+-24.901365,-37.157455,solar power station,solar_panel,05_PatternNet
+-25.946863,-38.939117,solar power station,solar_panel,05_PatternNet
+-29.084135,-35.892315,solar power station,solar_power_station,RSD46-WHU
+-24.536587,-37.23463,solar power station,solar_panel,05_PatternNet
+-32.625393,-37.257473,solar power station,solar_power_station,RSD46-WHU
+-23.932129,-38.84907,solar power station,solar_panel,05_PatternNet
+-29.044704,-36.491093,solar power station,solar_power_station,RSD46-WHU
+-27.378162,-37.68729,solar power station,solar_panel,05_PatternNet
+-4.8349166,12.4944,Park,park,RSITMD
+-7.659757,12.52171,Park,park,WHU-RS19
+-8.9525175,16.149765,Park,park,RSITMD
+-11.353355,10.392293,Park,park,CLRS
+-7.3252344,8.728959,Park,park,CLRS
+0.33984178,14.284287,Park,park,CLRS
+-12.361759,3.2095807,Park,park,11_SIRI_WHU
+-13.607751,8.419081,Park,park,11_SIRI_WHU
+-14.76301,5.633832,Park,park,CLRS
+-10.790082,13.887435,Park,park,RSITMD
+-11.156264,13.5037365,Park,park,RSITMD
+-5.95045,-2.5401778,Park,park,11_SIRI_WHU
+-12.783537,10.721306,Park,park,CLRS
+-7.4091463,12.43595,Park,park,RSITMD
+-8.680988,16.62742,Park,park,11_SIRI_WHU
+-4.4677787,-10.157259,Park,park,11_SIRI_WHU
+-20.692348,-1.3397856,Park,park,CLRS
+-9.924174,12.74981,Park,park,WHU-RS19
+-7.5768337,8.761993,Park,park,CLRS
+6.899267,13.8800335,Park,park,CLRS
+-26.322252,11.9013815,Park,park,WHU-RS19
+-4.3690143,13.71148,Park,park,RSITMD
+0.07608788,14.389897,Park,park,CLRS
+-12.825303,10.871306,Park,park,CLRS
+-6.594135,10.374264,Park,park,CLRS
+-4.6926146,10.290885,Park,park,CLRS
+-2.735128,19.674957,Park,park,CLRS
+-8.198122,13.445457,Park,park,WHU-RS19
+-14.83494,4.864725,Park,park,CLRS
+6.3230643,10.996538,Park,park,CLRS
+-1.8483417,11.159756,Park,park,CLRS
+-13.389675,1.3806349,Park,park,CLRS
+-8.774649,12.80418,Park,park,RSITMD
+2.1064413,2.0405195,Park,park,11_SIRI_WHU
+-10.412405,9.800888,Park,park,CLRS
+-10.420794,11.842842,Park,park,RSITMD
+-6.3313575,-2.9939008,Park,park,CLRS
+6.1102743,32.195526,Park,park,CLRS
+4.4962916,9.999568,Park,park,11_SIRI_WHU
+-13.365678,9.418704,Park,park,CLRS
+-4.8064528,24.631443,golfcourse,golf_course,05_PatternNet
+-6.1318254,26.145603,golfcourse,golf_course,05_PatternNet
+-5.4439616,22.624634,golfcourse,golf_course,07_NWPU_RESISC45
+-4.5458612,24.921078,golfcourse,golf_course,05_PatternNet
+-12.062924,11.568416,golfcourse,golf_course,07_NWPU_RESISC45
+-7.030487,21.947786,golfcourse,golf_course,07_NWPU_RESISC45
+-5.4410315,25.960089,golfcourse,golf_course,05_PatternNet
+8.954738,17.69143,golfcourse,golf_course,CLRS
+-5.4255314,21.060194,golfcourse,golf_course,07_NWPU_RESISC45
+-6.0393205,26.26026,golfcourse,golf_course,05_PatternNet
+-3.7635124,24.966202,golfcourse,golf_course,UCMerced_LandUse
+-6.091306,23.594534,golfcourse,golf_course,07_NWPU_RESISC45
+10.924573,12.187958,golfcourse,golf_course,CLRS
+-5.555214,21.525711,golfcourse,golf_course,07_NWPU_RESISC45
+-4.1626363,24.463419,golfcourse,golf_course,05_PatternNet
+25.241793,-29.512318,golfcourse,golf_course,05_PatternNet
+11.184633,20.448467,golfcourse,golf_course,CLRS
+-4.1529975,26.236292,golfcourse,golf_course,05_PatternNet
+-5.9750485,21.91626,golfcourse,golf_course,07_NWPU_RESISC45
+-5.778187,23.111982,golfcourse,golf_course,07_NWPU_RESISC45
+-4.495647,25.84759,golfcourse,golf_course,05_PatternNet
+-5.9427342,26.00139,golfcourse,golf_course,05_PatternNet
+-6.6470737,25.315407,golfcourse,golf_course,05_PatternNet
+-5.6877832,25.76858,golfcourse,golf_course,05_PatternNet
+1.0353866,14.304815,golfcourse,golf_course,CLRS
+2.0759904,15.887256,golfcourse,golf_course,CLRS
+3.1094544,12.201619,golfcourse,golf_course,CLRS
+-4.733078,25.52623,golfcourse,golf_course,05_PatternNet
+-7.1850033,21.97268,golfcourse,golf_course,07_NWPU_RESISC45
+11.1832485,12.506102,golfcourse,golf_course,CLRS
+-5.178097,20.383177,golfcourse,golf_course,07_NWPU_RESISC45
+-6.246145,24.78469,golfcourse,golf_course,05_PatternNet
+10.076318,13.934182,golfcourse,golf_course,CLRS
+-5.028419,20.424994,golfcourse,golf_course,07_NWPU_RESISC45
+-6.4166694,24.287851,golfcourse,golf_course,05_PatternNet
+-10.630552,11.6472225,golfcourse,golf_course,CLRS
+-6.392082,22.004908,golfcourse,golf_course,07_NWPU_RESISC45
+-5.825572,23.234386,golfcourse,golf_course,07_NWPU_RESISC45
+-5.753489,19.895735,golfcourse,golf_course,07_NWPU_RESISC45
+2.116163,14.1000185,golfcourse,golf_course,CLRS
+-22.688166,14.290258,nursing_home,nursing_home,05_PatternNet
+-22.159012,15.374591,nursing_home,nursing_home,05_PatternNet
+-24.119047,14.969802,nursing_home,nursing_home,05_PatternNet
+-28.543808,5.8928103,nursing_home,nursing_home,05_PatternNet
+-26.234509,10.253381,nursing_home,nursing_home,05_PatternNet
+-28.322527,8.66712,nursing_home,nursing_home,05_PatternNet
+-22.197569,16.598219,nursing_home,nursing_home,05_PatternNet
+-28.07509,7.792911,nursing_home,nursing_home,05_PatternNet
+-25.331316,8.447495,nursing_home,nursing_home,05_PatternNet
+-25.338877,8.615571,nursing_home,nursing_home,05_PatternNet
+-26.413656,7.283702,nursing_home,nursing_home,05_PatternNet
+-28.151932,6.951776,nursing_home,nursing_home,05_PatternNet
+-26.933083,8.393782,nursing_home,nursing_home,05_PatternNet
+-20.492107,13.382145,nursing_home,nursing_home,05_PatternNet
+-26.615622,8.320787,nursing_home,nursing_home,05_PatternNet
+-23.7135,12.145279,nursing_home,nursing_home,05_PatternNet
+-27.235434,7.9186115,nursing_home,nursing_home,05_PatternNet
+-27.500834,8.647371,nursing_home,nursing_home,05_PatternNet
+-26.548098,10.234541,nursing_home,nursing_home,05_PatternNet
+-22.302982,15.206798,nursing_home,nursing_home,05_PatternNet
+-28.404379,8.8286705,nursing_home,nursing_home,05_PatternNet
+-19.896881,13.444605,nursing_home,nursing_home,05_PatternNet
+-28.111681,7.7350426,nursing_home,nursing_home,05_PatternNet
+-26.00263,13.270934,nursing_home,nursing_home,05_PatternNet
+-25.448318,10.348212,nursing_home,nursing_home,05_PatternNet
+-22.484186,12.505685,nursing_home,nursing_home,05_PatternNet
+-22.915913,10.909217,nursing_home,nursing_home,05_PatternNet
+-26.269299,10.753036,nursing_home,nursing_home,05_PatternNet
+-24.486238,14.871674,nursing_home,nursing_home,05_PatternNet
+-16.081379,16.455816,nursing_home,nursing_home,05_PatternNet
+-24.197533,9.7998295,nursing_home,nursing_home,05_PatternNet
+-26.736883,6.6068716,nursing_home,nursing_home,05_PatternNet
+-26.275385,8.02445,nursing_home,nursing_home,05_PatternNet
+-27.614368,7.015337,nursing_home,nursing_home,05_PatternNet
+-28.21858,8.020099,nursing_home,nursing_home,05_PatternNet
+-24.531052,12.207846,nursing_home,nursing_home,05_PatternNet
+-20.79004,19.584866,nursing_home,nursing_home,05_PatternNet
+-21.780516,15.234456,nursing_home,nursing_home,05_PatternNet
+-28.170465,6.8038063,nursing_home,nursing_home,05_PatternNet
+-26.646702,9.604378,nursing_home,nursing_home,05_PatternNet
+25.288029,40.697174,highway or freeway or city road,transportation,01_RSI_CB128
+17.918884,-10.694037,highway or freeway or city road,highway,03_EuroSAT
+-21.887697,-16.997389,highway or freeway or city road,highway,07_NWPU_RESISC45
+17.35629,-11.426018,highway or freeway or city road,highway,03_EuroSAT
+18.354939,-11.68426,highway or freeway or city road,highway,03_EuroSAT
+-21.663313,-15.471885,highway or freeway or city road,highway,07_NWPU_RESISC45
+-19.740719,-23.779436,highway or freeway or city road,transportation,01_RSI_CB128
+-21.197138,-14.8788185,highway or freeway or city road,highway,07_NWPU_RESISC45
+16.712248,-11.2726,highway or freeway or city road,highway,03_EuroSAT
+-23.357286,-18.554369,highway or freeway or city road,highway,05_PatternNet
+18.666447,-12.835658,highway or freeway or city road,highway,03_EuroSAT
+25.462492,38.847725,highway or freeway or city road,transportation,01_RSI_CB128
+25.975847,39.2226,highway or freeway or city road,transportation,01_RSI_CB128
+-25.400906,-17.554455,highway or freeway or city road,highway,05_PatternNet
+17.574083,-13.732626,highway or freeway or city road,highway,03_EuroSAT
+-23.933455,-18.520334,highway or freeway or city road,highway,05_PatternNet
+26.55929,42.027447,highway or freeway or city road,transportation,01_RSI_CB128
+-0.37123588,-11.182738,highway or freeway or city road,transportation,01_RSI_CB128
+-23.078049,-18.391052,highway or freeway or city road,highway,05_PatternNet
+16.961876,-10.395348,highway or freeway or city road,highway,03_EuroSAT
+19.285212,-11.702346,highway or freeway or city road,highway,03_EuroSAT
+-7.6675286,-10.771654,highway or freeway or city road,highway,CLRS
+17.363731,-12.540171,highway or freeway or city road,highway,03_EuroSAT
+19.35556,-10.299129,highway or freeway or city road,highway,03_EuroSAT
+-6.549294,-10.806055,highway or freeway or city road,highway,CLRS
+17.93148,-12.396963,highway or freeway or city road,highway,03_EuroSAT
+17.49285,-14.004161,highway or freeway or city road,highway,03_EuroSAT
+-13.969218,-13.876668,highway or freeway or city road,highway,07_NWPU_RESISC45
+25.583614,39.818466,highway or freeway or city road,transportation,01_RSI_CB128
+-36.150253,-6.3422155,highway or freeway or city road,highway,07_NWPU_RESISC45
+25.481924,41.950077,highway or freeway or city road,transportation,01_RSI_CB128
+-5.060805,-9.204719,highway or freeway or city road,highway,CLRS
+-23.076176,-18.835148,highway or freeway or city road,highway,05_PatternNet
+25.630058,39.66645,highway or freeway or city road,transportation,01_RSI_CB128
+-22.059416,-15.799443,highway or freeway or city road,highway,07_NWPU_RESISC45
+-37.918865,-4.544837,highway or freeway or city road,transportation,01_RSI_CB128
+-23.372095,-18.405943,highway or freeway or city road,highway,05_PatternNet
+26.247839,38.957283,highway or freeway or city road,transportation,01_RSI_CB128
+22.82455,-12.543538,highway or freeway or city road,highway,03_EuroSAT
+-7.2554865,-9.988984,highway or freeway or city road,highway,07_NWPU_RESISC45
+-27.243137,-7.533201,overpass and viaduct,viaduct,06_AID
+-23.432585,-21.154234,overpass and viaduct,transportation,01_RSI_CB128
+-21.28212,-6.9571943,overpass and viaduct,viaduct,06_AID
+-22.892881,-11.744965,overpass and viaduct,overpass,CLRS
+-2.7250454,-32.125687,overpass and viaduct,transportation,01_RSI_CB128
+-26.147205,-12.472492,overpass and viaduct,viaduct,06_AID
+-23.933834,-16.987879,overpass and viaduct,overpass,UCMerced_LandUse
+-21.653318,-8.430181,overpass and viaduct,overpass,RSD46-WHU
+-26.367062,-13.284988,overpass and viaduct,overpass,05_PatternNet
+-22.857866,-11.749213,overpass and viaduct,overpass,11_SIRI_WHU
+-23.575048,-9.613016,overpass and viaduct,overpass,07_NWPU_RESISC45
+-25.556713,-11.555923,overpass and viaduct,overpass,11_SIRI_WHU
+-24.436266,-14.46716,overpass and viaduct,overpass,07_NWPU_RESISC45
+-23.396103,-21.300575,overpass and viaduct,transportation,01_RSI_CB128
+-25.40027,-17.38175,overpass and viaduct,overpass,07_NWPU_RESISC45
+-25.289907,-10.662303,overpass and viaduct,viaduct,RSITMD
+-23.33984,-14.798699,overpass and viaduct,overpass,07_NWPU_RESISC45
+-24.545101,-11.129956,overpass and viaduct,overpass,07_NWPU_RESISC45
+-24.204395,-10.745659,overpass and viaduct,overpass,07_NWPU_RESISC45
+-25.8999,-10.184314,overpass and viaduct,viaduct,RSITMD
+-2.6918828,-32.094894,overpass and viaduct,transportation,01_RSI_CB128
+-24.655872,-11.992318,overpass and viaduct,overpass,CLRS
+-24.850603,-12.518566,overpass and viaduct,overpass,CLRS
+-23.780012,-10.275045,overpass and viaduct,overpass,07_NWPU_RESISC45
+-25.430826,-13.192891,overpass and viaduct,overpass,05_PatternNet
+-23.699026,-12.494699,overpass and viaduct,overpass,07_NWPU_RESISC45
+-25.881096,-12.960726,overpass and viaduct,overpass,05_PatternNet
+-25.174017,-9.976452,overpass and viaduct,overpass,05_PatternNet
+-26.0132,-10.286407,overpass and viaduct,viaduct,RSITMD
+-25.977425,-11.629787,overpass and viaduct,overpass,RSD46-WHU
+-25.35247,-13.757067,overpass and viaduct,transportation,01_RSI_CB128
+-24.086432,-15.895554,overpass and viaduct,overpass,05_PatternNet
+-24.990156,-15.006859,overpass and viaduct,overpass,05_PatternNet
+-23.244751,-13.031895,overpass and viaduct,overpass,07_NWPU_RESISC45
+-23.060694,-16.115831,overpass and viaduct,overpass,05_PatternNet
+-25.742376,-13.238634,overpass and viaduct,overpass,05_PatternNet
+-25.50383,-10.459319,overpass and viaduct,overpass,RSD46-WHU
+-21.365189,-14.707218,overpass and viaduct,overpass,CLRS
+-23.850061,-15.417328,overpass and viaduct,overpass,05_PatternNet
+-23.922497,-17.235477,overpass and viaduct,overpass,UCMerced_LandUse
+51.93884,-7.932222,Grass Art+real or meadow,woodland,01_RSI_CB128
+-4.2327294,-11.076109,Grass Art+real or meadow,meadow,11_SIRI_WHU
+-5.0102196,-10.706662,Grass Art+real or meadow,meadow,11_SIRI_WHU
+-8.185922,-15.456064,Grass Art+real or meadow,grassland,RSD46-WHU
+22.878809,-8.418489,Grass Art+real or meadow,herbaceous_vegetation,03_EuroSAT
+23.531635,-7.9087415,Grass Art+real or meadow,herbaceous_vegetation,03_EuroSAT
+52.091038,-7.3493137,Grass Art+real or meadow,woodland,01_RSI_CB128
+9.61655,23.564106,Grass Art+real or meadow,meadow,07_NWPU_RESISC45
+43.36894,0.6193058,Grass Art+real or meadow,herbaceous_vegetation,03_EuroSAT
+43.07277,0.43201593,Grass Art+real or meadow,herbaceous_vegetation,03_EuroSAT
+10.799848,23.801273,Grass Art+real or meadow,meadow,CLRS
+9.104889,22.936626,Grass Art+real or meadow,meadow,CLRS
+40.355755,3.8714497,Grass Art+real or meadow,herbaceous_vegetation,03_EuroSAT
+50.006184,-10.451288,Grass Art+real or meadow,woodland,01_RSI_CB128
+43.341927,1.3565742,Grass Art+real or meadow,herbaceous_vegetation,03_EuroSAT
+1.3361094,25.653034,Grass Art+real or meadow,grassland,08_RSSCN7
+51.716938,-8.119389,Grass Art+real or meadow,woodland,01_RSI_CB128
+-1.5494981,5.277779,Grass Art+real or meadow,grassland,RSD46-WHU
+23.201363,-7.6772532,Grass Art+real or meadow,herbaceous_vegetation,03_EuroSAT
+41.358047,0.9246868,Grass Art+real or meadow,herbaceous_vegetation,03_EuroSAT
+52.217632,-7.9686456,Grass Art+real or meadow,woodland,01_RSI_CB128
+44.185467,-16.434866,Grass Art+real or meadow,woodland,01_RSI_CB128
+1.4485521,25.358667,Grass Art+real or meadow,meadow,06_AID
+15.753903,1.6391939,Grass Art+real or meadow,artificial_grassland,09_RSI-CB256
+52.379044,-8.350247,Grass Art+real or meadow,woodland,01_RSI_CB128
+13.652871,17.901066,Grass Art+real or meadow,grassland,RSD46-WHU
+-11.262512,21.188393,Grass Art+real or meadow,artificial_grassland,09_RSI-CB256
+21.632421,26.187332,Grass Art+real or meadow,meadow,CLRS
+42.324413,0.9927538,Grass Art+real or meadow,herbaceous_vegetation,03_EuroSAT
+-42.558437,-4.150756,Grass Art+real or meadow,artificial_grassland,09_RSI-CB256
+44.248447,-16.429464,Grass Art+real or meadow,woodland,01_RSI_CB128
+40.349476,3.8691049,Grass Art+real or meadow,herbaceous_vegetation,03_EuroSAT
+23.167948,-7.907903,Grass Art+real or meadow,herbaceous_vegetation,03_EuroSAT
+43.298466,1.2918872,Grass Art+real or meadow,herbaceous_vegetation,03_EuroSAT
+5.9441853,6.5141892,Grass Art+real or meadow,meadow,CLRS
+42.33278,0.7507436,Grass Art+real or meadow,herbaceous_vegetation,03_EuroSAT
+9.781562,23.988398,Grass Art+real or meadow,meadow,07_NWPU_RESISC45
+42.98602,0.6434352,Grass Art+real or meadow,herbaceous_vegetation,03_EuroSAT
+15.793298,1.6139456,Grass Art+real or meadow,artificial_grassland,09_RSI-CB256
+4.7747493,2.1848373,Grass Art+real or meadow,meadow,07_NWPU_RESISC45
+-53.510735,4.3232,center,center,RSITMD
+-52.966095,5.439686,center,center,RSITMD
+-51.225594,7.9487944,center,center,RSITMD
+-53.020473,5.6139965,center,center,RSITMD
+-53.450657,4.3704653,center,center,RSITMD
+-17.30081,-14.233626,center,center,RSITMD
+-50.2723,9.966245,center,center,RSITMD
+-51.725567,7.232897,center,center,RSITMD
+-55.774765,4.0374694,center,center,RSITMD
+-50.003445,5.8015585,center,center,RSITMD
+-53.737885,3.9428606,center,center,RSITMD
+-20.723606,-0.66912544,center,center,RSITMD
+-49.86835,6.6438217,center,center,RSITMD
+-4.823111,-6.7189436,center,center,RSITMD
+-51.99291,5.940142,center,center,RSITMD
+-49.569187,5.7832966,center,center,RSITMD
+-29.100956,14.997375,center,center,RSITMD
+7.3149786,-40.11829,center,center,RSITMD
+-51.537186,6.8628335,center,center,RSITMD
+-50.180725,3.4171786,center,center,RSITMD
+-17.143787,-16.787834,center,center,RSITMD
+-10.136181,-4.8582234,center,center,RSITMD
+-48.201244,5.628614,center,center,RSITMD
+-52.849255,4.7550364,center,center,RSITMD
+-27.74561,2.3635902,center,center,RSITMD
+-27.330866,15.59032,center,center,RSITMD
+39.090378,-22.650164,center,center,RSITMD
+-22.473375,8.930991,center,center,RSITMD
+-39.06318,-16.906116,center,center,RSITMD
+-52.608784,6.5336742,center,center,RSITMD
+-51.719666,3.4920962,center,center,RSITMD
+-52.070126,5.7746744,center,center,RSITMD
+-52.77961,7.128172,center,center,RSITMD
+-27.062843,15.391811,center,center,RSITMD
+-51.174507,6.0999193,center,center,RSITMD
+-22.237436,0.17658103,center,center,RSITMD
+-50.41162,6.120612,center,center,RSITMD
+-52.233105,5.946624,center,center,RSITMD
+-51.71423,3.5392323,center,center,RSITMD
+-55.691944,4.0323563,center,center,RSITMD
+13.260932,9.600366,terrace farming,terrace,07_NWPU_RESISC45
+15.065127,8.504372,terrace farming,terrace,07_NWPU_RESISC45
+7.858387,4.678809,terrace farming,terrace,07_NWPU_RESISC45
+5.6782627,7.3653665,terrace farming,terrace,07_NWPU_RESISC45
+13.981153,7.797699,terrace farming,terrace,07_NWPU_RESISC45
+12.701359,11.128317,terrace farming,terrace,07_NWPU_RESISC45
+14.837915,7.1698008,terrace farming,terrace,07_NWPU_RESISC45
+17.219175,9.046316,terrace farming,terrace,07_NWPU_RESISC45
+4.6540565,4.1394925,terrace farming,terrace,07_NWPU_RESISC45
+14.811554,7.9953384,terrace farming,terrace,07_NWPU_RESISC45
+9.043154,6.2416124,terrace farming,terrace,07_NWPU_RESISC45
+14.991133,8.368297,terrace farming,terrace,07_NWPU_RESISC45
+5.1708055,4.4729314,terrace farming,terrace,07_NWPU_RESISC45
+17.15238,10.242048,terrace farming,terrace,07_NWPU_RESISC45
+15.777888,10.647144,terrace farming,terrace,07_NWPU_RESISC45
+12.993326,9.872448,terrace farming,terrace,07_NWPU_RESISC45
+7.2408977,11.702984,terrace farming,terrace,07_NWPU_RESISC45
+14.264238,12.001189,terrace farming,terrace,07_NWPU_RESISC45
+15.928755,15.434412,terrace farming,terrace,07_NWPU_RESISC45
+14.300394,10.728603,terrace farming,terrace,07_NWPU_RESISC45
+17.088842,10.082109,terrace farming,terrace,07_NWPU_RESISC45
+14.34943,12.505833,terrace farming,terrace,07_NWPU_RESISC45
+16.522516,10.73626,terrace farming,terrace,07_NWPU_RESISC45
+7.4869494,12.130805,terrace farming,terrace,07_NWPU_RESISC45
+15.415166,9.843635,terrace farming,terrace,07_NWPU_RESISC45
+16.44501,8.998921,terrace farming,terrace,07_NWPU_RESISC45
+14.985987,10.47154,terrace farming,terrace,07_NWPU_RESISC45
+12.650962,10.582651,terrace farming,terrace,07_NWPU_RESISC45
+13.771667,10.787011,terrace farming,terrace,07_NWPU_RESISC45
+13.178808,8.610045,terrace farming,terrace,07_NWPU_RESISC45
+7.5490584,12.19716,terrace farming,terrace,07_NWPU_RESISC45
+16.676697,10.325032,terrace farming,terrace,07_NWPU_RESISC45
+15.470784,9.299007,terrace farming,terrace,07_NWPU_RESISC45
+13.274148,11.108091,terrace farming,terrace,07_NWPU_RESISC45
+14.228014,12.87784,terrace farming,terrace,07_NWPU_RESISC45
+15.060114,9.562035,terrace farming,terrace,07_NWPU_RESISC45
+13.645717,10.8585005,terrace farming,terrace,07_NWPU_RESISC45
+4.7311106,9.386708,terrace farming,terrace,07_NWPU_RESISC45
+14.157543,10.957686,terrace farming,terrace,07_NWPU_RESISC45
+7.300149,12.335904,terrace farming,terrace,07_NWPU_RESISC45
+38.04566,-4.0380545,hirst,water_area,01_RSI_CB128
+31.609379,-5.2544775,hirst,hirst,09_RSI-CB256
+39.801716,-5.212314,hirst,water_area,01_RSI_CB128
+33.464615,-5.000999,hirst,hirst,09_RSI-CB256
+35.430927,-6.9090023,hirst,water_area,01_RSI_CB128
+38.020313,-6.337641,hirst,water_area,01_RSI_CB128
+34.96218,-5.216942,hirst,hirst,09_RSI-CB256
+31.722757,-5.6458864,hirst,hirst,09_RSI-CB256
+31.483862,-6.382647,hirst,hirst,09_RSI-CB256
+34.213665,-4.1038795,hirst,water_area,01_RSI_CB128
+37.58681,-6.3077006,hirst,hirst,09_RSI-CB256
+37.017334,-6.8888907,hirst,hirst,09_RSI-CB256
+39.424442,-6.6046762,hirst,hirst,09_RSI-CB256
+37.08093,-3.4541988,hirst,water_area,01_RSI_CB128
+34.77793,-5.3264103,hirst,hirst,09_RSI-CB256
+37.483112,-3.665217,hirst,water_area,01_RSI_CB128
+36.176384,-4.9544587,hirst,hirst,09_RSI-CB256
+37.583904,-7.9113503,hirst,hirst,09_RSI-CB256
+39.427956,-5.6721683,hirst,water_area,01_RSI_CB128
+32.07304,-5.2703447,hirst,hirst,09_RSI-CB256
+35.93708,-3.4149973,hirst,water_area,01_RSI_CB128
+39.074017,-7.9467015,hirst,hirst,09_RSI-CB256
+37.328068,-6.4015136,hirst,hirst,09_RSI-CB256
+38.44375,-7.6644316,hirst,hirst,09_RSI-CB256
+36.238213,-5.7763257,hirst,hirst,09_RSI-CB256
+39.73704,-3.5588112,hirst,water_area,01_RSI_CB128
+36.186066,-7.4840302,hirst,hirst,09_RSI-CB256
+39.617348,-5.425992,hirst,water_area,01_RSI_CB128
+38.50645,-6.855904,hirst,water_area,01_RSI_CB128
+38.435528,-4.8002563,hirst,water_area,01_RSI_CB128
+31.391546,-6.815687,hirst,water_area,01_RSI_CB128
+35.135426,-0.32899562,hirst,hirst,09_RSI-CB256
+38.30238,-5.356871,hirst,water_area,01_RSI_CB128
+37.38617,-6.7823315,hirst,hirst,09_RSI-CB256
+37.09027,-6.9669585,hirst,hirst,09_RSI-CB256
+37.657772,-5.840954,hirst,water_area,01_RSI_CB128
+31.37917,-5.7325454,hirst,hirst,09_RSI-CB256
+35.402767,-6.931823,hirst,water_area,01_RSI_CB128
+35.754353,-6.191076,hirst,hirst,09_RSI-CB256
+31.52081,-5.8263693,hirst,hirst,09_RSI-CB256
+32.138382,-1.180327,lakeshore,water_area,01_RSI_CB128
+3.6365583,-18.274845,lakeshore,lakeshore,09_RSI-CB256
+30.328575,-0.34111214,lakeshore,lakeshore,09_RSI-CB256
+31.972933,-3.1164892,lakeshore,water_area,01_RSI_CB128
+30.102995,-1.5577941,lakeshore,water_area,01_RSI_CB128
+28.290064,-2.4073362,lakeshore,water_area,01_RSI_CB128
+28.422157,-0.48688725,lakeshore,lakeshore,09_RSI-CB256
+35.470505,-2.3663042,lakeshore,water_area,01_RSI_CB128
+30.494093,0.34535795,lakeshore,water_area,01_RSI_CB128
+29.382645,-1.172184,lakeshore,lakeshore,09_RSI-CB256
+31.02457,-2.6832187,lakeshore,water_area,01_RSI_CB128
+31.12629,2.0565784,lakeshore,water_area,01_RSI_CB128
+32.223392,-0.4197776,lakeshore,water_area,01_RSI_CB128
+31.7808,-0.901559,lakeshore,water_area,01_RSI_CB128
+32.482647,-2.123661,lakeshore,water_area,01_RSI_CB128
+34.684277,-0.43430516,lakeshore,water_area,01_RSI_CB128
+31.117043,0.22353365,lakeshore,water_area,01_RSI_CB128
+29.86705,-2.9296138,lakeshore,water_area,01_RSI_CB128
+31.499765,-1.5413777,lakeshore,water_area,01_RSI_CB128
+30.286074,-1.6473426,lakeshore,water_area,01_RSI_CB128
+29.146936,-0.7417667,lakeshore,lakeshore,09_RSI-CB256
+28.839222,-0.9376191,lakeshore,lakeshore,09_RSI-CB256
+29.028183,-2.4322357,lakeshore,water_area,01_RSI_CB128
+36.058575,-3.1765242,lakeshore,water_area,01_RSI_CB128
+28.976189,-2.0659742,lakeshore,water_area,01_RSI_CB128
+30.44798,-1.9718559,lakeshore,water_area,01_RSI_CB128
+29.375801,-0.041094955,lakeshore,lakeshore,09_RSI-CB256
+33.19545,-1.3708918,lakeshore,water_area,01_RSI_CB128
+35.586117,-2.4568613,lakeshore,water_area,01_RSI_CB128
+31.88238,-0.28229734,lakeshore,water_area,01_RSI_CB128
+32.6217,-1.4109479,lakeshore,water_area,01_RSI_CB128
+31.526936,-0.77744293,lakeshore,water_area,01_RSI_CB128
+30.472994,-1.1192164,lakeshore,lakeshore,09_RSI-CB256
+30.092384,1.4003564,lakeshore,water_area,01_RSI_CB128
+29.502096,-1.946298,lakeshore,water_area,01_RSI_CB128
+31.981306,0.3484605,lakeshore,water_area,01_RSI_CB128
+29.135899,-0.7993506,lakeshore,lakeshore,09_RSI-CB256
+28.799707,0.307516,lakeshore,lakeshore,09_RSI-CB256
+4.784326,-18.794209,lakeshore,water_area,01_RSI_CB128
+31.19454,1.7634103,lakeshore,water_area,01_RSI_CB128
+45.325684,8.039871,Desert,desert,CLRS
+52.101788,6.318664,Desert,other_land,01_RSI_CB128
+47.388287,6.405006,Desert,desert,06_AID
+44.518116,7.903287,Desert,desert,CLRS
+47.046844,7.840849,Desert,desert,WHU-RS19
+48.658516,6.124066,Desert,desert,06_AID
+46.78531,7.9462347,Desert,desert,RSITMD
+49.38796,5.094797,Desert,other_land,01_RSI_CB128
+49.57269,6.9041743,Desert,desert,07_NWPU_RESISC45
+49.5977,7.655595,Desert,desert,CLRS
+31.422909,11.16894,Desert,desert,RSITMD
+47.119987,5.762382,Desert,desert,06_AID
+51.636066,6.639656,Desert,desert,09_RSI-CB256
+52.15584,5.512505,Desert,other_land,01_RSI_CB128
+49.33168,7.241537,Desert,desert,CLRS
+49.280487,5.316134,Desert,desert,09_RSI-CB256
+49.545258,8.72054,Desert,desert,06_AID
+49.249752,5.1750884,Desert,desert,09_RSI-CB256
+53.58623,-14.393602,Desert,,01_RSI_CB128
+50.879578,7.555444,Desert,other_land,01_RSI_CB128
+50.619083,7.632133,Desert,desert,09_RSI-CB256
+50.589127,6.930135,Desert,desert,09_RSI-CB256
+53.618416,-14.379917,Desert,other_land,01_RSI_CB128
+51.744717,6.055657,Desert,other_land,01_RSI_CB128
+50.946537,6.5587626,Desert,other_land,01_RSI_CB128
+16.63103,18.07557,Desert,desert,07_NWPU_RESISC45
+49.224598,5.409235,Desert,desert,09_RSI-CB256
+53.1079,7.7318854,Desert,desert,CLRS
+51.225666,6.084818,Desert,other_land,01_RSI_CB128
+52.423748,8.385111,Desert,desert,CLRS
+45.204166,7.995701,Desert,desert,CLRS
+51.962795,7.937447,Desert,desert,CLRS
+52.311256,5.212766,Desert,other_land,01_RSI_CB128
+53.730618,-14.217695,Desert,other_land,01_RSI_CB128
+63.039497,-12.7500515,Desert,desert,09_RSI-CB256
+51.74991,5.6954966,Desert,other_land,01_RSI_CB128
+51.386276,7.604043,Desert,other_land,01_RSI_CB128
+53.827644,6.931994,Desert,desert,06_AID
+47.619114,8.007647,Desert,desert,06_AID
+15.493534,14.773776,Desert,desert,CLRS
+-24.271397,22.217115,sparseresidential,sparse_residential,05_PatternNet
+-21.177832,20.763624,sparseresidential,sparse_residential,05_PatternNet
+-15.292866,20.623009,sparseresidential,sparse_residential,07_NWPU_RESISC45
+-14.006427,19.453491,sparseresidential,sparse_residential,07_NWPU_RESISC45
+-17.245527,20.98867,sparseresidential,sparse_residential,UCMerced_LandUse
+-16.406801,20.064684,sparseresidential,sparse_residential,05_PatternNet
+-17.956589,19.93659,sparseresidential,sparse_residential,07_NWPU_RESISC45
+-11.896378,18.781036,sparseresidential,sparse_residential,RSITMD
+-17.995401,19.546171,sparseresidential,sparse_residential,07_NWPU_RESISC45
+-21.48862,12.037629,sparseresidential,sparse_residential,05_PatternNet
+-20.944733,22.666466,sparseresidential,sparse_residential,05_PatternNet
+-20.103146,20.95848,sparseresidential,sparse_residential,05_PatternNet
+-14.503776,18.705732,sparseresidential,sparse_residential,07_NWPU_RESISC45
+-16.55485,20.269165,sparseresidential,sparse_residential,05_PatternNet
+-17.822784,21.80377,sparseresidential,sparse_residential,07_NWPU_RESISC45
+-20.760965,20.887415,sparseresidential,sparse_residential,05_PatternNet
+-15.364262,21.053705,sparseresidential,sparse_residential,07_NWPU_RESISC45
+-11.751684,18.332924,sparseresidential,sparse_residential,07_NWPU_RESISC45
+-16.974646,17.712246,sparseresidential,sparse_residential,07_NWPU_RESISC45
+-19.097904,18.372818,sparseresidential,sparse_residential,05_PatternNet
+-13.502485,20.427084,sparseresidential,sparse_residential,RSITMD
+-17.042255,17.783485,sparseresidential,sparse_residential,07_NWPU_RESISC45
+-19.222929,22.5134,sparseresidential,sparse_residential,05_PatternNet
+-11.262931,19.169735,sparseresidential,sparse_residential,RSITMD
+0.17035465,8.879913,sparseresidential,sparse_residential,07_NWPU_RESISC45
+-37.820442,20.505835,sparseresidential,sparse_residential,05_PatternNet
+-18.317022,21.230906,sparseresidential,sparse_residential,05_PatternNet
+-21.612854,22.369873,sparseresidential,sparse_residential,05_PatternNet
+-14.769677,18.391924,sparseresidential,sparse_residential,07_NWPU_RESISC45
+-19.519133,22.468744,sparseresidential,sparse_residential,05_PatternNet
+-28.61676,-6.3578744,sparseresidential,sparse_residential,05_PatternNet
+-20.81901,11.770681,sparseresidential,sparse_residential,RSITMD
+-15.195116,18.170918,sparseresidential,sparse_residential,07_NWPU_RESISC45
+-15.626786,21.36165,sparseresidential,sparse_residential,07_NWPU_RESISC45
+-11.540855,19.13789,sparseresidential,sparse_residential,RSITMD
+-20.770882,13.2490225,sparseresidential,sparse_residential,07_NWPU_RESISC45
+-11.764807,18.81953,sparseresidential,sparse_residential,RSITMD
+-22.964642,-4.559713,sparseresidential,sparse_residential,07_NWPU_RESISC45
+-16.200098,19.521303,sparseresidential,sparse_residential,07_NWPU_RESISC45
+-18.443964,19.102919,sparseresidential,sparse_residential,07_NWPU_RESISC45
+40.86994,17.117928,snow_mountain,snow_mountain,09_RSI-CB256
+41.995625,17.003738,snow_mountain,snow_mountain,09_RSI-CB256
+42.237873,15.77277,snow_mountain,other_land,01_RSI_CB128
+42.353554,17.58452,snow_mountain,snow_mountain,09_RSI-CB256
+40.85036,16.51292,snow_mountain,snow_mountain,09_RSI-CB256
+41.505928,16.202814,snow_mountain,other_land,01_RSI_CB128
+45.346638,16.08096,snow_mountain,other_land,01_RSI_CB128
+43.359272,17.032297,snow_mountain,snow_mountain,09_RSI-CB256
+41.48717,17.796501,snow_mountain,snow_mountain,09_RSI-CB256
+41.17182,18.513891,snow_mountain,snow_mountain,09_RSI-CB256
+22.137188,17.131668,snow_mountain,snowberg,07_NWPU_RESISC45
+36.17993,16.310808,snow_mountain,snowberg,07_NWPU_RESISC45
+43.377537,18.589771,snow_mountain,snow_mountain,09_RSI-CB256
+42.685955,15.673686,snow_mountain,other_land,01_RSI_CB128
+45.24723,14.667422,snow_mountain,other_land,01_RSI_CB128
+41.479515,17.078413,snow_mountain,snow_mountain,09_RSI-CB256
+39.97918,17.052362,snow_mountain,snow_mountain,09_RSI-CB256
+21.4195,16.688398,snow_mountain,snowberg,07_NWPU_RESISC45
+38.15429,16.887337,snow_mountain,snowberg,07_NWPU_RESISC45
+44.630466,15.575826,snow_mountain,other_land,01_RSI_CB128
+40.817295,17.806787,snow_mountain,snow_mountain,09_RSI-CB256
+37.22207,18.384735,snow_mountain,snowberg,07_NWPU_RESISC45
+41.267296,18.149536,snow_mountain,snow_mountain,09_RSI-CB256
+40.896133,17.945393,snow_mountain,snow_mountain,09_RSI-CB256
+43.717594,18.689663,snow_mountain,snow_mountain,09_RSI-CB256
+41.033604,14.439577,snow_mountain,other_land,01_RSI_CB128
+20.87285,16.449484,snow_mountain,snowberg,07_NWPU_RESISC45
+20.901752,16.326,snow_mountain,snowberg,07_NWPU_RESISC45
+37.298107,16.693748,snow_mountain,snowberg,07_NWPU_RESISC45
+37.93295,16.833082,snow_mountain,snowberg,07_NWPU_RESISC45
+41.589394,18.117376,snow_mountain,snow_mountain,09_RSI-CB256
+43.219463,15.604582,snow_mountain,other_land,01_RSI_CB128
+41.024036,17.047335,snow_mountain,snow_mountain,09_RSI-CB256
+22.130293,19.471533,snow_mountain,snowberg,07_NWPU_RESISC45
+41.105904,16.682777,snow_mountain,snow_mountain,09_RSI-CB256
+44.470863,15.806681,snow_mountain,other_land,01_RSI_CB128
+41.738632,18.096285,snow_mountain,snow_mountain,09_RSI-CB256
+41.40287,15.4404335,snow_mountain,other_land,01_RSI_CB128
+41.07487,14.383142,snow_mountain,other_land,01_RSI_CB128
+40.64076,17.904207,snow_mountain,snow_mountain,09_RSI-CB256
+8.259862,-45.072422,marina_harbor,harbor,07_NWPU_RESISC45
+8.019757,-45.22718,marina_harbor,harbor,05_PatternNet
+9.09169,-45.90357,marina_harbor,harbor,05_PatternNet
+6.5820513,-42.393772,marina_harbor,harbor,07_NWPU_RESISC45
+10.578425,-45.223408,marina_harbor,transportation,01_RSI_CB128
+6.1869826,-45.6078,marina_harbor,transportation,01_RSI_CB128
+5.478922,-44.25025,marina_harbor,harbor,05_PatternNet
+6.641348,-44.60333,marina_harbor,marina,09_RSI-CB256
+6.13805,-43.90158,marina_harbor,harbor,05_PatternNet
+9.878182,-44.418793,marina_harbor,transportation,01_RSI_CB128
+3.8674948,-40.792583,marina_harbor,harbor,05_PatternNet
+8.938262,-42.03497,marina_harbor,harbor,05_PatternNet
+7.9117775,-42.90231,marina_harbor,harbor,05_PatternNet
+6.0702276,-47.150692,marina_harbor,marina,09_RSI-CB256
+8.632316,-44.818077,marina_harbor,harbor,05_PatternNet
+7.7690296,-43.342113,marina_harbor,harbor,05_PatternNet
+2.7365212,-24.392433,marina_harbor,harbor,07_NWPU_RESISC45
+6.270881,-46.793827,marina_harbor,transportation,01_RSI_CB128
+9.382626,-43.67326,marina_harbor,harbor,05_PatternNet
+6.157014,-45.525032,marina_harbor,transportation,01_RSI_CB128
+7.688381,-46.350426,marina_harbor,transportation,01_RSI_CB128
+9.31803,-46.524574,marina_harbor,harbor,05_PatternNet
+5.4528623,-42.818287,marina_harbor,harbor,07_NWPU_RESISC45
+8.302631,-44.392727,marina_harbor,harbor,07_NWPU_RESISC45
+7.703424,-45.011192,marina_harbor,harbor,05_PatternNet
+-14.424321,4.581873,marina_harbor,harbor,07_NWPU_RESISC45
+1.7341608,-25.289639,marina_harbor,harbor,07_NWPU_RESISC45
+6.728453,-44.839672,marina_harbor,transportation,01_RSI_CB128
+9.619525,-43.597763,marina_harbor,harbor,05_PatternNet
+6.42593,-43.158863,marina_harbor,harbor,07_NWPU_RESISC45
+7.6814823,-46.594505,marina_harbor,transportation,01_RSI_CB128
+7.5497394,-44.103302,marina_harbor,harbor,05_PatternNet
+7.2499537,-42.75097,marina_harbor,harbor,05_PatternNet
+3.2274175,-21.102884,marina_harbor,harbor,07_NWPU_RESISC45
+7.9825687,-43.599895,marina_harbor,harbor,05_PatternNet
+7.8133307,-43.69663,marina_harbor,harbor,07_NWPU_RESISC45
+4.5640254,-45.070724,marina_harbor,harbor,07_NWPU_RESISC45
+9.655195,-44.11216,marina_harbor,harbor,05_PatternNet
+5.8090954,-42.195427,marina_harbor,harbor,07_NWPU_RESISC45
+7.5641418,-44.325577,marina_harbor,harbor,05_PatternNet
+-20.658268,5.410765,town or Residential,dense_residential,07_NWPU_RESISC45
+16.53639,-7.2945595,town or Residential,residential,03_EuroSAT
+16.463543,-9.279667,town or Residential,residential,03_EuroSAT
+-21.681187,20.393476,town or Residential,dense_residential,05_PatternNet
+-15.6670475,3.9697132,town or Residential,sparse_residential_area,RSD46-WHU
+-19.429892,7.2787023,town or Residential,sparse_residential_area,RSD46-WHU
+-23.317636,18.671482,town or Residential,medium_residential,RSITMD
+-22.214857,10.745004,town or Residential,medium_residential,07_NWPU_RESISC45
+-35.86052,10.188399,town or Residential,dense_residential,07_NWPU_RESISC45
+17.175781,-9.669137,town or Residential,residential,03_EuroSAT
+-19.668053,6.7616925,town or Residential,sparse_residential_area,RSD46-WHU
+-33.421852,5.27109,town or Residential,construction_land,01_RSI_CB128
+-36.57506,9.50236,town or Residential,dense_residential,05_PatternNet
+-40.056164,6.5569263,town or Residential,construction_land,01_RSI_CB128
+16.886536,-8.276594,town or Residential,residential,03_EuroSAT
+-20.897089,6.4660735,town or Residential,residential,08_RSSCN7
+-22.573404,21.143997,town or Residential,dense_residential,05_PatternNet
+-15.905271,-4.113378,town or Residential,residential,CLRS
+-36.21651,8.625948,town or Residential,medium_residential,07_NWPU_RESISC45
+20.919428,-10.265683,town or Residential,residential,03_EuroSAT
+-40.410786,7.1616716,town or Residential,construction_land,01_RSI_CB128
+-36.28031,7.9579787,town or Residential,residential,11_SIRI_WHU
+-11.724233,17.204004,town or Residential,medium_residential,07_NWPU_RESISC45
+-12.596043,20.48027,town or Residential,medium_residential,UCMerced_LandUse
+16.927227,-7.7796516,town or Residential,residential,03_EuroSAT
+-36.118523,9.276334,town or Residential,dense_residential,07_NWPU_RESISC45
+-42.191048,8.958378,town or Residential,construction_land,01_RSI_CB128
+-36.127457,15.808106,town or Residential,dense_residential,05_PatternNet
+15.910462,-7.5893226,town or Residential,residential,03_EuroSAT
+-37.075703,10.490176,town or Residential,dense_residential,05_PatternNet
+16.806746,-7.6116524,town or Residential,residential,03_EuroSAT
+6.705158,-2.719577,town or Residential,residential,08_RSSCN7
+-24.047155,21.22506,town or Residential,dense_residential,05_PatternNet
+-17.761656,8.175657,town or Residential,residential,11_SIRI_WHU
+19.118176,-6.252995,town or Residential,residential,03_EuroSAT
+-35.90387,4.7860966,town or Residential,residential,09_RSI-CB256
+-41.286,1.8516343,town or Residential,construction_land,01_RSI_CB128
+18.9584,-6.5478888,town or Residential,residential,03_EuroSAT
+17.81773,-10.5276165,town or Residential,residential,03_EuroSAT
+16.467113,-7.165995,town or Residential,residential,03_EuroSAT
+4.4072223,19.864786,river,river,06_AID
+-1.7731894,17.97002,river,river,07_NWPU_RESISC45
+-5.5814085,-2.8470352,river,river,CLRS
+6.4628673,29.418346,river,river,05_PatternNet
+5.70213,16.19632,river,river,06_AID
+6.083565,5.5419707,river,river,CLRS
+20.138046,-9.386509,river,river,03_EuroSAT
+6.4789987,11.379011,river,river,CLRS
+24.072636,-11.950585,river,river,03_EuroSAT
+22.036785,-10.416551,river,river,03_EuroSAT
+4.400063,19.912811,river,river,RSITMD
+-1.3022441,16.145727,river,river,09_RSI-CB256
+4.4982586,19.595629,river,river,RSITMD
+16.13027,-8.850501,river,river,03_EuroSAT
+4.093678,24.188805,river,river,06_AID
+5.4819217,28.399015,river,river,UCMerced_LandUse
+4.387738,19.9108,river,river,RSITMD
+20.396366,-11.773707,river,river,03_EuroSAT
+8.387988,30.180117,river,water_area,01_RSI_CB128
+21.86676,-10.460419,river,river,03_EuroSAT
+20.447508,-9.215224,river,river,03_EuroSAT
+6.4592195,29.458366,river,water_area,01_RSI_CB128
+12.949285,16.536179,river,river,11_SIRI_WHU
+4.351411,14.482257,river,river,CLRS
+7.494016,28.677485,river,water_area,01_RSI_CB128
+16.729515,-11.153738,river,river,03_EuroSAT
+18.710798,-11.147297,river,river,03_EuroSAT
+5.1107774,15.862364,river,river,06_AID
+10.4524145,14.2679,river,river,07_NWPU_RESISC45
+-6.971492,15.133387,river,river_lake,08_RSSCN7
+-11.892167,0.42573497,river,river,11_SIRI_WHU
+3.053435,11.6311455,river,river,CLRS
+19.422823,-11.399194,river,river,03_EuroSAT
+22.425282,-10.084461,river,river,03_EuroSAT
+18.04904,-11.415732,river,river,03_EuroSAT
+23.42882,-10.09952,river,river,03_EuroSAT
+-22.733171,3.7669585,river,river,CLRS
+10.846891,13.917467,river,river,CLRS
+4.4144855,16.029768,river,river,09_RSI-CB256
+0.9796292,0.76398927,river,water_area,01_RSI_CB128
+25.407461,53.85313,shrubwood,shrubwood,09_RSI-CB256
+26.780727,49.707146,shrubwood,shrubwood,09_RSI-CB256
+26.27075,51.707325,shrubwood,shrubwood,09_RSI-CB256
+24.169893,48.436874,shrubwood,woodland,01_RSI_CB128
+28.614742,52.235428,shrubwood,shrubwood,09_RSI-CB256
+28.077444,51.14931,shrubwood,shrubwood,09_RSI-CB256
+24.546234,52.670288,shrubwood,shrubwood,09_RSI-CB256
+25.35667,51.65033,shrubwood,shrubwood,09_RSI-CB256
+28.574697,51.587097,shrubwood,shrubwood,09_RSI-CB256
+29.202282,51.496796,shrubwood,shrubwood,09_RSI-CB256
+26.794565,51.936028,shrubwood,woodland,01_RSI_CB128
+24.868933,49.133087,shrubwood,woodland,01_RSI_CB128
+25.203,48.868332,shrubwood,woodland,01_RSI_CB128
+29.142624,51.004337,shrubwood,shrubwood,09_RSI-CB256
+24.987835,49.09531,shrubwood,woodland,01_RSI_CB128
+25.2252,49.957626,shrubwood,woodland,01_RSI_CB128
+28.59506,50.324265,shrubwood,woodland,01_RSI_CB128
+28.962294,49.895035,shrubwood,woodland,01_RSI_CB128
+26.652636,52.577774,shrubwood,woodland,01_RSI_CB128
+25.47138,50.11326,shrubwood,woodland,01_RSI_CB128
+26.982428,52.56449,shrubwood,woodland,01_RSI_CB128
+27.483166,50.4828,shrubwood,shrubwood,09_RSI-CB256
+24.27205,48.585686,shrubwood,woodland,01_RSI_CB128
+25.805643,53.85241,shrubwood,woodland,01_RSI_CB128
+26.941938,53.290348,shrubwood,woodland,01_RSI_CB128
+28.742561,50.130833,shrubwood,woodland,01_RSI_CB128
+27.263323,50.09122,shrubwood,shrubwood,09_RSI-CB256
+28.235544,50.40486,shrubwood,woodland,01_RSI_CB128
+29.420433,50.846146,shrubwood,shrubwood,09_RSI-CB256
+28.73591,52.03479,shrubwood,shrubwood,09_RSI-CB256
+25.684727,49.904613,shrubwood,woodland,01_RSI_CB128
+28.720848,50.24394,shrubwood,shrubwood,09_RSI-CB256
+25.924517,48.962086,shrubwood,shrubwood,09_RSI-CB256
+24.942524,49.532825,shrubwood,woodland,01_RSI_CB128
+26.019096,53.63997,shrubwood,woodland,01_RSI_CB128
+27.802315,51.119953,shrubwood,shrubwood,09_RSI-CB256
+27.945215,52.62495,shrubwood,shrubwood,09_RSI-CB256
+25.971619,52.258415,shrubwood,shrubwood,09_RSI-CB256
+24.39961,52.69968,shrubwood,shrubwood,09_RSI-CB256
+25.815441,50.905384,shrubwood,woodland,01_RSI_CB128
+-56.209496,-10.689041,storage or oil tanks,storage_tank,05_PatternNet
+-61.30269,-10.011914,storage or oil tanks,storage_tank,09_RSI-CB256
+-55.32627,-9.841014,storage or oil tanks,storage_tank,07_NWPU_RESISC45
+-56.977154,-9.671514,storage or oil tanks,storage_tank,09_RSI-CB256
+-56.404366,-9.618345,storage or oil tanks,storage_tank,09_RSI-CB256
+-58.112076,-10.185045,storage or oil tanks,storage_tank,05_PatternNet
+-51.202778,-13.237035,storage or oil tanks,storage_tank,07_NWPU_RESISC45
+-54.412346,-10.840786,storage or oil tanks,storage_tank,RSD46-WHU
+-58.426662,-11.17735,storage or oil tanks,storage_tank,05_PatternNet
+-9.12061,22.220926,storage or oil tanks,storage_tank,CLRS
+-52.964897,-11.490359,storage or oil tanks,storage_tank,07_NWPU_RESISC45
+-53.764217,-12.051314,storage or oil tanks,storage_tank,07_NWPU_RESISC45
+-61.422897,-9.767411,storage or oil tanks,storage_tank,09_RSI-CB256
+-54.707073,-11.231114,storage or oil tanks,storage_tank,07_NWPU_RESISC45
+-59.029694,-11.665061,storage or oil tanks,storage_tank,05_PatternNet
+-55.236546,-11.180582,storage or oil tanks,storage_tank,07_NWPU_RESISC45
+-59.184574,-7.1802516,storage or oil tanks,storage_tank,UCMerced_LandUse
+-51.931217,1.788016,storage or oil tanks,storage_tank,UCMerced_LandUse
+-1.0808188,12.045404,storage or oil tanks,storage_tank,CLRS
+-55.4421,-10.4674,storage or oil tanks,storage_tank,RSITMD
+-62.287422,-9.19304,storage or oil tanks,storage_tank,09_RSI-CB256
+-62.106213,-9.309254,storage or oil tanks,storage_tank,09_RSI-CB256
+-62.669144,-10.380457,storage or oil tanks,storage_tank,09_RSI-CB256
+-50.075195,-13.209665,storage or oil tanks,storage_tank,07_NWPU_RESISC45
+-56.794785,-10.40655,storage or oil tanks,storage_tank,UCMerced_LandUse
+-56.287357,-11.792544,storage or oil tanks,construction_land,01_RSI_CB128
+-52.52659,-11.160864,storage or oil tanks,storage_tank,RSITMD
+-59.927757,-15.205174,storage or oil tanks,storage_tank,RSD46-WHU
+-56.89836,-11.419679,storage or oil tanks,storage_tank,05_PatternNet
+-58.69404,-10.767164,storage or oil tanks,storage_tank,05_PatternNet
+-55.352623,-11.255671,storage or oil tanks,storage_tank,07_NWPU_RESISC45
+-62.44303,-10.241923,storage or oil tanks,storage_tank,09_RSI-CB256
+-58.548355,-11.160168,storage or oil tanks,storage_tank,05_PatternNet
+-61.049316,-10.052409,storage or oil tanks,storage_tank,09_RSI-CB256
+-61.558956,-9.71258,storage or oil tanks,storage_tank,09_RSI-CB256
+-56.410046,-9.61429,storage or oil tanks,storage_tank,09_RSI-CB256
+-50.03273,-13.332168,storage or oil tanks,storage_tank,07_NWPU_RESISC45
+-58.13621,-11.256065,storage or oil tanks,storage_tank,05_PatternNet
+-54.804874,-11.284984,storage or oil tanks,storage_tank,07_NWPU_RESISC45
+-55.24473,-11.9670725,storage or oil tanks,storage_tank,05_PatternNet
+14.036798,29.421303,Forest,natural_dense_forest_land,RSD46-WHU
+45.193718,-1.5520116,Forest,forest,03_EuroSAT
+9.382731,25.733212,Forest,forest,RSITMD
+44.309845,-0.50350684,Forest,forest,03_EuroSAT
+45.078365,-1.3488849,Forest,forest,03_EuroSAT
+44.099308,-0.48636952,Forest,forest,03_EuroSAT
+12.280624,37.64963,Forest,forest,05_PatternNet
+6.6143317,22.055063,Forest,artificial_dense_forest_land,RSD46-WHU
+12.408038,37.741707,Forest,forest,05_PatternNet
+44.4043,-0.64187944,Forest,forest,03_EuroSAT
+14.889667,29.811745,Forest,natural_dense_forest_land,RSD46-WHU
+15.191841,30.541222,Forest,forest,09_RSI-CB256
+9.591089,26.415497,Forest,forest,CLRS
+45.039204,-1.78185,Forest,forest,03_EuroSAT
+13.074653,28.260365,Forest,forest,09_RSI-CB256
+13.728422,29.447458,Forest,natural_dense_forest_land,RSD46-WHU
+1.1375413,6.86221,Forest,artificial_sparse_forest_land,RSD46-WHU
+13.502492,31.578367,Forest,woodland,01_RSI_CB128
+35.933376,5.415505,Forest,woodland,01_RSI_CB128
+13.032911,24.4915,Forest,natural_sparse_forest_land,RSD46-WHU
+8.600551,51.09404,Forest,woodland,01_RSI_CB128
+8.597758,51.066387,Forest,woodland,01_RSI_CB128
+44.552048,-2.1153855,Forest,forest,03_EuroSAT
+13.633833,31.536526,Forest,forest,09_RSI-CB256
+45.252384,-2.785821,Forest,forest,03_EuroSAT
+11.2882,52.39145,Forest,woodland,01_RSI_CB128
+45.858047,-1.8344404,Forest,forest,03_EuroSAT
+16.307768,1.6898799,Forest,forest,07_NWPU_RESISC45
+36.023956,5.4301395,Forest,woodland,01_RSI_CB128
+36.205845,5.4454165,Forest,woodland,01_RSI_CB128
+14.974902,29.838713,Forest,forest,09_RSI-CB256
+45.341423,-1.7565236,Forest,forest,03_EuroSAT
+20.542253,52.674324,Forest,forest,CLRS
+46.17325,-1.8675016,Forest,forest,03_EuroSAT
+10.604843,58.35642,Forest,forest,CLRS
+11.423289,52.365246,Forest,woodland,01_RSI_CB128
+44.951847,-2.9203205,Forest,forest,03_EuroSAT
+46.012825,-3.493426,Forest,forest,03_EuroSAT
+6.287761,24.5345,Forest,forest,RSITMD
+1.7127304,14.66465,Forest,artificial_sparse_forest_land,RSD46-WHU
+18.199356,-26.271944,Ships in the Sea  or port,ship,RSD46-WHU
+24.600033,-27.046934,Ships in the Sea  or port,water,11_SIRI_WHU
+16.812134,-28.679646,Ships in the Sea  or port,ship,RSD46-WHU
+16.894928,-29.142857,Ships in the Sea  or port,ship,RSD46-WHU
+19.17002,-27.23197,Ships in the Sea  or port,ship,07_NWPU_RESISC45
+19.295963,-28.921112,Ships in the Sea  or port,ship,RSD46-WHU
+25.085413,-24.689198,Ships in the Sea  or port,water,11_SIRI_WHU
+20.395857,-26.22565,Ships in the Sea  or port,water,11_SIRI_WHU
+19.889227,-28.121143,Ships in the Sea  or port,ship,RSD46-WHU
+23.999077,-25.794027,Ships in the Sea  or port,water,11_SIRI_WHU
+16.6274,-29.117163,Ships in the Sea  or port,ship,RSD46-WHU
+24.025143,-25.765884,Ships in the Sea  or port,water,11_SIRI_WHU
+18.543978,-30.38351,Ships in the Sea  or port,ship,RSD46-WHU
+19.887499,-28.051346,Ships in the Sea  or port,ship,RSD46-WHU
+17.971565,-28.491352,Ships in the Sea  or port,ship,RSD46-WHU
+16.561125,-28.808601,Ships in the Sea  or port,ship,RSD46-WHU
+22.84233,-28.766212,Ships in the Sea  or port,ship,RSD46-WHU
+21.846132,-24.51702,Ships in the Sea  or port,water,11_SIRI_WHU
+18.562395,-31.10037,Ships in the Sea  or port,ship,RSD46-WHU
+21.598406,-29.298832,Ships in the Sea  or port,ship,RSD46-WHU
+25.291391,-24.407827,Ships in the Sea  or port,water,11_SIRI_WHU
+21.658834,-26.903656,Ships in the Sea  or port,water,11_SIRI_WHU
+22.318659,-24.594408,Ships in the Sea  or port,water,11_SIRI_WHU
+17.941355,-28.10073,Ships in the Sea  or port,ship,RSD46-WHU
+22.73134,-28.82485,Ships in the Sea  or port,ship,RSD46-WHU
+17.10183,-28.863691,Ships in the Sea  or port,ship,RSD46-WHU
+18.250414,-30.750639,Ships in the Sea  or port,ship,RSD46-WHU
+21.675219,-24.402834,Ships in the Sea  or port,water,11_SIRI_WHU
+18.633133,-27.83865,Ships in the Sea  or port,ship,RSD46-WHU
+24.5269,-29.216032,Ships in the Sea  or port,water,11_SIRI_WHU
+17.842241,-30.894083,Ships in the Sea  or port,ship,RSD46-WHU
+16.447468,-28.401234,Ships in the Sea  or port,ship,RSD46-WHU
+21.947462,-29.17224,Ships in the Sea  or port,ship,RSD46-WHU
+22.097338,-25.511156,Ships in the Sea  or port,ship,RSD46-WHU
+18.923334,-27.365614,Ships in the Sea  or port,ship,RSD46-WHU
+18.663898,-27.763075,Ships in the Sea  or port,ship,RSD46-WHU
+15.7630005,-30.102987,Ships in the Sea  or port,ship,RSD46-WHU
+19.791842,-29.692772,Ships in the Sea  or port,ship,07_NWPU_RESISC45
+25.27746,-24.610987,Ships in the Sea  or port,water,11_SIRI_WHU
+18.104773,-26.49235,Ships in the Sea  or port,ship,RSD46-WHU
+-23.982828,-4.098771,roundabout,roundabout,07_NWPU_RESISC45
+-22.992346,-1.973774,roundabout,roundabout,07_NWPU_RESISC45
+-22.5421,-6.074465,roundabout,roundabout,07_NWPU_RESISC45
+-24.064724,-1.5127101,roundabout,roundabout,07_NWPU_RESISC45
+-24.99588,-2.7901127,roundabout,roundabout,07_NWPU_RESISC45
+-20.983456,-4.486157,roundabout,roundabout,07_NWPU_RESISC45
+-23.24198,-2.036478,roundabout,roundabout,07_NWPU_RESISC45
+-24.893871,-6.601652,roundabout,roundabout,07_NWPU_RESISC45
+-19.775719,-6.245038,roundabout,roundabout,07_NWPU_RESISC45
+-20.445911,2.0399165,roundabout,roundabout,07_NWPU_RESISC45
+-24.264475,-10.015835,roundabout,roundabout,07_NWPU_RESISC45
+-21.59956,-5.7961783,roundabout,roundabout,07_NWPU_RESISC45
+-23.438175,-8.677651,roundabout,roundabout,07_NWPU_RESISC45
+-21.506382,-5.4102383,roundabout,roundabout,07_NWPU_RESISC45
+-18.568293,4.6215734,roundabout,roundabout,07_NWPU_RESISC45
+-24.59671,-3.4376285,roundabout,roundabout,07_NWPU_RESISC45
+-24.919779,-5.6527157,roundabout,roundabout,07_NWPU_RESISC45
+-21.668999,1.5549587,roundabout,roundabout,07_NWPU_RESISC45
+-22.616936,-9.857549,roundabout,roundabout,07_NWPU_RESISC45
+-24.915209,2.0077116,roundabout,roundabout,07_NWPU_RESISC45
+-23.248838,-8.181466,roundabout,roundabout,07_NWPU_RESISC45
+-23.069382,3.5413492,roundabout,roundabout,07_NWPU_RESISC45
+-23.044884,-6.377169,roundabout,roundabout,07_NWPU_RESISC45
+-13.360988,-12.074367,roundabout,roundabout,07_NWPU_RESISC45
+-25.229767,-1.0939977,roundabout,roundabout,07_NWPU_RESISC45
+4.1593804,8.5488205,roundabout,roundabout,07_NWPU_RESISC45
+-14.160361,-9.711158,roundabout,roundabout,07_NWPU_RESISC45
+-13.601158,1.6122783,roundabout,roundabout,07_NWPU_RESISC45
+-24.99521,-5.2049994,roundabout,roundabout,07_NWPU_RESISC45
+-23.528187,-3.9020762,roundabout,roundabout,07_NWPU_RESISC45
+-17.972563,-6.143177,roundabout,roundabout,07_NWPU_RESISC45
+-22.741243,-4.265952,roundabout,roundabout,07_NWPU_RESISC45
+-24.324997,-3.2582617,roundabout,roundabout,07_NWPU_RESISC45
+-23.190619,2.202605,roundabout,roundabout,07_NWPU_RESISC45
+-24.140104,-1.1512818,roundabout,roundabout,07_NWPU_RESISC45
+-23.903746,-5.9050674,roundabout,roundabout,07_NWPU_RESISC45
+-25.04369,-5.1780977,roundabout,roundabout,07_NWPU_RESISC45
+-23.611124,-5.1226907,roundabout,roundabout,07_NWPU_RESISC45
+-22.920809,-9.723169,roundabout,roundabout,07_NWPU_RESISC45
+-23.64729,-5.840588,roundabout,roundabout,07_NWPU_RESISC45
+45.135807,-27.641674,christmas_tree_farm,christmas_tree_farm,05_PatternNet
+44.29674,-27.34702,christmas_tree_farm,christmas_tree_farm,05_PatternNet
+28.347614,31.20429,christmas_tree_farm,christmas_tree_farm,05_PatternNet
+10.515588,0.6289644,christmas_tree_farm,christmas_tree_farm,05_PatternNet
+43.82933,-29.46194,christmas_tree_farm,christmas_tree_farm,05_PatternNet
+43.930424,-29.266006,christmas_tree_farm,christmas_tree_farm,05_PatternNet
+42.65438,-28.668482,christmas_tree_farm,christmas_tree_farm,05_PatternNet
+45.986423,-24.842503,christmas_tree_farm,christmas_tree_farm,05_PatternNet
+44.945267,-27.611937,christmas_tree_farm,christmas_tree_farm,05_PatternNet
+47.92428,-25.390604,christmas_tree_farm,christmas_tree_farm,05_PatternNet
+47.25311,-27.559664,christmas_tree_farm,christmas_tree_farm,05_PatternNet
+46.742764,-25.695852,christmas_tree_farm,christmas_tree_farm,05_PatternNet
+44.287083,-29.236788,christmas_tree_farm,christmas_tree_farm,05_PatternNet
+28.355791,31.705215,christmas_tree_farm,christmas_tree_farm,05_PatternNet
+27.975914,31.691765,christmas_tree_farm,christmas_tree_farm,05_PatternNet
+45.491512,-25.48832,christmas_tree_farm,christmas_tree_farm,05_PatternNet
+47.338615,-26.83865,christmas_tree_farm,christmas_tree_farm,05_PatternNet
+46.806274,-26.094727,christmas_tree_farm,christmas_tree_farm,05_PatternNet
+45.16873,-25.945484,christmas_tree_farm,christmas_tree_farm,05_PatternNet
+47.46183,-27.575607,christmas_tree_farm,christmas_tree_farm,05_PatternNet
+47.034824,-27.616148,christmas_tree_farm,christmas_tree_farm,05_PatternNet
+45.897568,-25.111856,christmas_tree_farm,christmas_tree_farm,05_PatternNet
+47.479206,-26.12923,christmas_tree_farm,christmas_tree_farm,05_PatternNet
+28.102142,31.937567,christmas_tree_farm,christmas_tree_farm,05_PatternNet
+47.210503,-27.66915,christmas_tree_farm,christmas_tree_farm,05_PatternNet
+44.228374,-26.59276,christmas_tree_farm,christmas_tree_farm,05_PatternNet
+42.260612,-28.460266,christmas_tree_farm,christmas_tree_farm,05_PatternNet
+44.507133,-26.776955,christmas_tree_farm,christmas_tree_farm,05_PatternNet
+48.07413,-24.987093,christmas_tree_farm,christmas_tree_farm,05_PatternNet
+42.54287,-28.513071,christmas_tree_farm,christmas_tree_farm,05_PatternNet
+44.088024,-29.60774,christmas_tree_farm,christmas_tree_farm,05_PatternNet
+46.95853,-25.684885,christmas_tree_farm,christmas_tree_farm,05_PatternNet
+28.342749,31.170319,christmas_tree_farm,christmas_tree_farm,05_PatternNet
+47.976566,-26.119396,christmas_tree_farm,christmas_tree_farm,05_PatternNet
+43.3397,-26.614557,christmas_tree_farm,christmas_tree_farm,05_PatternNet
+27.65244,31.592857,christmas_tree_farm,christmas_tree_farm,05_PatternNet
+28.31652,31.039438,christmas_tree_farm,christmas_tree_farm,05_PatternNet
+45.230473,-27.992867,christmas_tree_farm,christmas_tree_farm,05_PatternNet
+42.43296,-28.624601,christmas_tree_farm,christmas_tree_farm,05_PatternNet
+44.29403,-29.160133,christmas_tree_farm,christmas_tree_farm,05_PatternNet
+-18.78618,-8.334411,railwayStation or railway,railway_station,07_NWPU_RESISC45
+-18.947857,-22.518425,railwayStation or railway,railway,05_PatternNet
+-17.353638,-19.419891,railwayStation or railway,railway_station,CLRS
+-16.326653,-7.418147,railwayStation or railway,railway,CLRS
+3.3088474,6.02797,railwayStation or railway,railway,RSD46-WHU
+-17.335808,8.44022,railwayStation or railway,railway_station,06_AID
+-20.320446,-9.074456,railwayStation or railway,railway_station,06_AID
+-16.630062,-23.746584,railwayStation or railway,railway,05_PatternNet
+-18.169836,-7.052047,railwayStation or railway,railway,CLRS
+-17.490381,-19.950394,railwayStation or railway,railway,07_NWPU_RESISC45
+-16.37721,-5.8710794,railwayStation or railway,railway_station,07_NWPU_RESISC45
+-20.570967,-15.250335,railwayStation or railway,railway,CLRS
+-7.3248963,-8.290002,railwayStation or railway,railway,RSD46-WHU
+-19.760553,-20.8355,railwayStation or railway,railway,05_PatternNet
+-22.445078,-22.586065,railwayStation or railway,transportation,01_RSI_CB128
+-17.976208,-18.917942,railwayStation or railway,railway,07_NWPU_RESISC45
+-18.028854,-16.51339,railwayStation or railway,railway,CLRS
+-19.362028,-22.167812,railwayStation or railway,railway,05_PatternNet
+-21.506144,-9.937736,railwayStation or railway,railway,07_NWPU_RESISC45
+-18.19296,-20.290722,railwayStation or railway,railway,CLRS
+-22.527039,-23.35865,railwayStation or railway,transportation,01_RSI_CB128
+-49.37366,2.9936948,railwayStation or railway,railway_station,CLRS
+-18.192741,-18.957859,railwayStation or railway,railway,07_NWPU_RESISC45
+-21.775171,-22.322098,railwayStation or railway,transportation,01_RSI_CB128
+-10.722136,-11.977816,railwayStation or railway,railway_station,07_NWPU_RESISC45
+-6.2286844,-10.955248,railwayStation or railway,railway,CLRS
+-16.469843,-7.514785,railwayStation or railway,railway,CLRS
+-20.015316,-20.571348,railwayStation or railway,railway,05_PatternNet
+-17.494083,-17.363464,railwayStation or railway,railway,CLRS
+-22.490978,-0.10202504,railwayStation or railway,railway_station,06_AID
+-22.588184,-23.101156,railwayStation or railway,transportation,01_RSI_CB128
+-18.654865,-22.61216,railwayStation or railway,railway,05_PatternNet
+0.40330425,6.078004,railwayStation or railway,railway,RSD46-WHU
+-22.768045,-11.043732,railwayStation or railway,railway_station,07_NWPU_RESISC45
+-17.541765,-17.527271,railwayStation or railway,railway_station,CLRS
+-16.780691,-22.052773,railwayStation or railway,railway,07_NWPU_RESISC45
+-12.946015,-4.6493564,railwayStation or railway,railway_station,RSITMD
+-54.159195,6.390177,railwayStation or railway,railway_station,07_NWPU_RESISC45
+-19.441128,-21.626448,railwayStation or railway,railway,05_PatternNet
+-19.500624,-21.97174,railwayStation or railway,railway,05_PatternNet
+-35.17773,-26.68607,sewage plant-type-two,wastewater_treatment_plant,RSD46-WHU
+-34.113285,-27.965137,sewage plant-type-two,wastewater_treatment_plant,RSD46-WHU
+-35.40173,-32.172714,sewage plant-type-two,wastewater_treatment_plant,RSD46-WHU
+-12.275101,-6.8901362,sewage plant-type-two,wastewater_treatment_plant,RSD46-WHU
+-35.497913,-29.117083,sewage plant-type-two,wastewater_treatment_plant,RSD46-WHU
+-10.321811,2.398037,sewage plant-type-two,wastewater_treatment_plant,RSD46-WHU
+-10.4260645,2.2519445,sewage plant-type-two,wastewater_treatment_plant,RSD46-WHU
+-35.417,-26.873243,sewage plant-type-two,wastewater_treatment_plant,RSD46-WHU
+-31.513306,-30.409266,sewage plant-type-two,wastewater_treatment_plant,RSD46-WHU
+-30.929228,-30.823875,sewage plant-type-two,wastewater_treatment_plant,RSD46-WHU
+-8.625403,1.7716762,sewage plant-type-two,wastewater_treatment_plant,RSD46-WHU
+-29.999985,-30.739035,sewage plant-type-two,wastewater_treatment_plant,RSD46-WHU
+-35.196106,-28.798693,sewage plant-type-two,wastewater_treatment_plant,RSD46-WHU
+-8.165376,3.3172252,sewage plant-type-two,wastewater_treatment_plant,RSD46-WHU
+-28.467691,-29.887495,sewage plant-type-two,wastewater_treatment_plant,RSD46-WHU
+-37.355503,-27.494793,sewage plant-type-two,wastewater_treatment_plant,RSD46-WHU
+-9.337101,3.0890062,sewage plant-type-two,wastewater_treatment_plant,RSD46-WHU
+-30.178673,-30.027662,sewage plant-type-two,wastewater_treatment_plant,RSD46-WHU
+-8.711608,1.9694471,sewage plant-type-two,wastewater_treatment_plant,RSD46-WHU
+-30.645016,-30.698353,sewage plant-type-two,wastewater_treatment_plant,RSD46-WHU
+-30.184204,-30.53058,sewage plant-type-two,wastewater_treatment_plant,RSD46-WHU
+-9.017125,3.1698303,sewage plant-type-two,wastewater_treatment_plant,RSD46-WHU
+-28.515425,-29.929504,sewage plant-type-two,wastewater_treatment_plant,RSD46-WHU
+-37.25623,-28.417522,sewage plant-type-two,wastewater_treatment_plant,RSD46-WHU
+4.7471967,1.282742,sewage plant-type-two,wastewater_treatment_plant,RSD46-WHU
+-31.802523,-30.513868,sewage plant-type-two,wastewater_treatment_plant,RSD46-WHU
+-34.387108,-29.06728,sewage plant-type-two,wastewater_treatment_plant,RSD46-WHU
+-30.125622,-30.907032,sewage plant-type-two,wastewater_treatment_plant,RSD46-WHU
+-7.5383654,2.2152188,sewage plant-type-two,wastewater_treatment_plant,RSD46-WHU
+-33.719574,-27.704498,sewage plant-type-two,wastewater_treatment_plant,RSD46-WHU
+-30.388897,-29.48041,sewage plant-type-two,wastewater_treatment_plant,RSD46-WHU
+-30.237707,-29.953308,sewage plant-type-two,wastewater_treatment_plant,RSD46-WHU
+-9.237448,1.0642807,sewage plant-type-two,wastewater_treatment_plant,RSD46-WHU
+-35.27311,-27.582926,sewage plant-type-two,wastewater_treatment_plant,RSD46-WHU
+-9.180075,2.2900462,sewage plant-type-two,wastewater_treatment_plant,RSD46-WHU
+-10.761805,2.7693832,sewage plant-type-two,wastewater_treatment_plant,RSD46-WHU
+-34.52057,-28.883041,sewage plant-type-two,wastewater_treatment_plant,RSD46-WHU
+-30.956268,-31.168985,sewage plant-type-two,wastewater_treatment_plant,RSD46-WHU
+-35.72313,-27.287521,sewage plant-type-two,wastewater_treatment_plant,RSD46-WHU
+-37.395393,-27.695297,sewage plant-type-two,wastewater_treatment_plant,RSD46-WHU
+-8.630484,-56.222977,Airport,airport,CLRS
+-6.2115583,-29.654081,Airport,airport,CLRS
+1.0603975,17.607536,Airport,airport,07_NWPU_RESISC45
+-7.3553166,-55.97557,Airport,airport,CLRS
+-7.925677,-56.67684,Airport,airport,CLRS
+-1.4784747,7.2320514,Airport,airport,07_NWPU_RESISC45
+-9.865789,-13.739357,Airport,airport,WHU-RS19
+-7.734512,-11.97459,Airport,airport,07_NWPU_RESISC45
+-8.888803,-54.4855,Airport,airport,CLRS
+-4.391896,-28.072306,Airport,airport,CLRS
+-11.492036,-15.493817,Airport,airport,RSITMD
+-10.666726,-2.799408,Airport,airport,06_AID
+-7.1504517,-55.778355,Airport,airport,CLRS
+-5.8571124,-14.372243,Airport,airport,CLRS
+-8.780108,12.723882,Airport,airport,06_AID
+-6.8328214,-28.666756,Airport,airport,RSITMD
+4.077598,0.9900013,Airport,airport,RSD46-WHU
+-7.654206,-14.550315,Airport,airport,07_NWPU_RESISC45
+-18.823053,11.75414,Airport,airport,06_AID
+-5.7463193,-17.871454,Airport,airport,RSD46-WHU
+-7.4393454,-12.642362,Airport,airport,07_NWPU_RESISC45
+-11.733766,-8.656821,Airport,airport,06_AID
+-6.672359,-12.474764,Airport,airport,07_NWPU_RESISC45
+-6.9189863,-13.944247,Airport,airport,07_NWPU_RESISC45
+-6.8512273,-55.489094,Airport,airport,CLRS
+-8.673939,-11.4363165,Airport,airport,07_NWPU_RESISC45
+-7.5980535,-56.22941,Airport,airport,CLRS
+-7.455175,-6.3607144,Airport,airport,06_AID
+-9.005065,-11.325316,Airport,airport,07_NWPU_RESISC45
+-8.650286,-11.885689,Airport,airport,07_NWPU_RESISC45
+-13.951621,-14.526425,Airport,airport,CLRS
+-9.782219,-13.9619,Airport,airport,07_NWPU_RESISC45
+-10.071415,-14.201094,Airport,airport,06_AID
+-6.355915,-12.041273,Airport,airport,07_NWPU_RESISC45
+-8.95354,-16.214485,Airport,airport,RSD46-WHU
+-10.012884,-54.006813,Airport,airport,CLRS
+-9.964404,-54.169247,Airport,airport,CLRS
+-12.569947,-15.078458,Airport,airport,06_AID
+4.6706424,6.5347676,Airport,airport,07_NWPU_RESISC45
+-11.195837,-15.3697815,Airport,airport,06_AID
+-26.483782,19.54055,Turning_Circle and closed_road,road,05_PatternNet
+-39.039295,1.874687,Turning_Circle and closed_road,transportation,01_RSI_CB128
+-28.04468,19.604418,Turning_Circle and closed_road,road,05_PatternNet
+-39.33913,1.6358505,Turning_Circle and closed_road,transportation,01_RSI_CB128
+-28.534777,18.639002,Turning_Circle and closed_road,road,05_PatternNet
+-26.767302,19.051302,Turning_Circle and closed_road,road,05_PatternNet
+-39.874916,1.4708123,Turning_Circle and closed_road,transportation,01_RSI_CB128
+-41.67915,0.38721198,Turning_Circle and closed_road,transportation,01_RSI_CB128
+-40.214462,2.186713,Turning_Circle and closed_road,transportation,01_RSI_CB128
+-27.75826,18.03343,Turning_Circle and closed_road,road,05_PatternNet
+-26.121916,21.156479,Turning_Circle and closed_road,road,05_PatternNet
+-26.282215,22.464907,Turning_Circle and closed_road,road,05_PatternNet
+-25.859499,21.70113,Turning_Circle and closed_road,road,05_PatternNet
+-26.53003,21.56429,Turning_Circle and closed_road,road,05_PatternNet
+-26.130892,20.230722,Turning_Circle and closed_road,road,05_PatternNet
+-26.078257,18.793785,Turning_Circle and closed_road,road,05_PatternNet
+-28.404099,20.895493,Turning_Circle and closed_road,road,05_PatternNet
+-25.22867,17.626493,Turning_Circle and closed_road,road,05_PatternNet
+-28.09102,18.175415,Turning_Circle and closed_road,road,05_PatternNet
+-26.140642,20.454721,Turning_Circle and closed_road,road,05_PatternNet
+-38.592358,2.3107443,Turning_Circle and closed_road,transportation,01_RSI_CB128
+-27.38331,21.321754,Turning_Circle and closed_road,road,05_PatternNet
+-27.66661,21.715319,Turning_Circle and closed_road,road,05_PatternNet
+-24.881012,17.50846,Turning_Circle and closed_road,road,05_PatternNet
+-39.171864,-0.55744916,Turning_Circle and closed_road,transportation,01_RSI_CB128
+-36.71211,-0.18256219,Turning_Circle and closed_road,transportation,01_RSI_CB128
+-38.56637,-0.15682618,Turning_Circle and closed_road,transportation,01_RSI_CB128
+-41.83682,0.48756352,Turning_Circle and closed_road,transportation,01_RSI_CB128
+-26.818525,21.170183,Turning_Circle and closed_road,road,05_PatternNet
+-27.511261,19.894379,Turning_Circle and closed_road,road,05_PatternNet
+-27.22103,22.474424,Turning_Circle and closed_road,road,05_PatternNet
+-28.564987,19.829374,Turning_Circle and closed_road,road,05_PatternNet
+-28.779549,13.160445,Turning_Circle and closed_road,transportation,01_RSI_CB128
+-22.29194,12.590178,Turning_Circle and closed_road,road,05_PatternNet
+-27.481571,18.753967,Turning_Circle and closed_road,road,05_PatternNet
+-27.552692,20.315771,Turning_Circle and closed_road,road,05_PatternNet
+-25.302864,21.86961,Turning_Circle and closed_road,road,05_PatternNet
+-27.217299,19.367363,Turning_Circle and closed_road,road,05_PatternNet
+-26.471016,20.387417,Turning_Circle and closed_road,road,05_PatternNet
+-26.468895,17.519642,Turning_Circle and closed_road,road,05_PatternNet
+-29.307426,10.954997,Stadium or playground or football field or tenis or basketball,tennis_court,UCMerced_LandUse
+-14.65733,11.40766,Stadium or playground or football field or tenis or basketball,playground,CLRS
+-10.867787,35.09567,Stadium or playground or football field or tenis or basketball,basketball_court,05_PatternNet
+-20.688702,9.379951,Stadium or playground or football field or tenis or basketball,tennis_court,07_NWPU_RESISC45
+-17.190004,13.905449,Stadium or playground or football field or tenis or basketball,,RSICD_images_correct
+-23.56111,-0.4254194,Stadium or playground or football field or tenis or basketball,stadium,CLRS
+-6.2306137,-23.041424,Stadium or playground or football field or tenis or basketball,basketball_court,05_PatternNet
+-19.171164,28.591434,Stadium or playground or football field or tenis or basketball,football_field,05_PatternNet
+5.30232,0.64016694,Stadium or playground or football field or tenis or basketball,tennis_court,05_PatternNet
+-18.99444,29.489971,Stadium or playground or football field or tenis or basketball,playground,RSITMD
+-38.514023,-18.464256,Stadium or playground or football field or tenis or basketball,,RSICD_images_correct
+-19.231827,28.741331,Stadium or playground or football field or tenis or basketball,football_field,05_PatternNet
+-20.448456,30.400686,Stadium or playground or football field or tenis or basketball,stadium,07_NWPU_RESISC45
+-28.774143,-6.19145,Stadium or playground or football field or tenis or basketball,basketball_court,07_NWPU_RESISC45
+-21.014969,28.579123,Stadium or playground or football field or tenis or basketball,stadium,CLRS
+-20.282425,30.500942,Stadium or playground or football field or tenis or basketball,stadium,06_AID
+-13.763361,10.755325,Stadium or playground or football field or tenis or basketball,tennis_court,07_NWPU_RESISC45
+-32.144318,-1.8220385,Stadium or playground or football field or tenis or basketball,basketball_court,07_NWPU_RESISC45
+-31.655233,-0.9524344,Stadium or playground or football field or tenis or basketball,tennis_court,UCMerced_LandUse
+-18.829142,29.785273,Stadium or playground or football field or tenis or basketball,playground,RSITMD
+-20.45323,9.570296,Stadium or playground or football field or tenis or basketball,tennis_court,07_NWPU_RESISC45
+-20.037226,9.993491,Stadium or playground or football field or tenis or basketball,tennis_court,07_NWPU_RESISC45
+-19.973618,28.692066,Stadium or playground or football field or tenis or basketball,football_field,05_PatternNet
+-15.906876,10.979991,Stadium or playground or football field or tenis or basketball,ground_track_field,07_NWPU_RESISC45
+-3.6045825,-7.395307,Stadium or playground or football field or tenis or basketball,,RSICD_images_correct
+-20.386908,29.457235,Stadium or playground or football field or tenis or basketball,stadium,07_NWPU_RESISC45
+-18.216272,29.751759,Stadium or playground or football field or tenis or basketball,playground,RSITMD
+-29.427116,2.4860091,Stadium or playground or football field or tenis or basketball,basketball_court,RSD46-WHU
+-20.30814,30.325512,Stadium or playground or football field or tenis or basketball,stadium,CLRS
+-5.0694575,-11.064969,Stadium or playground or football field or tenis or basketball,,RSICD_images_correct
+-34.367702,1.8143466,Stadium or playground or football field or tenis or basketball,basketball_court,07_NWPU_RESISC45
+-21.248886,28.27277,Stadium or playground or football field or tenis or basketball,stadium,07_NWPU_RESISC45
+-31.087376,-1.7686002,Stadium or playground or football field or tenis or basketball,tennis_court,05_PatternNet
+-20.143896,29.149698,Stadium or playground or football field or tenis or basketball,stadium,07_NWPU_RESISC45
+4.759029,7.5082006,Stadium or playground or football field or tenis or basketball,ground_track_field,07_NWPU_RESISC45
+-29.609808,10.971585,Stadium or playground or football field or tenis or basketball,tennis_court,UCMerced_LandUse
+-14.511945,10.47596,Stadium or playground or football field or tenis or basketball,playground,CLRS
+-17.131952,13.526252,Stadium or playground or football field or tenis or basketball,football_field,05_PatternNet
+-31.856699,-1.6394215,Stadium or playground or football field or tenis or basketball,tennis_court,05_PatternNet
+-3.9013376,-7.2042184,Stadium or playground or football field or tenis or basketball,,RSICD_images_correct
+-36.92518,-34.575344,plastic greenhouse,plastic_greenhouse,RSD46-WHU
+-37.33931,-36.226246,plastic greenhouse,plastic_greenhouse,RSD46-WHU
+-37.087574,-32.459316,plastic greenhouse,plastic_greenhouse,RSD46-WHU
+-33.39012,-33.023205,plastic greenhouse,plastic_greenhouse,RSD46-WHU
+-36.576622,-33.955105,plastic greenhouse,plastic_greenhouse,RSD46-WHU
+-38.42234,-34.215557,plastic greenhouse,plastic_greenhouse,RSD46-WHU
+3.1231637,-0.45430288,plastic greenhouse,plastic_greenhouse,RSD46-WHU
+-40.977463,-33.179817,plastic greenhouse,plastic_greenhouse,RSD46-WHU
+-38.38947,-31.978846,plastic greenhouse,plastic_greenhouse,RSD46-WHU
+-37.79849,-37.540325,plastic greenhouse,plastic_greenhouse,RSD46-WHU
+-40.477028,-33.059643,plastic greenhouse,plastic_greenhouse,RSD46-WHU
+-39.462112,-31.854965,plastic greenhouse,plastic_greenhouse,RSD46-WHU
+-38.67667,-35.312126,plastic greenhouse,plastic_greenhouse,RSD46-WHU
+-36.988167,-34.520924,plastic greenhouse,plastic_greenhouse,RSD46-WHU
+-39.000164,-35.56574,plastic greenhouse,plastic_greenhouse,RSD46-WHU
+-36.27927,-35.6025,plastic greenhouse,plastic_greenhouse,RSD46-WHU
+-37.080734,-33.794815,plastic greenhouse,plastic_greenhouse,RSD46-WHU
+-39.503242,-34.466583,plastic greenhouse,plastic_greenhouse,RSD46-WHU
+-39.5314,-35.638237,plastic greenhouse,plastic_greenhouse,RSD46-WHU
+-37.533756,-33.52992,plastic greenhouse,plastic_greenhouse,RSD46-WHU
+-36.746735,-33.68897,plastic greenhouse,plastic_greenhouse,RSD46-WHU
+-38.688408,-32.001823,plastic greenhouse,plastic_greenhouse,RSD46-WHU
+-39.089375,-35.386765,plastic greenhouse,plastic_greenhouse,RSD46-WHU
+-36.565567,-32.942387,plastic greenhouse,plastic_greenhouse,RSD46-WHU
+-39.822403,-32.707172,plastic greenhouse,plastic_greenhouse,RSD46-WHU
+-36.2903,-35.38729,plastic greenhouse,plastic_greenhouse,RSD46-WHU
+-40.53357,-36.36407,plastic greenhouse,plastic_greenhouse,RSD46-WHU
+-39.481018,-34.021812,plastic greenhouse,plastic_greenhouse,RSD46-WHU
+-36.57807,-34.443085,plastic greenhouse,plastic_greenhouse,RSD46-WHU
+-38.619873,-36.69782,plastic greenhouse,plastic_greenhouse,RSD46-WHU
+-33.6888,-33.381477,plastic greenhouse,plastic_greenhouse,RSD46-WHU
+-39.378292,-35.90941,plastic greenhouse,plastic_greenhouse,RSD46-WHU
+-32.82637,-32.458286,plastic greenhouse,plastic_greenhouse,RSD46-WHU
+-38.91089,-32.737366,plastic greenhouse,plastic_greenhouse,RSD46-WHU
+-40.662243,-34.84581,plastic greenhouse,plastic_greenhouse,RSD46-WHU
+-39.906418,-32.58969,plastic greenhouse,plastic_greenhouse,RSD46-WHU
+-38.435173,-36.27548,plastic greenhouse,plastic_greenhouse,RSD46-WHU
+-38.316513,-36.106995,plastic greenhouse,plastic_greenhouse,RSD46-WHU
+-39.637146,-34.08528,plastic greenhouse,plastic_greenhouse,RSD46-WHU
+-39.152504,-33.1886,plastic greenhouse,plastic_greenhouse,RSD46-WHU
+-19.239151,-29.663334,parking_space,parking_space,05_PatternNet
+-16.48129,-31.021841,parking_space,parking_space,05_PatternNet
+-20.576315,-27.928848,parking_space,parking_space,05_PatternNet
+-16.634396,-34.86755,parking_space,parking_space,05_PatternNet
+-32.735462,-3.4112923,parking_space,parking_space,05_PatternNet
+-20.309113,-29.357542,parking_space,parking_space,05_PatternNet
+-17.002497,-37.006794,parking_space,parking_space,05_PatternNet
+-18.99904,-29.621151,parking_space,parking_space,05_PatternNet
+-20.394873,-29.357412,parking_space,parking_space,05_PatternNet
+-20.388426,-29.13292,parking_space,parking_space,05_PatternNet
+-39.822666,10.659864,parking_space,parking_space,05_PatternNet
+-14.916796,-36.601036,parking_space,parking_space,05_PatternNet
+-18.176765,-38.125988,parking_space,parking_space,05_PatternNet
+-13.795038,-33.577385,parking_space,parking_space,05_PatternNet
+-15.067142,-36.80776,parking_space,parking_space,05_PatternNet
+-16.258835,-31.709026,parking_space,parking_space,05_PatternNet
+-17.247522,-37.615417,parking_space,parking_space,05_PatternNet
+-16.80528,-36.93524,parking_space,parking_space,05_PatternNet
+-16.91298,-31.90841,parking_space,parking_space,05_PatternNet
+-16.321531,-32.068523,parking_space,parking_space,05_PatternNet
+-17.321522,-31.73121,parking_space,parking_space,05_PatternNet
+-16.57878,-35.079372,parking_space,parking_space,05_PatternNet
+-19.381363,-37.56572,parking_space,parking_space,05_PatternNet
+-14.896965,-36.623318,parking_space,parking_space,05_PatternNet
+-19.720013,-37.36802,parking_space,parking_space,05_PatternNet
+-16.154224,-32.34132,parking_space,parking_space,05_PatternNet
+-18.350077,-28.863365,parking_space,parking_space,05_PatternNet
+-18.733906,-28.985247,parking_space,parking_space,05_PatternNet
+-17.802158,-29.602877,parking_space,parking_space,05_PatternNet
+-18.604715,-30.995987,parking_space,parking_space,05_PatternNet
+-17.129782,-36.812103,parking_space,parking_space,05_PatternNet
+-17.111814,-37.602783,parking_space,parking_space,05_PatternNet
+-17.676538,-30.239647,parking_space,parking_space,05_PatternNet
+-18.060804,-31.105022,parking_space,parking_space,05_PatternNet
+-17.184507,-37.970436,parking_space,parking_space,05_PatternNet
+-15.341038,-33.845573,parking_space,parking_space,05_PatternNet
+-19.521221,-37.489876,parking_space,parking_space,05_PatternNet
+-16.957226,-33.386772,parking_space,parking_space,05_PatternNet
+-20.61732,-27.834932,parking_space,parking_space,05_PatternNet
+-19.254911,-37.60128,parking_space,parking_space,05_PatternNet
+13.850172,-36.878456,Bridge,transportation,01_RSI_CB128
+6.1637964,-17.481457,Bridge,bridge,06_AID
+-17.40903,-10.240114,Bridge,bridge,07_NWPU_RESISC45
+-13.412061,-13.135759,Bridge,bridge,07_NWPU_RESISC45
+-21.79924,-10.669957,Bridge,bridge,07_NWPU_RESISC45
+2.817209,-31.276459,Bridge,bridge,05_PatternNet
+-14.450056,-17.09388,Bridge,footbridge,RSD46-WHU
+2.0385683,-18.391058,Bridge,transportation,01_RSI_CB128
+3.2216063,-16.264618,Bridge,bridge,CLRS
+3.503418,-27.3748,Bridge,cross_river_bridge,RSD46-WHU
+-1.5304841,-30.918625,Bridge,transportation,01_RSI_CB128
+-0.17713276,7.394174,Bridge,bridge,CLRS
+5.0339627,-18.19143,Bridge,bridge,07_NWPU_RESISC45
+-21.3232,-11.924307,Bridge,bridge,CLRS
+4.3087597,-34.44816,Bridge,transportation,01_RSI_CB128
+0.21063007,-29.937387,Bridge,bridge,05_PatternNet
+-8.136844,4.8726406,Bridge,footbridge,RSD46-WHU
+4.7596626,-7.452677,Bridge,bridge,CLRS
+1.9177992,-30.153708,Bridge,bridge,05_PatternNet
+6.381693,-21.578646,Bridge,cross_river_bridge,RSD46-WHU
+4.1151295,-17.574602,Bridge,bridge,CLRS
+3.0023034,-17.883774,Bridge,bridge,07_NWPU_RESISC45
+-15.644832,12.562802,Bridge,bridge,CLRS
+3.3145201,-28.033663,Bridge,bridge,07_NWPU_RESISC45
+1.8982024,-30.075642,Bridge,bridge,05_PatternNet
+2.8392658,-17.273804,Bridge,bridge,CLRS
+1.8361127,-30.233847,Bridge,bridge,05_PatternNet
+-20.105555,-10.79437,Bridge,bridge,06_AID
+-1.086475,-31.847086,Bridge,transportation,01_RSI_CB128
+4.308892,-34.486565,Bridge,transportation,01_RSI_CB128
+4.2821155,-34.40396,Bridge,transportation,01_RSI_CB128
+-18.88369,-11.518524,Bridge,bridge,06_AID
+13.781176,-36.837555,Bridge,transportation,01_RSI_CB128
+4.373788,-34.460888,Bridge,transportation,01_RSI_CB128
+6.3033237,-16.517675,Bridge,bridge,06_AID
+-0.8980812,-30.49415,Bridge,bridge,05_PatternNet
+-16.60188,-9.080893,Bridge,bridge,CLRS
+-21.648327,-8.636127,Bridge,footbridge,RSD46-WHU
+13.782648,-36.835205,Bridge,bridge,09_RSI-CB256
+-0.7223853,-30.09564,Bridge,bridge,09_RSI-CB256
+9.4801655,-2.4217918,cemetery,cemetery,05_PatternNet
+7.969857,-1.7429389,cemetery,cemetery,05_PatternNet
+8.568433,-0.47966248,cemetery,cemetery,05_PatternNet
+41.480812,-20.499565,cemetery,construction_land,01_RSI_CB128
+7.9866123,0.1313097,cemetery,cemetery,05_PatternNet
+7.940431,-4.0121465,cemetery,cemetery,05_PatternNet
+9.395689,-1.1199054,cemetery,cemetery,05_PatternNet
+8.204532,-1.4292299,cemetery,cemetery,05_PatternNet
+8.8082,-2.424168,cemetery,cemetery,05_PatternNet
+41.448746,-20.562994,cemetery,construction_land,01_RSI_CB128
+7.979358,-3.7540069,cemetery,cemetery,05_PatternNet
+41.688625,-19.909481,cemetery,construction_land,01_RSI_CB128
+41.93998,-19.85631,cemetery,construction_land,01_RSI_CB128
+8.991715,-3.6400156,cemetery,cemetery,05_PatternNet
+11.990376,-1.6157142,cemetery,cemetery,05_PatternNet
+9.462035,-1.5902766,cemetery,cemetery,05_PatternNet
+-4.196357,-36.42109,cemetery,construction_land,01_RSI_CB128
+10.70076,-1.739248,cemetery,cemetery,05_PatternNet
+-19.647146,-23.572205,cemetery,cemetery,05_PatternNet
+8.14159,-3.0158877,cemetery,cemetery,05_PatternNet
+10.076255,-2.0634015,cemetery,cemetery,05_PatternNet
+10.34296,-3.635299,cemetery,cemetery,05_PatternNet
+8.1574545,-2.5830774,cemetery,cemetery,05_PatternNet
+9.05106,-0.26843983,cemetery,cemetery,05_PatternNet
+41.169773,-21.237427,cemetery,construction_land,01_RSI_CB128
+9.737905,-0.5582233,cemetery,cemetery,05_PatternNet
+8.140685,-3.6781516,cemetery,cemetery,05_PatternNet
+-4.181813,-36.40646,cemetery,construction_land,01_RSI_CB128
+40.667656,-21.966501,cemetery,construction_land,01_RSI_CB128
+9.237463,-1.690246,cemetery,cemetery,05_PatternNet
+11.710564,3.4199135,cemetery,construction_land,01_RSI_CB128
+41.666656,-19.197424,cemetery,construction_land,01_RSI_CB128
+10.363207,2.2661052,cemetery,construction_land,01_RSI_CB128
+8.707578,-0.9302329,cemetery,cemetery,05_PatternNet
+11.024237,-1.9071125,cemetery,cemetery,05_PatternNet
+40.969376,-21.635769,cemetery,construction_land,01_RSI_CB128
+7.7746606,-3.026702,cemetery,cemetery,05_PatternNet
+7.605831,-1.5244082,cemetery,cemetery,05_PatternNet
+8.584486,-2.8925536,cemetery,cemetery,05_PatternNet
+41.646183,-19.766376,cemetery,construction_land,01_RSI_CB128
+58.277676,19.207367,sea_ice,sea_ice,07_NWPU_RESISC45
+55.81096,20.676369,sea_ice,sea_ice,07_NWPU_RESISC45
+55.840862,17.40355,sea_ice,sea_ice,07_NWPU_RESISC45
+55.172512,20.14597,sea_ice,sea_ice,07_NWPU_RESISC45
+54.972622,17.048044,sea_ice,sea_ice,07_NWPU_RESISC45
+58.2367,19.680765,sea_ice,sea_ice,07_NWPU_RESISC45
+55.155365,23.650755,sea_ice,sea_ice,07_NWPU_RESISC45
+53.760128,17.718138,sea_ice,sea_ice,07_NWPU_RESISC45
+54.783085,20.281952,sea_ice,sea_ice,07_NWPU_RESISC45
+55.920486,19.358597,sea_ice,sea_ice,07_NWPU_RESISC45
+54.80228,17.830214,sea_ice,sea_ice,07_NWPU_RESISC45
+57.37842,21.07164,sea_ice,sea_ice,07_NWPU_RESISC45
+56.148373,19.15061,sea_ice,sea_ice,07_NWPU_RESISC45
+56.765907,19.026976,sea_ice,sea_ice,07_NWPU_RESISC45
+57.115177,20.133993,sea_ice,sea_ice,07_NWPU_RESISC45
+57.181683,19.081814,sea_ice,sea_ice,07_NWPU_RESISC45
+56.52772,20.362196,sea_ice,sea_ice,07_NWPU_RESISC45
+54.44846,18.00511,sea_ice,sea_ice,07_NWPU_RESISC45
+55.132206,23.656069,sea_ice,sea_ice,07_NWPU_RESISC45
+56.32693,18.379309,sea_ice,sea_ice,07_NWPU_RESISC45
+54.30346,19.669,sea_ice,sea_ice,07_NWPU_RESISC45
+55.529076,17.90269,sea_ice,sea_ice,07_NWPU_RESISC45
+57.453873,20.169907,sea_ice,sea_ice,07_NWPU_RESISC45
+55.138195,23.576496,sea_ice,sea_ice,07_NWPU_RESISC45
+55.003326,20.971157,sea_ice,sea_ice,07_NWPU_RESISC45
+53.574924,20.237501,sea_ice,sea_ice,07_NWPU_RESISC45
+55.119907,19.380152,sea_ice,sea_ice,07_NWPU_RESISC45
+56.841053,18.588064,sea_ice,sea_ice,07_NWPU_RESISC45
+56.417923,21.252756,sea_ice,sea_ice,07_NWPU_RESISC45
+57.39482,17.886326,sea_ice,sea_ice,07_NWPU_RESISC45
+57.036587,20.864073,sea_ice,sea_ice,07_NWPU_RESISC45
+56.387165,20.044916,sea_ice,sea_ice,07_NWPU_RESISC45
+54.634727,20.988663,sea_ice,sea_ice,07_NWPU_RESISC45
+56.933437,19.89805,sea_ice,sea_ice,07_NWPU_RESISC45
+56.007504,19.930473,sea_ice,sea_ice,07_NWPU_RESISC45
+55.204926,21.739223,sea_ice,sea_ice,07_NWPU_RESISC45
+56.71582,19.688904,sea_ice,sea_ice,07_NWPU_RESISC45
+57.735287,19.707436,sea_ice,sea_ice,07_NWPU_RESISC45
+55.749546,16.531359,sea_ice,sea_ice,07_NWPU_RESISC45
+56.119427,17.966185,sea_ice,sea_ice,07_NWPU_RESISC45
+-8.47625,39.234875,oil_gas_field,oil_gas_field,05_PatternNet
+-10.142751,41.041553,oil_gas_field,oil_gas_field,05_PatternNet
+-6.6765757,43.859554,oil_gas_field,oil_gas_field,05_PatternNet
+-8.7911625,40.92807,oil_gas_field,oil_gas_field,05_PatternNet
+-9.145309,42.745216,oil_gas_field,oil_gas_field,05_PatternNet
+-6.469391,40.09609,oil_gas_field,oil_gas_field,05_PatternNet
+-7.1696553,39.925083,oil_gas_field,oil_gas_field,05_PatternNet
+-6.746053,39.82619,oil_gas_field,oil_gas_field,05_PatternNet
+-8.730696,42.983803,oil_gas_field,oil_gas_field,05_PatternNet
+-6.9655857,40.207973,oil_gas_field,oil_gas_field,05_PatternNet
+-8.802226,40.17519,oil_gas_field,oil_gas_field,05_PatternNet
+-6.928374,42.66077,oil_gas_field,oil_gas_field,05_PatternNet
+-7.2902136,41.344696,oil_gas_field,oil_gas_field,05_PatternNet
+-6.582983,40.6693,oil_gas_field,oil_gas_field,05_PatternNet
+-8.350251,44.249058,oil_gas_field,oil_gas_field,05_PatternNet
+-6.687306,40.148693,oil_gas_field,oil_gas_field,05_PatternNet
+-8.112631,41.929863,oil_gas_field,oil_gas_field,05_PatternNet
+-7.974516,40.9098,oil_gas_field,oil_gas_field,05_PatternNet
+-9.267879,40.111393,oil_gas_field,oil_gas_field,05_PatternNet
+-7.3541336,41.997917,oil_gas_field,oil_gas_field,05_PatternNet
+-8.820646,41.431313,oil_gas_field,oil_gas_field,05_PatternNet
+-8.659332,41.686493,oil_gas_field,oil_gas_field,05_PatternNet
+-6.103928,39.054203,oil_gas_field,oil_gas_field,05_PatternNet
+-8.705823,41.386864,oil_gas_field,oil_gas_field,05_PatternNet
+-7.732669,39.364994,oil_gas_field,oil_gas_field,05_PatternNet
+-7.4295363,43.387093,oil_gas_field,oil_gas_field,05_PatternNet
+-6.750246,42.491722,oil_gas_field,oil_gas_field,05_PatternNet
+-7.9766846,40.411606,oil_gas_field,oil_gas_field,05_PatternNet
+-9.01145,39.682877,oil_gas_field,oil_gas_field,05_PatternNet
+-9.07951,41.831814,oil_gas_field,oil_gas_field,05_PatternNet
+-10.176401,43.460785,oil_gas_field,oil_gas_field,05_PatternNet
+-10.075146,42.485153,oil_gas_field,oil_gas_field,05_PatternNet
+-9.787044,40.541065,oil_gas_field,oil_gas_field,05_PatternNet
+-8.147132,41.261456,oil_gas_field,oil_gas_field,05_PatternNet
+-9.6999035,43.39531,oil_gas_field,oil_gas_field,05_PatternNet
+-6.6369853,40.972916,oil_gas_field,oil_gas_field,05_PatternNet
+-6.450709,41.20531,oil_gas_field,oil_gas_field,05_PatternNet
+-8.003271,40.960884,oil_gas_field,oil_gas_field,05_PatternNet
+-9.750918,42.893246,oil_gas_field,oil_gas_field,05_PatternNet
+-7.45382,43.62255,oil_gas_field,oil_gas_field,05_PatternNet
+-14.686296,26.03678,baseballdiamond or field,baseball_diamond,05_PatternNet
+-14.606094,25.906088,baseballdiamond or field,baseball_diamond,05_PatternNet
+-12.973698,27.641191,baseballdiamond or field,baseball_diamond,05_PatternNet
+-9.297807,19.927828,baseballdiamond or field,baseball_diamond,RSITMD
+-14.06089,28.601334,baseballdiamond or field,baseball_diamond,05_PatternNet
+8.5159,-12.553226,baseballdiamond or field,baseball_diamond,05_PatternNet
+-15.029677,25.982437,baseballdiamond or field,baseball_diamond,05_PatternNet
+-14.009175,13.321542,baseballdiamond or field,baseball_diamond,07_NWPU_RESISC45
+-12.5931015,23.75989,baseballdiamond or field,baseball_diamond,RSITMD
+-17.171309,14.431302,baseballdiamond or field,baseball_diamond,07_NWPU_RESISC45
+-12.570684,29.533503,baseballdiamond or field,baseball_diamond,RSITMD
+-15.195849,29.337244,baseballdiamond or field,baseball_diamond,UCMerced_LandUse
+-13.166328,13.8188715,baseballdiamond or field,baseball_diamond,07_NWPU_RESISC45
+-14.240864,18.177504,baseballdiamond or field,baseball_diamond,05_PatternNet
+-9.779615,20.608334,baseballdiamond or field,baseball_diamond,07_NWPU_RESISC45
+-12.696785,23.483257,baseballdiamond or field,baseball_diamond,RSITMD
+-14.127308,28.742878,baseballdiamond or field,baseball_diamond,05_PatternNet
+-11.484086,21.992361,baseballdiamond or field,baseball_diamond,07_NWPU_RESISC45
+-13.739002,30.392565,baseballdiamond or field,baseball_diamond,05_PatternNet
+-12.79936,27.341885,baseballdiamond or field,baseball_diamond,05_PatternNet
+-14.692104,28.989431,baseballdiamond or field,baseball_diamond,05_PatternNet
+-11.171384,21.200989,baseballdiamond or field,baseball_diamond,07_NWPU_RESISC45
+-17.173933,14.00353,baseballdiamond or field,baseball_diamond,07_NWPU_RESISC45
+14.47299,22.684803,baseballdiamond or field,baseball_diamond,UCMerced_LandUse
+-15.11031,12.83672,baseballdiamond or field,baseball_diamond,07_NWPU_RESISC45
+-14.8378935,25.484413,baseballdiamond or field,baseball_diamond,05_PatternNet
+-14.021066,30.940811,baseballdiamond or field,baseball_diamond,05_PatternNet
+-23.67935,-6.914111,baseballdiamond or field,baseball_diamond,07_NWPU_RESISC45
+-14.417342,29.609472,baseballdiamond or field,baseball_diamond,05_PatternNet
+-9.992968,29.613852,baseballdiamond or field,baseball_diamond,05_PatternNet
+-14.426235,30.562706,baseballdiamond or field,baseball_diamond,05_PatternNet
+-13.936983,27.626919,baseballdiamond or field,baseball_diamond,05_PatternNet
+-13.390131,29.579607,baseballdiamond or field,baseball_diamond,05_PatternNet
+-14.617953,30.724607,baseballdiamond or field,baseball_diamond,05_PatternNet
+-14.342369,13.206157,baseballdiamond or field,baseball_diamond,07_NWPU_RESISC45
+-12.828432,27.331707,baseballdiamond or field,baseball_diamond,05_PatternNet
+-14.525977,29.823145,baseballdiamond or field,baseball_diamond,07_NWPU_RESISC45
+-15.945907,29.309198,baseballdiamond or field,baseball_diamond,RSITMD
+31.930195,-10.448617,baseballdiamond or field,baseball_diamond,RSITMD
+-14.024169,12.425527,baseballdiamond or field,baseball_diamond,07_NWPU_RESISC45
+-11.5196295,-21.534678,transformer_station,transformer_station,05_PatternNet
+-10.3256445,-22.060875,transformer_station,transformer_station,05_PatternNet
+-7.258178,-21.276533,transformer_station,transformer_station,05_PatternNet
+-9.509339,-24.2264,transformer_station,transformer_station,05_PatternNet
+-14.023359,-23.139626,transformer_station,transformer_station,05_PatternNet
+-12.437258,-23.370075,transformer_station,transformer_station,05_PatternNet
+-13.709777,-23.070587,transformer_station,transformer_station,05_PatternNet
+-11.614859,-23.49093,transformer_station,transformer_station,05_PatternNet
+-9.17955,-22.599457,transformer_station,transformer_station,05_PatternNet
+-11.394052,-22.682064,transformer_station,transformer_station,05_PatternNet
+-12.082262,-24.573938,transformer_station,transformer_station,05_PatternNet
+-14.533841,-21.584433,transformer_station,transformer_station,05_PatternNet
+-9.1945,-24.547829,transformer_station,transformer_station,05_PatternNet
+-8.90908,-24.767437,transformer_station,transformer_station,05_PatternNet
+-10.802663,-20.779907,transformer_station,transformer_station,05_PatternNet
+-13.371447,-24.392855,transformer_station,transformer_station,05_PatternNet
+-10.8275,-21.764511,transformer_station,transformer_station,05_PatternNet
+-7.304167,-21.833559,transformer_station,transformer_station,05_PatternNet
+-10.990894,-22.52414,transformer_station,transformer_station,05_PatternNet
+-13.244415,-22.838177,transformer_station,transformer_station,05_PatternNet
+-7.3806663,-24.88526,transformer_station,transformer_station,05_PatternNet
+-7.736521,-22.455118,transformer_station,transformer_station,05_PatternNet
+-11.2444315,-22.071182,transformer_station,transformer_station,05_PatternNet
+-10.035826,-18.540367,transformer_station,transformer_station,05_PatternNet
+-7.3070464,-22.423697,transformer_station,transformer_station,05_PatternNet
+-8.07645,-21.572485,transformer_station,transformer_station,05_PatternNet
+-10.874987,-20.578695,transformer_station,transformer_station,05_PatternNet
+-7.8789024,-21.741718,transformer_station,transformer_station,05_PatternNet
+-13.804201,-22.466646,transformer_station,transformer_station,05_PatternNet
+-13.478976,-22.100061,transformer_station,transformer_station,05_PatternNet
+-10.750043,-20.935514,transformer_station,transformer_station,05_PatternNet
+-11.1651535,-23.879572,transformer_station,transformer_station,05_PatternNet
+-13.562517,-22.303635,transformer_station,transformer_station,05_PatternNet
+-11.840097,-25.17377,transformer_station,transformer_station,05_PatternNet
+-11.592386,-24.25016,transformer_station,transformer_station,05_PatternNet
+-11.849403,-23.307995,transformer_station,transformer_station,05_PatternNet
+-13.211545,-23.851475,transformer_station,transformer_station,05_PatternNet
+-7.426689,-24.877436,transformer_station,transformer_station,05_PatternNet
+-7.5030036,-29.095798,transformer_station,transformer_station,05_PatternNet
+-10.569349,-18.765837,transformer_station,transformer_station,05_PatternNet
+49.979496,-20.925146,dry_farm,agriculture,09_RSI-CB256
+52.1771,-20.909391,dry_farm,agriculture,09_RSI-CB256
+50.91796,-20.898731,dry_farm,agriculture,09_RSI-CB256
+49.918526,-19.149012,dry_farm,agriculture,01_RSI_CB128
+47.820534,-16.188189,dry_farm,agriculture,01_RSI_CB128
+54.685715,-20.099796,dry_farm,agriculture,01_RSI_CB128
+52.378048,-19.295944,dry_farm,agriculture,09_RSI-CB256
+49.5138,-11.189465,dry_farm,agriculture,01_RSI_CB128
+52.34431,-19.235569,dry_farm,agriculture,01_RSI_CB128
+51.690987,-19.972286,dry_farm,agriculture,01_RSI_CB128
+51.860577,-21.566439,dry_farm,agriculture,09_RSI-CB256
+49.34532,-11.525778,dry_farm,agriculture,01_RSI_CB128
+50.047596,-21.061777,dry_farm,agriculture,09_RSI-CB256
+47.076015,-16.161602,dry_farm,agriculture,01_RSI_CB128
+52.424187,-18.685627,dry_farm,agriculture,01_RSI_CB128
+50.281677,-21.847216,dry_farm,agriculture,09_RSI-CB256
+50.121166,-20.648842,dry_farm,agriculture,09_RSI-CB256
+50.093067,-18.303837,dry_farm,agriculture,01_RSI_CB128
+6.209786,-7.0940104,dry_farm,agriculture,WHU-RS19
+19.330994,-14.2501335,dry_farm,permanent_crop,03_EuroSAT
+51.360245,-18.842924,dry_farm,agriculture,01_RSI_CB128
+51.550465,-18.833765,dry_farm,agriculture,01_RSI_CB128
+-32.827377,-21.80624,dry_farm,agriculture,01_RSI_CB128
+4.875972,-9.266995,dry_farm,agriculture,11_SIRI_WHU
+49.832664,-20.84477,dry_farm,agriculture,09_RSI-CB256
+47.109562,-16.144714,dry_farm,agriculture,01_RSI_CB128
+4.902055,-9.398503,dry_farm,agriculture,11_SIRI_WHU
+49.999027,-20.765104,dry_farm,agriculture,09_RSI-CB256
+49.637608,-20.136913,dry_farm,agriculture,01_RSI_CB128
+52.122826,-21.535307,dry_farm,agriculture,09_RSI-CB256
+54.601627,-20.15424,dry_farm,agriculture,09_RSI-CB256
+51.554745,-21.583925,dry_farm,agriculture,09_RSI-CB256
+23.209269,47.51734,dry_farm,agriculture,01_RSI_CB128
+50.47715,-19.392847,dry_farm,agriculture,01_RSI_CB128
+14.428385,2.799694,dry_farm,agriculture,08_RSSCN7
+50.57152,-19.371784,dry_farm,agriculture,01_RSI_CB128
+52.144657,-21.86533,dry_farm,agriculture,09_RSI-CB256
+51.8215,-20.687702,dry_farm,agriculture,09_RSI-CB256
+50.730885,-20.281113,dry_farm,agriculture,01_RSI_CB128
+48.9477,-11.2840185,dry_farm,agriculture,01_RSI_CB128
+8.391666,-17.37062,Port,ferry_terminal,05_PatternNet
+5.7753663,-42.497547,Port,harbor,RSITMD
+6.051658,-41.84787,Port,harbor,06_AID
+7.1389446,-23.614012,Port,ship,07_NWPU_RESISC45
+5.714415,-24.20111,Port,harbor,06_AID
+22.364145,-29.761053,Port,dock,RSD46-WHU
+8.327452,-24.495052,Port,harbor,CLRS
+-0.25186875,6.9234457,Port,harbor,CLRS
+11.2890835,-23.359003,Port,harbor,11_SIRI_WHU
+5.299314,-25.580816,Port,ship,07_NWPU_RESISC45
+1.9757398,-25.28772,Port,harbor,11_SIRI_WHU
+8.452417,-17.331915,Port,ferry_terminal,05_PatternNet
+5.9881325,-24.39935,Port,ship,07_NWPU_RESISC45
+7.8745213,-26.180407,Port,ship,07_NWPU_RESISC45
+0.44454655,-2.4340968,Port,dock,RSD46-WHU
+3.6831834,-22.384153,Port,harbor,CLRS
+10.427507,-22.886723,Port,ship,07_NWPU_RESISC45
+11.096863,-23.424673,Port,harbor,11_SIRI_WHU
+17.089994,-27.655132,Port,dock,RSD46-WHU
+3.9097414,-24.361982,Port,ferry_terminal,05_PatternNet
+8.305426,-25.27143,Port,harbor,CLRS
+5.5984364,-26.821194,Port,ship,07_NWPU_RESISC45
+7.0869775,-41.242546,Port,harbor,RSITMD
+3.390637,-24.238508,Port,ferry_terminal,05_PatternNet
+6.381668,-17.695341,Port,harbor,06_AID
+3.0480769,-21.316126,Port,harbor,CLRS
+4.555701,-22.666918,Port,harbor,06_AID
+-1.1673092,-2.8635077,Port,harbor,CLRS
+7.3042974,-41.54344,Port,ferry_terminal,05_PatternNet
+6.1662807,-25.677376,Port,ship,07_NWPU_RESISC45
+5.569199,-26.876892,Port,ship,07_NWPU_RESISC45
+4.676686,-25.061445,Port,ferry_terminal,05_PatternNet
+-14.819977,-22.966177,Port,harbor,CLRS
+12.038127,-24.72786,Port,dock,RSD46-WHU
+-6.475034,15.00345,Port,harbor,RSITMD
+-4.9099193,-14.416137,Port,ferry_terminal,05_PatternNet
+0.23131244,-2.5945349,Port,dock,RSD46-WHU
+8.018662,-26.502968,Port,ship,07_NWPU_RESISC45
+21.742622,-29.427288,Port,dock,RSD46-WHU
+9.222801,-26.705442,Port,ship,07_NWPU_RESISC45
+16.520853,20.225668,wetland,wetland,07_NWPU_RESISC45
+21.167614,27.168303,wetland,wetland,07_NWPU_RESISC45
+11.749627,23.814566,wetland,wetland,07_NWPU_RESISC45
+18.902294,46.829803,wetland,wetland,07_NWPU_RESISC45
+20.576103,26.184093,wetland,wetland,07_NWPU_RESISC45
+16.939867,21.634558,wetland,wetland,07_NWPU_RESISC45
+18.703293,24.641558,wetland,wetland,07_NWPU_RESISC45
+20.334066,21.798143,wetland,wetland,07_NWPU_RESISC45
+17.1999,20.84526,wetland,wetland,07_NWPU_RESISC45
+15.313676,22.152641,wetland,wetland,07_NWPU_RESISC45
+19.931969,23.46351,wetland,wetland,07_NWPU_RESISC45
+51.8177,22.75765,wetland,wetland,07_NWPU_RESISC45
+18.27776,21.583534,wetland,wetland,07_NWPU_RESISC45
+18.97931,24.190401,wetland,wetland,07_NWPU_RESISC45
+18.719261,26.760967,wetland,wetland,07_NWPU_RESISC45
+11.6140785,23.646637,wetland,wetland,07_NWPU_RESISC45
+16.928776,20.884577,wetland,wetland,07_NWPU_RESISC45
+19.158915,26.448252,wetland,wetland,07_NWPU_RESISC45
+21.060904,27.048727,wetland,wetland,07_NWPU_RESISC45
+18.684574,24.886862,wetland,wetland,07_NWPU_RESISC45
+20.383402,25.891699,wetland,wetland,07_NWPU_RESISC45
+16.919432,20.553616,wetland,wetland,07_NWPU_RESISC45
+19.690346,21.327042,wetland,wetland,07_NWPU_RESISC45
+19.31477,19.794916,wetland,wetland,07_NWPU_RESISC45
+20.743025,25.123327,wetland,wetland,07_NWPU_RESISC45
+20.405605,27.498474,wetland,wetland,07_NWPU_RESISC45
+17.805445,22.392675,wetland,wetland,07_NWPU_RESISC45
+19.520456,25.918926,wetland,wetland,07_NWPU_RESISC45
+21.624084,27.700209,wetland,wetland,07_NWPU_RESISC45
+19.385792,23.868805,wetland,wetland,07_NWPU_RESISC45
+18.530231,21.87563,wetland,wetland,07_NWPU_RESISC45
+20.377813,21.901058,wetland,wetland,07_NWPU_RESISC45
+11.427664,23.630217,wetland,wetland,07_NWPU_RESISC45
+18.831757,47.00075,wetland,wetland,07_NWPU_RESISC45
+19.977123,24.678833,wetland,wetland,07_NWPU_RESISC45
+11.294311,24.64653,wetland,wetland,07_NWPU_RESISC45
+5.2515044,11.627618,wetland,wetland,07_NWPU_RESISC45
+20.338112,26.083668,wetland,wetland,07_NWPU_RESISC45
+18.31154,21.79779,wetland,wetland,07_NWPU_RESISC45
+17.278889,21.16281,wetland,wetland,07_NWPU_RESISC45
+-38.043324,19.298487,Leisure(Resort+Coastal mansion),coastal_mansion,05_PatternNet
+-37.66865,21.510685,Leisure(Resort+Coastal mansion),coastal_mansion,05_PatternNet
+-9.958231,11.734741,Leisure(Resort+Coastal mansion),resort,RSITMD
+-32.7973,25.986242,Leisure(Resort+Coastal mansion),resort,06_AID
+-36.344105,19.631195,Leisure(Resort+Coastal mansion),coastal_mansion,05_PatternNet
+-3.0960371,12.217656,Leisure(Resort+Coastal mansion),resort,06_AID
+-4.377945,14.648024,Leisure(Resort+Coastal mansion),resort,RSITMD
+-11.048275,14.630223,Leisure(Resort+Coastal mansion),resort,RSITMD
+-9.749746,16.000118,Leisure(Resort+Coastal mansion),resort,06_AID
+-37.75748,21.909468,Leisure(Resort+Coastal mansion),coastal_mansion,05_PatternNet
+-35.92072,18.075603,Leisure(Resort+Coastal mansion),coastal_mansion,05_PatternNet
+-35.75214,26.440659,Leisure(Resort+Coastal mansion),resort,RSITMD
+-4.443915,12.323496,Leisure(Resort+Coastal mansion),resort,06_AID
+-38.608418,20.059359,Leisure(Resort+Coastal mansion),coastal_mansion,05_PatternNet
+-36.00283,19.672792,Leisure(Resort+Coastal mansion),coastal_mansion,05_PatternNet
+-35.77243,26.439564,Leisure(Resort+Coastal mansion),resort,06_AID
+-32.2279,26.095453,Leisure(Resort+Coastal mansion),resort,RSITMD
+-6.863863,13.3147955,Leisure(Resort+Coastal mansion),resort,06_AID
+-38.28825,20.035143,Leisure(Resort+Coastal mansion),coastal_mansion,05_PatternNet
+-38.17233,19.23231,Leisure(Resort+Coastal mansion),coastal_mansion,05_PatternNet
+-2.397598,11.197567,Leisure(Resort+Coastal mansion),resort,RSITMD
+-32.467667,26.56183,Leisure(Resort+Coastal mansion),resort,RSITMD
+-36.60088,21.113914,Leisure(Resort+Coastal mansion),coastal_mansion,05_PatternNet
+-4.753157,11.706829,Leisure(Resort+Coastal mansion),resort,RSITMD
+-35.381332,19.106537,Leisure(Resort+Coastal mansion),coastal_mansion,05_PatternNet
+-32.24478,25.518232,Leisure(Resort+Coastal mansion),resort,RSITMD
+-31.404467,25.801266,Leisure(Resort+Coastal mansion),resort,06_AID
+-37.57341,22.357445,Leisure(Resort+Coastal mansion),coastal_mansion,05_PatternNet
+-35.873516,17.659216,Leisure(Resort+Coastal mansion),coastal_mansion,05_PatternNet
+-36.400208,20.385952,Leisure(Resort+Coastal mansion),coastal_mansion,05_PatternNet
+-4.607283,11.344422,Leisure(Resort+Coastal mansion),resort,06_AID
+-36.323883,19.359657,Leisure(Resort+Coastal mansion),coastal_mansion,05_PatternNet
+-35.612923,20.188509,Leisure(Resort+Coastal mansion),coastal_mansion,05_PatternNet
+-32.84418,25.609474,Leisure(Resort+Coastal mansion),resort,06_AID
+-38.206375,18.988514,Leisure(Resort+Coastal mansion),coastal_mansion,05_PatternNet
+-37.754406,22.387234,Leisure(Resort+Coastal mansion),coastal_mansion,05_PatternNet
+-32.94067,26.241405,Leisure(Resort+Coastal mansion),resort,06_AID
+-35.94486,19.382298,Leisure(Resort+Coastal mansion),coastal_mansion,05_PatternNet
+-38.29046,21.447842,Leisure(Resort+Coastal mansion),coastal_mansion,05_PatternNet
+-37.424244,22.914833,Leisure(Resort+Coastal mansion),coastal_mansion,05_PatternNet
+-7.920956,-4.336178,thermal power plant,thermal_power_station,07_NWPU_RESISC45
+-50.272568,-18.214088,thermal power plant,thermal_power_station,07_NWPU_RESISC45
+-15.1048975,-8.773717,thermal power plant,thermal_power_station,07_NWPU_RESISC45
+-52.52604,-15.514489,thermal power plant,thermal_power_station,07_NWPU_RESISC45
+-50.63181,-13.588111,thermal power plant,thermal_power_station,07_NWPU_RESISC45
+-51.038673,-16.572517,thermal power plant,thermal_power_station,07_NWPU_RESISC45
+-49.219547,-16.72243,thermal power plant,thermal_power_station,07_NWPU_RESISC45
+-52.747272,-14.880082,thermal power plant,thermal_power_station,07_NWPU_RESISC45
+-51.408817,-15.500244,thermal power plant,thermal_power_station,07_NWPU_RESISC45
+-11.786367,1.9459713,thermal power plant,thermal_power_station,RSD46-WHU
+-50.189327,-17.343872,thermal power plant,thermal_power_station,07_NWPU_RESISC45
+-53.617683,-14.596943,thermal power plant,thermal_power_station,07_NWPU_RESISC45
+-52.738117,-15.941228,thermal power plant,thermal_power_station,07_NWPU_RESISC45
+-50.761715,-16.532911,thermal power plant,thermal_power_station,07_NWPU_RESISC45
+-53.433994,-14.849621,thermal power plant,thermal_power_station,RSD46-WHU
+-54.22414,-15.206598,thermal power plant,thermal_power_station,RSD46-WHU
+-49.215305,-13.740505,thermal power plant,thermal_power_station,07_NWPU_RESISC45
+-51.655052,-16.584826,thermal power plant,thermal_power_station,07_NWPU_RESISC45
+-51.083393,-14.238292,thermal power plant,thermal_power_station,07_NWPU_RESISC45
+-50.91302,-17.901308,thermal power plant,thermal_power_station,07_NWPU_RESISC45
+-3.4606314,-2.4582524,thermal power plant,thermal_power_station,RSD46-WHU
+-16.155083,-8.973172,thermal power plant,thermal_power_station,07_NWPU_RESISC45
+-6.447448,-4.324456,thermal power plant,thermal_power_station,07_NWPU_RESISC45
+-52.11365,-15.383849,thermal power plant,thermal_power_station,07_NWPU_RESISC45
+-51.359554,-12.397608,thermal power plant,thermal_power_station,07_NWPU_RESISC45
+-49.768536,-17.371193,thermal power plant,thermal_power_station,07_NWPU_RESISC45
+-5.711549,-5.3016753,thermal power plant,thermal_power_station,RSD46-WHU
+-51.38088,-13.705288,thermal power plant,thermal_power_station,07_NWPU_RESISC45
+-8.19921,-2.92139,thermal power plant,thermal_power_station,07_NWPU_RESISC45
+-53.536865,-16.680092,thermal power plant,thermal_power_station,RSD46-WHU
+-52.562138,-16.120152,thermal power plant,thermal_power_station,07_NWPU_RESISC45
+-54.674847,-14.460262,thermal power plant,thermal_power_station,RSD46-WHU
+-7.962934,-0.5329765,thermal power plant,thermal_power_station,RSD46-WHU
+-53.712135,-13.930038,thermal power plant,thermal_power_station,07_NWPU_RESISC45
+-54.022285,-16.36568,thermal power plant,thermal_power_station,RSD46-WHU
+-50.21774,-14.865709,thermal power plant,thermal_power_station,07_NWPU_RESISC45
+-26.15511,4.3809977,thermal power plant,thermal_power_station,RSD46-WHU
+-52.461803,-15.779985,thermal power plant,thermal_power_station,07_NWPU_RESISC45
+-49.187202,-16.76731,thermal power plant,thermal_power_station,07_NWPU_RESISC45
+-51.116768,-17.628853,thermal power plant,thermal_power_station,07_NWPU_RESISC45
+-4.84701,-58.09956,AirPlane,airplane,05_PatternNet
+-7.3251333,-58.50501,AirPlane,airplane,RSD46-WHU
+-8.614634,-58.626415,AirPlane,airplane,05_PatternNet
+-7.42213,-58.471104,AirPlane,airplane,05_PatternNet
+-6.420002,-57.584217,AirPlane,airplane,09_RSI-CB256
+-8.079558,-56.178356,AirPlane,airplane,RSD46-WHU
+-6.433681,-59.576893,AirPlane,airplane,05_PatternNet
+-12.807952,-17.681765,AirPlane,airplane,07_NWPU_RESISC45
+-9.046327,-55.491375,AirPlane,airplane,07_NWPU_RESISC45
+-4.562676,-57.587036,AirPlane,airplane,05_PatternNet
+-6.2987185,-60.32928,AirPlane,airplane,07_NWPU_RESISC45
+-4.49536,-58.606094,AirPlane,airplane,05_PatternNet
+-8.715072,-58.957733,AirPlane,airplane,05_PatternNet
+-7.6841354,-60.60087,AirPlane,airplane,09_RSI-CB256
+-8.948647,-55.784992,AirPlane,airplane,07_NWPU_RESISC45
+-4.5010576,-58.436047,AirPlane,airplane,05_PatternNet
+-8.394264,-59.668594,AirPlane,airplane,07_NWPU_RESISC45
+-4.167113,-58.07951,AirPlane,airplane,05_PatternNet
+-11.7008705,-16.35342,AirPlane,airplane,RSITMD
+-6.8491254,-57.09454,AirPlane,airplane,05_PatternNet
+-4.033903,-58.692265,AirPlane,airplane,05_PatternNet
+-8.560919,-57.403065,AirPlane,airplane,07_NWPU_RESISC45
+-9.1271925,-57.31986,AirPlane,airplane,07_NWPU_RESISC45
+-8.318234,-59.681686,AirPlane,airplane,RSD46-WHU
+-7.557707,-57.877792,AirPlane,airplane,09_RSI-CB256
+-7.738855,-59.665825,AirPlane,airplane,RSD46-WHU
+-7.4567456,-57.07318,AirPlane,airplane,RSD46-WHU
+-9.029781,-57.116394,AirPlane,airplane,07_NWPU_RESISC45
+-5.9743547,-59.86478,AirPlane,airplane,05_PatternNet
+-6.1255784,-58.232594,AirPlane,airplane,05_PatternNet
+-8.502799,-54.95902,AirPlane,airplane,RSD46-WHU
+-7.7635574,-12.464282,AirPlane,airplane,07_NWPU_RESISC45
+-4.485373,-56.804535,AirPlane,airplane,05_PatternNet
+-8.11375,-29.461475,AirPlane,airplane,07_NWPU_RESISC45
+-7.37052,-59.160152,AirPlane,airplane,05_PatternNet
+-6.1381764,-60.08981,AirPlane,airplane,09_RSI-CB256
+-6.988032,-58.18057,AirPlane,airplane,05_PatternNet
+-6.2103434,-58.242172,AirPlane,airplane,05_PatternNet
+-5.637989,-58.94092,AirPlane,airplane,09_RSI-CB256
+-3.9276483,-58.90751,AirPlane,airplane,05_PatternNet
+-16.160976,2.4773958,Commercial,commercial,07_NWPU_RESISC45
+-16.86557,-1.5166669,Commercial,commercial,06_AID
+-23.834993,5.508505,Commercial,commercial,CLRS
+-16.007233,0.8788693,Commercial,commercial,06_AID
+-17.615742,1.6974306,Commercial,commercial,11_SIRI_WHU
+-18.859549,-4.403641,Commercial,commercial,07_NWPU_RESISC45
+-15.235399,-1.6269443,Commercial,commercial,06_AID
+-19.28654,0.3921439,Commercial,commercial,06_AID
+-18.663773,-0.2956267,Commercial,commercial,07_NWPU_RESISC45
+-0.022657039,1.4751258,Commercial,commercial,CLRS
+-17.49691,-3.4551888,Commercial,commercial,CLRS
+-14.368544,3.332693,Commercial,commercial,07_NWPU_RESISC45
+-16.646484,8.970363,Commercial,commercial,RSITMD
+-15.703567,-0.92594576,Commercial,commercial,06_AID
+-18.201838,0.7653058,Commercial,commercial,07_NWPU_RESISC45
+-19.002544,-1.1232457,Commercial,commercial,CLRS
+-18.820005,-0.115590796,Commercial,commercial,07_NWPU_RESISC45
+-15.178929,0.62374794,Commercial,commercial,06_AID
+-17.854643,-3.0526965,Commercial,commercial,07_NWPU_RESISC45
+-19.767273,6.234173,Commercial,commercial,CLRS
+-16.894112,2.7274888,Commercial,commercial,CLRS
+-17.20936,-9.249049,Commercial,commercial,07_NWPU_RESISC45
+-15.954303,-0.6709498,Commercial,commercial,11_SIRI_WHU
+-20.125011,1.0339286,Commercial,commercial,CLRS
+-17.335188,-0.28148654,Commercial,commercial,CLRS
+-15.369572,-1.4045115,Commercial,commercial,RSITMD
+-18.685116,-0.27522764,Commercial,commercial,11_SIRI_WHU
+-23.788244,0.691949,Commercial,commercial,06_AID
+-17.61366,1.3482778,Commercial,commercial,11_SIRI_WHU
+-12.924093,-4.060868,Commercial,commercial,06_AID
+-19.286343,2.4344797,Commercial,commercial,11_SIRI_WHU
+-17.268122,0.6849261,Commercial,commercial,CLRS
+-19.539957,1.9164575,Commercial,commercial,CLRS
+-40.100914,-13.678765,Commercial,commercial,CLRS
+-9.45728,13.107613,Commercial,commercial,06_AID
+-16.598763,-5.597695,Commercial,commercial,07_NWPU_RESISC45
+-19.410202,2.190561,Commercial,commercial,CLRS
+-13.48311,-3.650587,Commercial,commercial,RSITMD
+-13.035563,-4.0533876,Commercial,commercial,06_AID
+-16.297619,-2.925081,Commercial,commercial,07_NWPU_RESISC45
+-6.3298736,0.85097474,Industrial,industrial,RSITMD
+15.250243,-12.029826,Industrial,industrial,03_EuroSAT
+-10.732718,-2.7799764,Industrial,industrial,06_AID
+-17.050882,-1.8465077,Industrial,industrial,08_RSSCN7
+16.56473,-12.83331,Industrial,industrial,03_EuroSAT
+-29.708885,2.3419654,Industrial,scattered_blue_roof_factory_building,RSD46-WHU
+-1.2035936,-0.19819175,Industrial,steelworks,RSD46-WHU
+15.950297,-10.380073,Industrial,industrial,03_EuroSAT
+14.906353,-11.048846,Industrial,industrial,03_EuroSAT
+-8.755683,-4.4585032,Industrial,industrial,11_SIRI_WHU
+-12.348709,2.7076182,Industrial,industrial,CLRS
+15.162918,-12.955516,Industrial,industrial,03_EuroSAT
+-9.023156,-1.1383723,Industrial,scattered_red_roof_factory_building,RSD46-WHU
+-9.63019,-4.7942376,Industrial,industrial,07_NWPU_RESISC45
+-29.308834,2.6355612,Industrial,blue_structured_factory_building,RSD46-WHU
+-2.4691176,-8.999677,Industrial,steelworks,RSD46-WHU
+-6.18506,0.8149535,Industrial,idle_land,11_SIRI_WHU
+13.406377,-11.909354,Industrial,industrial,03_EuroSAT
+-8.819881,-5.37816,Industrial,industrial,06_AID
+13.941779,-10.877008,Industrial,industrial,03_EuroSAT
+15.447914,-12.133691,Industrial,industrial,03_EuroSAT
+15.13322,-13.605145,Industrial,industrial,03_EuroSAT
+15.328948,-9.7976465,Industrial,industrial,03_EuroSAT
+-29.213032,-32.27273,Industrial,industrial,CLRS
+-6.1439667,-1.3987381,Industrial,idle_land,11_SIRI_WHU
+-38.499866,-30.75725,Industrial,blue_structured_factory_building,RSD46-WHU
+14.813797,-11.137241,Industrial,industrial,03_EuroSAT
+-1.3997127,-4.938015,Industrial,industrial,CLRS
+-8.137945,-2.4348397,Industrial,industrial,07_NWPU_RESISC45
+15.485632,-11.199587,Industrial,industrial,03_EuroSAT
+-6.920694,3.3032534,Industrial,steelworks,RSD46-WHU
+-19.470646,4.7219205,Industrial,industrial,11_SIRI_WHU
+-0.80752593,-3.766903,Industrial,industrial,CLRS
+14.337681,-11.561371,Industrial,industrial,03_EuroSAT
+15.130019,-11.354978,Industrial,industrial,03_EuroSAT
+-9.108,-4.5606475,Industrial,industrial,07_NWPU_RESISC45
+4.3230457,3.373638,Industrial,steelworks,RSD46-WHU
+15.63941,-10.997134,Industrial,industrial,03_EuroSAT
+-42.30102,-13.073632,Industrial,red_structured_factory_building,RSD46-WHU
+-1.2876133,-4.6058373,Industrial,industrial,CLRS
+-10.034717,-33.449013,airport_runway,runway_marking,05_PatternNet
+-7.3956623,-16.442186,airport_runway,runway,CLRS
+47.551125,-13.367793,airport_runway,transportation,01_RSI_CB128
+-7.0014434,-18.146202,airport_runway,runway,07_NWPU_RESISC45
+-10.172042,-30.199427,airport_runway,runway_marking,05_PatternNet
+-14.069259,-27.243528,airport_runway,runway,09_RSI-CB256
+-7.1733375,-29.322678,airport_runway,runway,07_NWPU_RESISC45
+-9.184038,-30.278482,airport_runway,runway,05_PatternNet
+-10.970689,-31.336376,airport_runway,runway_marking,05_PatternNet
+35.469746,-24.901161,airport_runway,transportation,01_RSI_CB128
+-8.470292,-28.610176,airport_runway,runway,07_NWPU_RESISC45
+-7.111727,-29.015726,airport_runway,runway,07_NWPU_RESISC45
+-14.296924,-12.680731,airport_runway,runway,CLRS
+-10.79508,-30.25478,airport_runway,runway_marking,05_PatternNet
+-10.846865,-29.412218,airport_runway,runway,05_PatternNet
+-2.7317328,-21.998749,airport_runway,transportation,01_RSI_CB128
+-14.379959,-36.33919,airport_runway,transportation,01_RSI_CB128
+-6.5855327,-15.339634,airport_runway,runway,07_NWPU_RESISC45
+-9.787518,-29.892157,airport_runway,runway,05_PatternNet
+-6.0989866,-17.193195,airport_runway,runway,07_NWPU_RESISC45
+-2.9544683,-21.902533,airport_runway,transportation,01_RSI_CB128
+-2.609233,-22.121468,airport_runway,transportation,01_RSI_CB128
+-10.496029,-31.291075,airport_runway,runway_marking,05_PatternNet
+-6.15864,-12.72958,airport_runway,runway,07_NWPU_RESISC45
+-11.663092,-30.532936,airport_runway,runway_marking,05_PatternNet
+-9.639184,-32.219173,airport_runway,runway_marking,05_PatternNet
+-13.967713,-27.058891,airport_runway,runway,09_RSI-CB256
+-7.657552,-15.598223,airport_runway,runway,CLRS
+-7.073785,-16.364035,airport_runway,runway,CLRS
+-3.8858645,-21.497232,airport_runway,transportation,01_RSI_CB128
+-8.615691,-15.14074,airport_runway,runway,CLRS
+-4.820847,-19.102259,airport_runway,runway,07_NWPU_RESISC45
+-2.5621526,-22.140675,airport_runway,transportation,01_RSI_CB128
+-5.1791596,-22.968319,airport_runway,runway,09_RSI-CB256
+-9.5774355,-31.774239,airport_runway,runway_marking,05_PatternNet
+35.44171,-24.907578,airport_runway,runway,09_RSI-CB256
+-9.603942,-29.672398,airport_runway,runway,05_PatternNet
+-3.700084,-21.544338,airport_runway,transportation,01_RSI_CB128
+-9.065357,-32.025085,airport_runway,runway_marking,05_PatternNet
+-10.605728,-30.367798,airport_runway,runway_marking,05_PatternNet
+39.210907,32.195644,chaparral,chaparral,05_PatternNet
+41.900547,33.093742,chaparral,chaparral,UCMerced_LandUse
+36.848488,31.476656,chaparral,chaparral,07_NWPU_RESISC45
+37.237026,31.48177,chaparral,chaparral,07_NWPU_RESISC45
+40.134876,31.190037,chaparral,chaparral,05_PatternNet
+18.072744,12.322967,chaparral,chaparral,07_NWPU_RESISC45
+11.796175,27.265144,chaparral,chaparral,07_NWPU_RESISC45
+40.37839,31.591555,chaparral,chaparral,05_PatternNet
+36.496597,31.492834,chaparral,chaparral,07_NWPU_RESISC45
+38.840572,29.964954,chaparral,chaparral,05_PatternNet
+37.24035,28.962843,chaparral,chaparral,07_NWPU_RESISC45
+40.53604,33.148594,chaparral,chaparral,07_NWPU_RESISC45
+40.76839,31.384445,chaparral,chaparral,05_PatternNet
+40.030624,32.564648,chaparral,chaparral,07_NWPU_RESISC45
+39.854115,33.49498,chaparral,chaparral,07_NWPU_RESISC45
+39.767563,31.78175,chaparral,chaparral,05_PatternNet
+41.672405,32.142117,chaparral,chaparral,UCMerced_LandUse
+37.821064,30.367872,chaparral,chaparral,05_PatternNet
+11.79249,27.290394,chaparral,chaparral,07_NWPU_RESISC45
+38.76515,31.79737,chaparral,chaparral,05_PatternNet
+38.21047,32.20406,chaparral,chaparral,07_NWPU_RESISC45
+41.847576,32.90932,chaparral,chaparral,UCMerced_LandUse
+11.515715,27.191645,chaparral,chaparral,07_NWPU_RESISC45
+38.663986,31.822317,chaparral,chaparral,05_PatternNet
+11.755729,27.193129,chaparral,chaparral,07_NWPU_RESISC45
+39.154747,30.153381,chaparral,chaparral,05_PatternNet
+37.781723,32.98757,chaparral,chaparral,07_NWPU_RESISC45
+40.430454,31.56975,chaparral,chaparral,05_PatternNet
+40.392906,30.572088,chaparral,chaparral,05_PatternNet
+38.603825,30.109945,chaparral,chaparral,05_PatternNet
+34.837303,30.241209,chaparral,chaparral,07_NWPU_RESISC45
+39.185,31.767994,chaparral,chaparral,05_PatternNet
+39.087788,30.377815,chaparral,chaparral,05_PatternNet
+36.618187,30.451853,chaparral,chaparral,07_NWPU_RESISC45
+40.498962,30.285217,chaparral,chaparral,05_PatternNet
+39.58047,33.68958,chaparral,chaparral,07_NWPU_RESISC45
+39.415344,30.345078,chaparral,chaparral,05_PatternNet
+39.19532,30.230238,chaparral,chaparral,05_PatternNet
+37.30969,29.531551,chaparral,chaparral,07_NWPU_RESISC45
+39.124126,30.638773,chaparral,chaparral,05_PatternNet
+-27.477482,-7.2577815,crossroads or intersection,intersection,05_PatternNet
+-35.12277,-3.4175053,crossroads or intersection,transportation,01_RSI_CB128
+-7.419168,5.3152323,crossroads or intersection,intersection,RSD46-WHU
+-21.817184,-6.563186,crossroads or intersection,intersection,RSD46-WHU
+-25.359795,-23.888668,crossroads or intersection,transportation,01_RSI_CB128
+-37.129658,-1.6638339,crossroads or intersection,transportation,01_RSI_CB128
+-32.550995,-6.2178354,crossroads or intersection,intersection,09_RSI-CB256
+-33.64097,-7.7902436,crossroads or intersection,crosswalk,05_PatternNet
+-34.803265,-6.34602,crossroads or intersection,transportation,01_RSI_CB128
+-31.38369,-10.320418,crossroads or intersection,intersection,07_NWPU_RESISC45
+-19.466206,-6.4036007,crossroads or intersection,intersection,07_NWPU_RESISC45
+-15.784525,-20.453627,crossroads or intersection,intersection,07_NWPU_RESISC45
+-33.97059,-5.0069275,crossroads or intersection,intersection,07_NWPU_RESISC45
+-14.618519,-19.542416,crossroads or intersection,crosswalk,05_PatternNet
+-35.48675,-9.164228,crossroads or intersection,crosswalk,05_PatternNet
+-33.76196,-7.7177095,crossroads or intersection,crosswalk,05_PatternNet
+-34.92451,-8.156325,crossroads or intersection,crosswalk,05_PatternNet
+-35.050503,-8.273012,crossroads or intersection,crosswalk,05_PatternNet
+-35.492077,-9.242138,crossroads or intersection,crosswalk,05_PatternNet
+-34.1268,-8.097195,crossroads or intersection,crosswalk,05_PatternNet
+-23.785448,-8.160856,crossroads or intersection,intersection,05_PatternNet
+-39.41872,-14.936444,crossroads or intersection,transportation,01_RSI_CB128
+-33.52114,-6.2485943,crossroads or intersection,intersection,09_RSI-CB256
+-15.654037,-19.586058,crossroads or intersection,intersection,09_RSI-CB256
+-31.294237,-7.0233736,crossroads or intersection,intersection,05_PatternNet
+-19.418804,-6.323394,crossroads or intersection,intersection,07_NWPU_RESISC45
+-16.948189,-3.6351962,crossroads or intersection,intersection,05_PatternNet
+-35.650078,-8.697874,crossroads or intersection,crosswalk,05_PatternNet
+-25.325207,-23.871744,crossroads or intersection,transportation,01_RSI_CB128
+-34.226223,-6.540867,crossroads or intersection,transportation,01_RSI_CB128
+-20.697557,-7.439033,crossroads or intersection,intersection,RSD46-WHU
+-24.04749,-8.419482,crossroads or intersection,intersection,05_PatternNet
+-36.417366,-7.563839,crossroads or intersection,transportation,01_RSI_CB128
+-29.345846,7.041808,crossroads or intersection,intersection,05_PatternNet
+-35.123264,-2.2671704,crossroads or intersection,intersection,09_RSI-CB256
+-35.27672,-3.3412294,crossroads or intersection,transportation,01_RSI_CB128
+-33.2127,-6.1743817,crossroads or intersection,intersection,09_RSI-CB256
+-16.695946,-3.5076246,crossroads or intersection,intersection,05_PatternNet
+-34.139927,-3.9067955,crossroads or intersection,intersection,09_RSI-CB256
+-15.138349,-19.74483,crossroads or intersection,intersection,05_PatternNet
+24.135344,46.10188,bare_land,bare_land,06_AID
+47.555893,-13.665323,bare_land,bare_land,RSD46-WHU
+50.74469,-15.080205,bare_land,bare_land,09_RSI-CB256
+51.148945,-13.770992,bare_land,agriculture,01_RSI_CB128
+42.68647,-10.783333,bare_land,agriculture,01_RSI_CB128
+50.940853,-14.387038,bare_land,agriculture,01_RSI_CB128
+42.24394,-10.465319,bare_land,agriculture,01_RSI_CB128
+50.814445,-14.2014065,bare_land,agriculture,01_RSI_CB128
+34.13868,29.781157,bare_land,bare_land,06_AID
+20.204044,8.452906,bare_land,bare_land,CLRS
+49.351868,11.655447,bare_land,agriculture,01_RSI_CB128
+50.92788,10.72923,bare_land,bare_land,09_RSI-CB256
+21.186872,9.41865,bare_land,bare_land,CLRS
+49.06125,11.793797,bare_land,agriculture,01_RSI_CB128
+16.937893,7.0453296,bare_land,bare_land,CLRS
+49.481827,11.193718,bare_land,agriculture,01_RSI_CB128
+19.986263,8.089396,bare_land,bare_land,CLRS
+19.837072,6.2846446,bare_land,agriculture,01_RSI_CB128
+51.12278,11.547722,bare_land,bare_land,09_RSI-CB256
+42.349632,-10.651276,bare_land,bare_land,09_RSI-CB256
+50.85209,11.03707,bare_land,agriculture,01_RSI_CB128
+50.767517,-14.112674,bare_land,agriculture,01_RSI_CB128
+43.111694,-9.263835,bare_land,agriculture,01_RSI_CB128
+47.537666,10.538537,bare_land,bare_land,09_RSI-CB256
+-13.286314,-10.532512,bare_land,bare_land,CLRS
+51.020798,-14.371688,bare_land,agriculture,01_RSI_CB128
+50.28918,-14.554222,bare_land,bare_land,09_RSI-CB256
+43.14679,-9.219318,bare_land,agriculture,01_RSI_CB128
+50.371166,-14.967101,bare_land,bare_land,09_RSI-CB256
+37.41117,28.327925,bare_land,bare_land,09_RSI-CB256
+35.158455,31.828796,bare_land,bare_land,09_RSI-CB256
+17.729918,5.5426135,bare_land,bare_land,CLRS
+50.731743,10.935751,bare_land,agriculture,01_RSI_CB128
+51.267387,-14.309389,bare_land,agriculture,01_RSI_CB128
+47.4899,10.605321,bare_land,agriculture,01_RSI_CB128
+19.853092,6.029802,bare_land,bare_land,RSD46-WHU
+49.213966,12.252609,bare_land,bare_land,09_RSI-CB256
+16.10918,7.77361,bare_land,bare_land,CLRS
+49.98591,-14.443778,bare_land,bare_land,09_RSI-CB256
+17.940004,6.7628784,bare_land,bare_land,CLRS
+20.849895,17.960812,Mountain,mountain,06_AID
+17.98618,16.50143,Mountain,mountain,07_NWPU_RESISC45
+18.28208,14.947867,Mountain,mountain,07_NWPU_RESISC45
+20.785898,11.303361,Mountain,other_land,01_RSI_CB128
+20.854626,13.395582,Mountain,mountain,09_RSI-CB256
+19.66392,11.332077,Mountain,mountain,09_RSI-CB256
+19.674215,10.6758375,Mountain,other_land,01_RSI_CB128
+18.210611,14.873845,Mountain,mountain,07_NWPU_RESISC45
+20.558186,10.9776125,Mountain,other_land,01_RSI_CB128
+22.349428,10.720506,Mountain,mountain,09_RSI-CB256
+37.316154,18.333488,Mountain,mountain,CLRS
+23.512444,9.871409,Mountain,other_land,01_RSI_CB128
+19.68484,10.510084,Mountain,other_land,01_RSI_CB128
+37.915806,27.801119,Mountain,other_land,01_RSI_CB128
+22.80788,17.213276,Mountain,mountain,06_AID
+22.047606,12.554244,Mountain,mountain,07_NWPU_RESISC45
+19.256737,19.852427,Mountain,mountain,07_NWPU_RESISC45
+10.801573,21.628555,Mountain,mountain,CLRS
+16.984865,16.580826,Mountain,mountain,07_NWPU_RESISC45
+12.597512,12.997599,Mountain,mountain,07_NWPU_RESISC45
+22.85676,17.079569,Mountain,mountain,06_AID
+15.368108,12.737837,Mountain,mountain,09_RSI-CB256
+21.338783,11.410867,Mountain,mountain,07_NWPU_RESISC45
+18.116129,19.252617,Mountain,mountain,CLRS
+23.779537,10.282476,Mountain,other_land,01_RSI_CB128
+21.04231,13.053506,Mountain,other_land,01_RSI_CB128
+10.783121,21.789614,Mountain,mountain,CLRS
+23.008024,13.609342,Mountain,mountain,07_NWPU_RESISC45
+19.701681,11.205886,Mountain,mountain,09_RSI-CB256
+18.078375,6.963392,Mountain,mountain,09_RSI-CB256
+13.185834,13.729728,Mountain,mountain,09_RSI-CB256
+18.894548,15.378002,Mountain,mountain,07_NWPU_RESISC45
+20.435055,11.172284,Mountain,other_land,01_RSI_CB128
+20.865719,17.849474,Mountain,mountain,06_AID
+18.757574,14.585782,Mountain,mountain,CLRS
+22.860657,13.493494,Mountain,mountain,07_NWPU_RESISC45
+20.64273,13.800344,Mountain,mountain,07_NWPU_RESISC45
+22.854654,12.482516,Mountain,mountain,07_NWPU_RESISC45
+19.902597,12.208024,Mountain,other_land,01_RSI_CB128
+20.10654,11.493518,Mountain,other_land,01_RSI_CB128
+16.028002,19.163628,graff,graff,RSD46-WHU
+-10.217376,9.384876,graff,graff,RSD46-WHU
+2.04659,7.162454,graff,graff,RSD46-WHU
+-1.0702181,16.160471,graff,graff,RSD46-WHU
+-17.382057,5.3145385,graff,graff,RSD46-WHU
+1.2387136,4.14998,graff,graff,RSD46-WHU
+4.1035147,12.040543,graff,graff,RSD46-WHU
+-0.47776288,13.560353,graff,graff,RSD46-WHU
+-19.117702,-3.977279,graff,graff,RSD46-WHU
+7.338401,17.236076,graff,graff,RSD46-WHU
+2.726185,7.3966327,graff,graff,RSD46-WHU
+1.0853318,3.735688,graff,graff,RSD46-WHU
+1.4482166,7.0451126,graff,graff,RSD46-WHU
+8.054304,6.970503,graff,graff,RSD46-WHU
+5.5309668,13.009669,graff,graff,RSD46-WHU
+2.6335936,4.404767,graff,graff,RSD46-WHU
+7.709988,6.7317047,graff,graff,RSD46-WHU
+2.1531422,10.04021,graff,graff,RSD46-WHU
+2.008302,9.1748905,graff,graff,RSD46-WHU
+0.79943174,1.6286606,graff,graff,RSD46-WHU
+7.9155235,6.934962,graff,graff,RSD46-WHU
+-3.377315,15.515297,graff,graff,RSD46-WHU
+-0.79025465,2.9593434,graff,graff,RSD46-WHU
+2.4351892,4.550701,graff,graff,RSD46-WHU
+-6.770529,-0.5608688,graff,graff,RSD46-WHU
+-2.6570606,-1.3543222,graff,graff,RSD46-WHU
+-3.8178365,15.176728,graff,graff,RSD46-WHU
+0.48531327,8.079381,graff,graff,RSD46-WHU
+-1.517124,18.380547,graff,graff,RSD46-WHU
+1.8218288,7.9850326,graff,graff,RSD46-WHU
+-1.6407355,1.3589759,graff,graff,RSD46-WHU
+4.5493584,16.956848,graff,graff,RSD46-WHU
+3.95103,14.021065,graff,graff,RSD46-WHU
+1.1008068,4.0912237,graff,graff,RSD46-WHU
+0.99563354,1.7337989,graff,graff,RSD46-WHU
+0.14607,4.0098233,graff,graff,RSD46-WHU
+1.9590176,8.995353,graff,graff,RSD46-WHU
+1.9019253,10.373106,graff,graff,RSD46-WHU
+8.31505,-8.207108,graff,graff,RSD46-WHU
+0.015251765,3.5473454,graff,graff,RSD46-WHU
+-41.096355,-4.707893,Fork_Road,transportation,01_RSI_CB128
+-37.67623,-2.0532982,Fork_Road,transportation,01_RSI_CB128
+-38.7432,-4.5676794,Fork_Road,transportation,01_RSI_CB128
+-38.814972,-2.918494,Fork_Road,transportation,01_RSI_CB128
+-35.651062,-2.3844862,Fork_Road,transportation,01_RSI_CB128
+-35.81368,-1.9508586,Fork_Road,transportation,01_RSI_CB128
+-35.57838,-2.76772,Fork_Road,transportation,01_RSI_CB128
+-38.107838,-1.9564097,Fork_Road,transportation,01_RSI_CB128
+-36.4173,-3.9012108,Fork_Road,transportation,01_RSI_CB128
+-39.79374,-2.027691,Fork_Road,transportation,01_RSI_CB128
+-37.91139,-3.3421097,Fork_Road,transportation,01_RSI_CB128
+-35.915874,-2.9363482,Fork_Road,transportation,01_RSI_CB128
+-37.464195,-2.4306245,Fork_Road,transportation,01_RSI_CB128
+-38.59853,-3.6277528,Fork_Road,transportation,01_RSI_CB128
+-39.303844,-1.3348358,Fork_Road,transportation,01_RSI_CB128
+-39.60326,-2.8631318,Fork_Road,transportation,01_RSI_CB128
+-39.29843,-4.7247195,Fork_Road,transportation,01_RSI_CB128
+-38.516495,-3.2548008,Fork_Road,transportation,01_RSI_CB128
+-40.288315,0.2913176,Fork_Road,transportation,01_RSI_CB128
+-40.287834,-1.7182534,Fork_Road,transportation,01_RSI_CB128
+-39.768078,-5.8990464,Fork_Road,transportation,01_RSI_CB128
+-41.297077,-2.678514,Fork_Road,transportation,01_RSI_CB128
+-39.32425,-5.041569,Fork_Road,transportation,01_RSI_CB128
+-41.04408,-1.0477564,Fork_Road,transportation,01_RSI_CB128
+-34.463432,-0.31605655,Fork_Road,transportation,01_RSI_CB128
+-40.71188,-3.530712,Fork_Road,transportation,01_RSI_CB128
+-38.040752,-3.008603,Fork_Road,transportation,01_RSI_CB128
+-36.619164,-4.660533,Fork_Road,transportation,01_RSI_CB128
+-39.51473,-3.1651077,Fork_Road,transportation,01_RSI_CB128
+-40.053154,-2.365827,Fork_Road,transportation,01_RSI_CB128
+-39.081654,-1.7384369,Fork_Road,transportation,01_RSI_CB128
+-39.671078,-4.5499268,Fork_Road,transportation,01_RSI_CB128
+-41.590508,-0.9482463,Fork_Road,transportation,01_RSI_CB128
+-35.856365,-3.5105252,Fork_Road,transportation,01_RSI_CB128
+-38.884216,-3.828908,Fork_Road,transportation,01_RSI_CB128
+-37.07777,-1.9339045,Fork_Road,transportation,01_RSI_CB128
+-41.74876,-1.9872551,Fork_Road,transportation,01_RSI_CB128
+-36.104694,-4.5632796,Fork_Road,transportation,01_RSI_CB128
+-38.244156,-4.103851,Fork_Road,transportation,01_RSI_CB128
+-41.181423,-2.566723,Fork_Road,transportation,01_RSI_CB128
+26.17732,-45.957043,oil_well,oil_well,05_PatternNet
+27.306677,-44.88072,oil_well,oil_well,05_PatternNet
+25.181894,-47.856453,oil_well,oil_well,05_PatternNet
+28.595467,-46.765755,oil_well,oil_well,05_PatternNet
+25.447422,-44.494823,oil_well,oil_well,05_PatternNet
+29.092192,-45.646946,oil_well,oil_well,05_PatternNet
+25.42686,-46.88605,oil_well,oil_well,05_PatternNet
+25.414373,-47.69415,oil_well,oil_well,05_PatternNet
+28.120605,-45.905865,oil_well,oil_well,05_PatternNet
+25.941479,-47.940002,oil_well,oil_well,05_PatternNet
+25.368223,-46.92635,oil_well,oil_well,05_PatternNet
+24.792305,-44.539017,oil_well,oil_well,05_PatternNet
+25.542772,-44.553936,oil_well,oil_well,05_PatternNet
+27.094439,-45.5809,oil_well,oil_well,05_PatternNet
+25.13302,-45.561195,oil_well,oil_well,05_PatternNet
+26.280947,-45.06929,oil_well,oil_well,05_PatternNet
+28.202902,-46.547894,oil_well,oil_well,05_PatternNet
+26.73183,-45.71712,oil_well,oil_well,05_PatternNet
+25.548746,-43.71434,oil_well,oil_well,05_PatternNet
+28.900743,-45.24169,oil_well,oil_well,05_PatternNet
+27.872314,-45.575603,oil_well,oil_well,05_PatternNet
+26.381748,-44.63701,oil_well,oil_well,05_PatternNet
+25.947964,-46.859653,oil_well,oil_well,05_PatternNet
+25.458538,-44.23549,oil_well,oil_well,05_PatternNet
+23.057575,-45.056873,oil_well,oil_well,05_PatternNet
+26.301535,-46.440964,oil_well,oil_well,05_PatternNet
+26.742693,-46.6564,oil_well,oil_well,05_PatternNet
+27.808025,-45.56134,oil_well,oil_well,05_PatternNet
+25.135372,-47.601334,oil_well,oil_well,05_PatternNet
+25.073658,-47.70514,oil_well,oil_well,05_PatternNet
+27.025673,-45.92739,oil_well,oil_well,05_PatternNet
+24.43647,-44.286133,oil_well,oil_well,05_PatternNet
+28.218668,-47.179424,oil_well,oil_well,05_PatternNet
+24.9328,-48.00236,oil_well,oil_well,05_PatternNet
+24.75381,-45.023254,oil_well,oil_well,05_PatternNet
+27.511269,-47.24197,oil_well,oil_well,05_PatternNet
+29.295502,-45.84425,oil_well,oil_well,05_PatternNet
+24.30601,-45.78087,oil_well,oil_well,05_PatternNet
+23.43719,-45.128666,oil_well,oil_well,05_PatternNet
+25.655645,-45.437016,oil_well,oil_well,05_PatternNet
+30.869564,38.97206,Sparse_Forest,woodland,01_RSI_CB128
+30.05452,39.099083,Sparse_Forest,woodland,01_RSI_CB128
+31.382673,39.82402,Sparse_Forest,woodland,01_RSI_CB128
+30.410414,40.509354,Sparse_Forest,woodland,01_RSI_CB128
+31.290028,40.736897,Sparse_Forest,woodland,01_RSI_CB128
+29.546463,36.206387,Sparse_Forest,sparse_forest,09_RSI-CB256
+30.651453,38.911777,Sparse_Forest,woodland,01_RSI_CB128
+32.596325,38.835102,Sparse_Forest,sparse_forest,09_RSI-CB256
+33.300003,39.156036,Sparse_Forest,woodland,01_RSI_CB128
+30.868076,42.15652,Sparse_Forest,woodland,01_RSI_CB128
+31.612877,37.25062,Sparse_Forest,sparse_forest,09_RSI-CB256
+33.401978,41.004177,Sparse_Forest,woodland,01_RSI_CB128
+31.149883,38.05935,Sparse_Forest,sparse_forest,09_RSI-CB256
+33.159355,39.56815,Sparse_Forest,woodland,01_RSI_CB128
+31.831245,39.174343,Sparse_Forest,woodland,01_RSI_CB128
+33.895836,39.769894,Sparse_Forest,woodland,01_RSI_CB128
+30.409403,36.21026,Sparse_Forest,sparse_forest,09_RSI-CB256
+30.859911,37.44393,Sparse_Forest,sparse_forest,09_RSI-CB256
+30.312735,38.269234,Sparse_Forest,woodland,01_RSI_CB128
+33.732117,39.86988,Sparse_Forest,woodland,01_RSI_CB128
+31.181898,42.758305,Sparse_Forest,woodland,01_RSI_CB128
+31.16686,41.953114,Sparse_Forest,woodland,01_RSI_CB128
+30.642298,41.08588,Sparse_Forest,woodland,01_RSI_CB128
+31.146824,37.156296,Sparse_Forest,sparse_forest,09_RSI-CB256
+29.588936,37.21349,Sparse_Forest,sparse_forest,09_RSI-CB256
+30.715803,41.131283,Sparse_Forest,woodland,01_RSI_CB128
+29.195103,36.854183,Sparse_Forest,sparse_forest,09_RSI-CB256
+31.928146,37.24928,Sparse_Forest,sparse_forest,09_RSI-CB256
+30.247627,36.22943,Sparse_Forest,sparse_forest,09_RSI-CB256
+34.29532,39.56126,Sparse_Forest,woodland,01_RSI_CB128
+32.051086,37.531563,Sparse_Forest,sparse_forest,09_RSI-CB256
+31.63651,38.16003,Sparse_Forest,sparse_forest,09_RSI-CB256
+29.632647,36.370583,Sparse_Forest,sparse_forest,09_RSI-CB256
+34.594532,39.571217,Sparse_Forest,sparse_forest,09_RSI-CB256
+33.13115,39.21279,Sparse_Forest,woodland,01_RSI_CB128
+30.571262,42.379658,Sparse_Forest,woodland,01_RSI_CB128
+30.615423,40.80511,Sparse_Forest,woodland,01_RSI_CB128
+31.07341,42.580288,Sparse_Forest,woodland,01_RSI_CB128
+30.754831,38.147152,Sparse_Forest,sparse_forest,09_RSI-CB256
+30.55178,37.334244,Sparse_Forest,sparse_forest,09_RSI-CB256
+-11.619197,-43.067688,pipeline,other_objects,01_RSI_CB128
+-8.730148,-39.59408,pipeline,other_objects,01_RSI_CB128
+-11.000769,-43.661427,pipeline,other_objects,01_RSI_CB128
+-6.735246,-42.396782,pipeline,other_objects,01_RSI_CB128
+-10.269468,-43.765236,pipeline,other_objects,01_RSI_CB128
+-13.710992,-42.370937,pipeline,other_objects,01_RSI_CB128
+-10.715853,-40.25059,pipeline,other_objects,01_RSI_CB128
+-8.903393,-43.145023,pipeline,other_objects,01_RSI_CB128
+-10.934959,-42.93121,pipeline,other_objects,01_RSI_CB128
+-9.569024,-40.934227,pipeline,other_objects,01_RSI_CB128
+-11.858393,-43.592403,pipeline,other_objects,01_RSI_CB128
+-8.574121,-39.273026,pipeline,other_objects,01_RSI_CB128
+-7.316595,-42.492935,pipeline,other_objects,01_RSI_CB128
+-13.289919,-41.568275,pipeline,other_objects,01_RSI_CB128
+-10.128841,-40.938118,pipeline,other_objects,01_RSI_CB128
+-11.356516,-41.377937,pipeline,other_objects,01_RSI_CB128
+-9.445271,-39.009586,pipeline,other_objects,01_RSI_CB128
+-8.693804,-44.623726,pipeline,other_objects,01_RSI_CB128
+-7.012136,-43.58339,pipeline,other_objects,01_RSI_CB128
+-12.776774,-43.28176,pipeline,other_objects,01_RSI_CB128
+-10.073707,-42.45286,pipeline,other_objects,01_RSI_CB128
+-11.36226,-43.976543,pipeline,other_objects,01_RSI_CB128
+-11.553002,-43.814064,pipeline,other_objects,01_RSI_CB128
+-7.351375,-42.473087,pipeline,other_objects,01_RSI_CB128
+-10.858835,-42.50159,pipeline,other_objects,01_RSI_CB128
+-6.9364643,-43.83844,pipeline,other_objects,01_RSI_CB128
+-7.2130256,-42.35905,pipeline,other_objects,01_RSI_CB128
+-13.048485,-43.24952,pipeline,other_objects,01_RSI_CB128
+-7.086379,-43.622917,pipeline,other_objects,01_RSI_CB128
+-7.61702,-42.449745,pipeline,other_objects,01_RSI_CB128
+-10.770924,-44.25603,pipeline,other_objects,01_RSI_CB128
+-8.798725,-41.637478,pipeline,other_objects,01_RSI_CB128
+-12.271016,-43.837425,pipeline,other_objects,01_RSI_CB128
+-11.057329,-40.003323,pipeline,other_objects,01_RSI_CB128
+-8.810926,-43.078358,pipeline,other_objects,01_RSI_CB128
+-12.682251,-43.253498,pipeline,other_objects,01_RSI_CB128
+-9.0800085,-41.250626,pipeline,other_objects,01_RSI_CB128
+-7.6976604,-40.033577,pipeline,other_objects,01_RSI_CB128
+-9.308818,-40.360855,pipeline,other_objects,01_RSI_CB128
+-10.067162,-42.946754,pipeline,other_objects,01_RSI_CB128
+15.852255,-24.926828,sea,sea,09_RSI-CB256
+64.70897,-13.30359,sea,sea_lake,03_EuroSAT
+64.449745,-12.339516,sea,,03_EuroSAT
+46.4792,-5.681394,sea,water,RSD46-WHU
+63.884342,-11.980936,sea,sea_lake,03_EuroSAT
+64.59499,-11.455228,sea,,03_EuroSAT
+63.79311,-10.38003,sea,sea_lake,03_EuroSAT
+62.90818,-10.271702,sea,sea_lake,03_EuroSAT
+15.884524,-24.937487,sea,water_area,01_RSI_CB128
+62.168537,-10.5071,sea,sea_lake,03_EuroSAT
+62.5828,-11.641096,sea,sea_lake,03_EuroSAT
+64.792534,-11.8325205,sea,sea_lake,03_EuroSAT
+64.732315,-10.428542,sea,sea_lake,03_EuroSAT
+62.169804,-11.791915,sea,sea_lake,03_EuroSAT
+63.443108,-10.986083,sea,sea_lake,03_EuroSAT
+64.04506,-12.296237,sea,,03_EuroSAT
+64.23804,-9.555364,sea,sea_lake,03_EuroSAT
+16.560705,-24.640863,sea,sea,09_RSI-CB256
+33.11316,-12.362043,sea,sea,09_RSI-CB256
+15.835221,-24.91575,sea,water_area,01_RSI_CB128
+64.502335,-12.276762,sea,,03_EuroSAT
+37.98534,-12.073992,sea,sea,09_RSI-CB256
+15.846419,-24.906912,sea,sea,09_RSI-CB256
+36.396915,-12.501628,sea,water_area,01_RSI_CB128
+46.938347,-4.97666,sea,water,RSD46-WHU
+65.90612,-10.416545,sea,sea_lake,03_EuroSAT
+47.154133,-4.9547577,sea,water,RSD46-WHU
+65.233086,-10.722684,sea,sea_lake,03_EuroSAT
+63.8924,-11.032896,sea,sea_lake,03_EuroSAT
+41.65689,-18.404318,sea,water_area,01_RSI_CB128
+61.10093,-11.663566,sea,sea,09_RSI-CB256
+63.507206,-11.899554,sea,sea_lake,03_EuroSAT
+45.672047,-0.24035393,sea,water_area,01_RSI_CB128
+63.50311,-9.47752,sea,sea_lake,03_EuroSAT
+15.849439,-24.920374,sea,water_area,01_RSI_CB128
+63.08064,-11.697235,sea,sea_lake,03_EuroSAT
+64.51899,-12.331235,sea,sea_lake,03_EuroSAT
+64.746666,-10.716843,sea,sea_lake,03_EuroSAT
+64.45956,-12.3562,sea,,03_EuroSAT
+64.199104,-11.202464,sea,sea_lake,03_EuroSAT
+17.268343,51.765514,sapling,woodland,01_RSI_CB128
+20.017206,50.019897,sapling,woodland,01_RSI_CB128
+18.262886,49.598297,sapling,woodland,01_RSI_CB128
+16.916218,50.82518,sapling,woodland,01_RSI_CB128
+17.133179,52.475693,sapling,sapling,09_RSI-CB256
+14.43882,49.2844,sapling,woodland,01_RSI_CB128
+15.856857,49.6901,sapling,woodland,01_RSI_CB128
+19.326363,52.044037,sapling,sapling,09_RSI-CB256
+16.779812,50.437855,sapling,woodland,01_RSI_CB128
+18.918064,49.23655,sapling,woodland,01_RSI_CB128
+21.257366,51.897568,sapling,sapling,09_RSI-CB256
+14.834682,49.519295,sapling,woodland,01_RSI_CB128
+24.664564,51.04701,sapling,woodland,01_RSI_CB128
+15.43753,52.819256,sapling,woodland,01_RSI_CB128
+15.720487,51.087723,sapling,woodland,01_RSI_CB128
+18.710403,51.380386,sapling,sapling,09_RSI-CB256
+17.959461,52.33573,sapling,sapling,09_RSI-CB256
+17.849154,50.07561,sapling,woodland,01_RSI_CB128
+18.169436,52.215958,sapling,sapling,09_RSI-CB256
+16.757908,52.746696,sapling,sapling,09_RSI-CB256
+18.046682,49.15771,sapling,woodland,01_RSI_CB128
+17.159039,52.3349,sapling,sapling,09_RSI-CB256
+16.061241,50.98533,sapling,woodland,01_RSI_CB128
+15.647055,50.12821,sapling,woodland,01_RSI_CB128
+18.324747,51.27324,sapling,sapling,09_RSI-CB256
+19.453783,50.62252,sapling,sapling,09_RSI-CB256
+17.264664,50.822308,sapling,woodland,01_RSI_CB128
+18.061798,50.606934,sapling,woodland,01_RSI_CB128
+18.694283,50.204712,sapling,woodland,01_RSI_CB128
+15.994762,51.547665,sapling,woodland,01_RSI_CB128
+17.969154,52.87077,sapling,sapling,09_RSI-CB256
+19.680946,52.22321,sapling,sapling,09_RSI-CB256
+16.513403,50.780037,sapling,woodland,01_RSI_CB128
+17.8535,49.844925,sapling,woodland,01_RSI_CB128
+21.529764,51.948483,sapling,sapling,09_RSI-CB256
+20.255287,52.12134,sapling,sapling,09_RSI-CB256
+17.198473,50.981594,sapling,woodland,01_RSI_CB128
+18.242521,51.523563,sapling,sapling,09_RSI-CB256
+17.858824,51.67806,sapling,sapling,09_RSI-CB256
+15.917188,51.797665,sapling,woodland,01_RSI_CB128
+33.158615,9.512205,island,island,07_NWPU_RESISC45
+30.40118,10.928477,island,island,07_NWPU_RESISC45
+34.220924,9.22992,island,island,07_NWPU_RESISC45
+29.156384,7.025806,island,island,07_NWPU_RESISC45
+11.737118,15.982724,island,island,07_NWPU_RESISC45
+16.188927,18.9502,island,island,07_NWPU_RESISC45
+29.500526,12.086502,island,island,07_NWPU_RESISC45
+30.712843,9.864923,island,island,07_NWPU_RESISC45
+33.022427,8.554853,island,island,07_NWPU_RESISC45
+30.306444,7.085024,island,island,07_NWPU_RESISC45
+30.365517,12.222992,island,island,07_NWPU_RESISC45
+26.583702,10.105982,island,island,07_NWPU_RESISC45
+29.552471,8.451923,island,island,07_NWPU_RESISC45
+9.586226,15.43215,island,island,07_NWPU_RESISC45
+32.927555,8.757482,island,island,07_NWPU_RESISC45
+31.292679,8.183784,island,island,07_NWPU_RESISC45
+31.599066,10.123924,island,island,07_NWPU_RESISC45
+30.046839,6.554693,island,island,07_NWPU_RESISC45
+30.370188,12.039656,island,island,07_NWPU_RESISC45
+30.485903,10.741624,island,island,07_NWPU_RESISC45
+32.980232,9.819683,island,island,07_NWPU_RESISC45
+29.626337,12.398132,island,island,07_NWPU_RESISC45
+30.291443,13.588741,island,island,07_NWPU_RESISC45
+11.398122,15.797452,island,island,07_NWPU_RESISC45
+30.507063,8.456229,island,island,07_NWPU_RESISC45
+30.662783,7.4415636,island,island,07_NWPU_RESISC45
+30.86898,12.632157,island,island,07_NWPU_RESISC45
+30.904543,7.137303,island,island,07_NWPU_RESISC45
+29.241833,12.478861,island,island,07_NWPU_RESISC45
+29.66561,8.27107,island,island,07_NWPU_RESISC45
+29.702646,13.235652,island,island,07_NWPU_RESISC45
+3.5072455,-22.128824,island,island,07_NWPU_RESISC45
+28.83775,5.6970463,island,island,07_NWPU_RESISC45
+30.601416,8.067499,island,island,07_NWPU_RESISC45
+31.185581,6.8570194,island,island,07_NWPU_RESISC45
+12.487137,16.589968,island,island,07_NWPU_RESISC45
+31.208792,8.214911,island,island,07_NWPU_RESISC45
+29.619938,12.453056,island,island,07_NWPU_RESISC45
+30.767012,7.0541024,island,island,07_NWPU_RESISC45
+10.586448,15.467235,island,island,07_NWPU_RESISC45
+1.2729393,-12.932715,avenue,transportation,01_RSI_CB128
+27.608871,39.167126,avenue,transportation,01_RSI_CB128
+4.557946,26.110579,avenue,avenue,09_RSI-CB256
+-0.27905726,31.87147,avenue,transportation,01_RSI_CB128
+-0.18307473,30.99851,avenue,transportation,01_RSI_CB128
+5.1552377,25.60426,avenue,avenue,09_RSI-CB256
+1.2832918,-12.973344,avenue,transportation,01_RSI_CB128
+-43.095432,6.3147764,avenue,woodland,01_RSI_CB128
+-13.051953,-13.206478,avenue,transportation,01_RSI_CB128
+-41.43207,5.068139,avenue,woodland,01_RSI_CB128
+0.7369918,-12.083769,avenue,transportation,01_RSI_CB128
+1.2341716,31.073248,avenue,transportation,01_RSI_CB128
+-25.368528,19.18482,avenue,transportation,01_RSI_CB128
+-13.423302,16.896442,avenue,transportation,01_RSI_CB128
+-41.364803,4.978705,avenue,woodland,01_RSI_CB128
+-0.75084656,32.009117,avenue,transportation,01_RSI_CB128
+-0.31754878,-12.717081,avenue,transportation,01_RSI_CB128
+5.0173826,25.853975,avenue,avenue,09_RSI-CB256
+-41.86084,6.11879,avenue,woodland,01_RSI_CB128
+0.7561803,30.91638,avenue,avenue,09_RSI-CB256
+5.4973598,25.23687,avenue,avenue,09_RSI-CB256
+4.090628,45.09649,avenue,woodland,01_RSI_CB128
+-1.1401751,31.926271,avenue,transportation,01_RSI_CB128
+0.8378877,30.942966,avenue,avenue,09_RSI-CB256
+-42.85331,6.290452,avenue,woodland,01_RSI_CB128
+5.4901857,26.292974,avenue,avenue,09_RSI-CB256
+-0.5508391,32.040302,avenue,transportation,01_RSI_CB128
+1.0228778,-11.219343,avenue,transportation,01_RSI_CB128
+0.86001474,26.463606,avenue,avenue,09_RSI-CB256
+4.446997,45.156357,avenue,woodland,01_RSI_CB128
+4.4470496,25.976393,avenue,avenue,09_RSI-CB256
+0.03156367,-11.779187,avenue,transportation,01_RSI_CB128
+1.6598148,31.277765,avenue,transportation,01_RSI_CB128
+-0.554448,33.210472,avenue,transportation,01_RSI_CB128
+4.695978,45.16291,avenue,woodland,01_RSI_CB128
+4.638655,25.407608,avenue,avenue,09_RSI-CB256
+1.442711,28.06545,avenue,avenue,09_RSI-CB256
+-1.2278805,31.903687,avenue,transportation,01_RSI_CB128
+-0.082129896,-11.525707,avenue,transportation,01_RSI_CB128
+0.8723473,26.500309,avenue,avenue,09_RSI-CB256
+-41.79857,20.290813,swimming_pool,swimming_pool,05_PatternNet
+-39.914795,15.041645,swimming_pool,swimming_pool,05_PatternNet
+-42.4578,11.346796,swimming_pool,swimming_pool,05_PatternNet
+-38.393658,17.295252,swimming_pool,swimming_pool,05_PatternNet
+-40.097286,-23.413761,swimming_pool,swimming_pool,05_PatternNet
+-39.81856,15.279429,swimming_pool,swimming_pool,05_PatternNet
+-41.041134,18.578266,swimming_pool,swimming_pool,05_PatternNet
+-42.36277,11.40741,swimming_pool,swimming_pool,05_PatternNet
+-41.633076,19.343424,swimming_pool,swimming_pool,05_PatternNet
+-39.548645,19.318062,swimming_pool,swimming_pool,05_PatternNet
+-44.603413,16.53705,swimming_pool,swimming_pool,05_PatternNet
+-43.27174,13.733264,swimming_pool,swimming_pool,05_PatternNet
+-41.627563,19.835522,swimming_pool,swimming_pool,05_PatternNet
+-41.877754,12.236795,swimming_pool,swimming_pool,05_PatternNet
+-40.87413,18.326252,swimming_pool,swimming_pool,05_PatternNet
+-42.540714,14.42523,swimming_pool,swimming_pool,05_PatternNet
+-23.915972,-36.88886,swimming_pool,swimming_pool,05_PatternNet
+-44.360344,14.065302,swimming_pool,swimming_pool,05_PatternNet
+-42.89906,20.507498,swimming_pool,swimming_pool,05_PatternNet
+-42.707115,18.803604,swimming_pool,swimming_pool,05_PatternNet
+-44.53181,16.512754,swimming_pool,swimming_pool,05_PatternNet
+-43.80414,15.17276,swimming_pool,swimming_pool,05_PatternNet
+-41.21065,17.701694,swimming_pool,swimming_pool,05_PatternNet
+-41.020935,12.79094,swimming_pool,swimming_pool,05_PatternNet
+-41.323624,21.528654,swimming_pool,swimming_pool,05_PatternNet
+-40.131264,-23.430574,swimming_pool,swimming_pool,05_PatternNet
+-40.10054,13.042405,swimming_pool,swimming_pool,05_PatternNet
+-43.29672,12.34769,swimming_pool,swimming_pool,05_PatternNet
+-41.231045,17.247158,swimming_pool,swimming_pool,05_PatternNet
+-42.818123,20.50914,swimming_pool,swimming_pool,05_PatternNet
+-42.14293,10.91188,swimming_pool,swimming_pool,05_PatternNet
+-41.82199,19.240503,swimming_pool,swimming_pool,05_PatternNet
+-42.59676,11.48641,swimming_pool,swimming_pool,05_PatternNet
+-41.77831,13.081817,swimming_pool,swimming_pool,05_PatternNet
+-42.11077,12.739712,swimming_pool,swimming_pool,05_PatternNet
+-43.586403,12.966236,swimming_pool,swimming_pool,05_PatternNet
+-41.71815,20.403858,swimming_pool,swimming_pool,05_PatternNet
+-44.794884,14.599022,swimming_pool,swimming_pool,05_PatternNet
+-44.035767,14.845225,swimming_pool,swimming_pool,05_PatternNet
+-40.545544,15.939337,swimming_pool,swimming_pool,05_PatternNet
+5.7595186,36.904106,River_Protection_Forest,woodland,01_RSI_CB128
+8.932839,34.365234,River_Protection_Forest,river_protection_forest,09_RSI-CB256
+9.114021,31.477806,River_Protection_Forest,river_protection_forest,09_RSI-CB256
+9.388082,31.494234,River_Protection_Forest,river_protection_forest,09_RSI-CB256
+6.8944583,37.213085,River_Protection_Forest,woodland,01_RSI_CB128
+5.7544355,37.46218,River_Protection_Forest,woodland,01_RSI_CB128
+6.496512,34.490532,River_Protection_Forest,woodland,01_RSI_CB128
+7.9399285,38.266685,River_Protection_Forest,woodland,01_RSI_CB128
+9.777224,33.197014,River_Protection_Forest,river_protection_forest,09_RSI-CB256
+10.991337,36.541218,River_Protection_Forest,river_protection_forest,09_RSI-CB256
+6.0333166,35.56291,River_Protection_Forest,woodland,01_RSI_CB128
+6.08233,35.90881,River_Protection_Forest,woodland,01_RSI_CB128
+9.8818035,31.170223,River_Protection_Forest,woodland,01_RSI_CB128
+9.521629,36.30028,River_Protection_Forest,river_protection_forest,09_RSI-CB256
+9.838529,31.399021,River_Protection_Forest,river_protection_forest,09_RSI-CB256
+6.517066,34.92056,River_Protection_Forest,river_protection_forest,09_RSI-CB256
+6.773876,37.233868,River_Protection_Forest,woodland,01_RSI_CB128
+6.404208,35.298607,River_Protection_Forest,woodland,01_RSI_CB128
+6.5171456,34.795086,River_Protection_Forest,woodland,01_RSI_CB128
+6.5785327,32.801273,River_Protection_Forest,river_protection_forest,09_RSI-CB256
+9.13555,34.10708,River_Protection_Forest,river_protection_forest,09_RSI-CB256
+11.194516,36.92497,River_Protection_Forest,river_protection_forest,09_RSI-CB256
+7.6048255,37.18094,River_Protection_Forest,river_protection_forest,09_RSI-CB256
+9.1102915,34.519028,River_Protection_Forest,river_protection_forest,09_RSI-CB256
+5.3399005,35.945328,River_Protection_Forest,,01_RSI_CB128
+9.821198,36.37864,River_Protection_Forest,river_protection_forest,09_RSI-CB256
+10.327902,36.442368,River_Protection_Forest,woodland,01_RSI_CB128
+6.655043,38.460045,River_Protection_Forest,woodland,01_RSI_CB128
+9.558289,36.628246,River_Protection_Forest,river_protection_forest,09_RSI-CB256
+9.050983,34.084843,River_Protection_Forest,river_protection_forest,09_RSI-CB256
+8.926555,31.746374,River_Protection_Forest,woodland,01_RSI_CB128
+7.405579,36.97243,River_Protection_Forest,woodland,01_RSI_CB128
+9.735959,32.020164,River_Protection_Forest,river_protection_forest,09_RSI-CB256
+10.995402,36.535763,River_Protection_Forest,river_protection_forest,09_RSI-CB256
+7.878797,37.638412,River_Protection_Forest,woodland,01_RSI_CB128
+5.824413,36.566605,River_Protection_Forest,,01_RSI_CB128
+10.89793,36.351547,River_Protection_Forest,river_protection_forest,09_RSI-CB256
+7.993106,38.2726,River_Protection_Forest,river_protection_forest,09_RSI-CB256
+9.806639,31.20203,River_Protection_Forest,woodland,01_RSI_CB128
+9.166466,33.583878,River_Protection_Forest,river_protection_forest,09_RSI-CB256
+-23.526348,-47.92752,storage land or containers,shipping_yard,05_PatternNet
+0.65579945,-4.844691,storage land or containers,storage_land,RSD46-WHU
+-22.067623,-50.449112,storage land or containers,storage_land,RSD46-WHU
+-21.416683,-48.32559,storage land or containers,container,09_RSI-CB256
+-20.750721,-48.760883,storage land or containers,container,09_RSI-CB256
+-22.234703,-48.21222,storage land or containers,container,09_RSI-CB256
+-18.113132,-40.562695,storage land or containers,container,09_RSI-CB256
+-18.958685,-47.218975,storage land or containers,construction_land,01_RSI_CB128
+-23.196075,-46.80139,storage land or containers,shipping_yard,05_PatternNet
+4.1027446,-3.8467183,storage land or containers,storage_land,RSD46-WHU
+-23.258041,-46.381634,storage land or containers,shipping_yard,05_PatternNet
+-22.313932,-47.660904,storage land or containers,shipping_yard,05_PatternNet
+-16.211372,-25.515215,storage land or containers,container,09_RSI-CB256
+-22.895218,-48.746258,storage land or containers,container,09_RSI-CB256
+-20.06547,-46.49914,storage land or containers,construction_land,01_RSI_CB128
+-20.019958,-48.511547,storage land or containers,construction_land,01_RSI_CB128
+-19.41569,-47.384434,storage land or containers,construction_land,01_RSI_CB128
+-21.956923,-48.519295,storage land or containers,container,09_RSI-CB256
+-17.95096,-45.23241,storage land or containers,construction_land,01_RSI_CB128
+-21.28747,-48.612278,storage land or containers,container,09_RSI-CB256
+-19.058407,-48.519985,storage land or containers,construction_land,01_RSI_CB128
+-20.927238,-47.46706,storage land or containers,container,09_RSI-CB256
+0.69567084,-4.8493886,storage land or containers,storage_land,RSD46-WHU
+-15.909159,-23.948088,storage land or containers,shipping_yard,05_PatternNet
+-21.593428,-49.824806,storage land or containers,storage_land,RSD46-WHU
+-23.063887,-47.623226,storage land or containers,shipping_yard,05_PatternNet
+-20.77799,-47.586098,storage land or containers,container,09_RSI-CB256
+-18.128836,-47.53835,storage land or containers,construction_land,01_RSI_CB128
+-19.325718,-46.34451,storage land or containers,construction_land,01_RSI_CB128
+-18.69556,-47.6531,storage land or containers,construction_land,01_RSI_CB128
+-19.815,-47.518387,storage land or containers,construction_land,01_RSI_CB128
+-20.60554,-48.52232,storage land or containers,construction_land,01_RSI_CB128
+-19.082113,-47.806076,storage land or containers,construction_land,01_RSI_CB128
+-19.375175,-48.53541,storage land or containers,construction_land,01_RSI_CB128
+-20.41494,-46.807953,storage land or containers,construction_land,01_RSI_CB128
+-21.545933,-48.93236,storage land or containers,container,09_RSI-CB256
+-22.208633,-46.504227,storage land or containers,shipping_yard,05_PatternNet
+-23.18969,-46.347874,storage land or containers,shipping_yard,05_PatternNet
+-22.902018,-48.841343,storage land or containers,container,09_RSI-CB256
+-10.365796,0.1976166,storage land or containers,storage_land,RSD46-WHU
+31.0807,-18.261742,Beach,sandbeach,09_RSI-CB256
+31.004206,-18.289488,Beach,sandbeach,09_RSI-CB256
+31.467949,-13.570882,Beach,beach,07_NWPU_RESISC45
+32.171738,-13.784537,Beach,beach,05_PatternNet
+31.913088,-10.480175,Beach,beach,06_AID
+35.58636,-13.058557,Beach,water_area,01_RSI_CB128
+31.572659,-14.491993,Beach,beach,07_NWPU_RESISC45
+24.169748,12.652651,Beach,beach,RSITMD
+34.14673,-12.700377,Beach,coastline,09_RSI-CB256
+49.39323,3.8013575,Beach,sandbeach,09_RSI-CB256
+30.928589,-18.285627,Beach,sandbeach,09_RSI-CB256
+47.162163,-9.50759,Beach,other_land,01_RSI_CB128
+24.266788,1.8914242,Beach,beach,07_NWPU_RESISC45
+10.635702,18.36608,Beach,beach,07_NWPU_RESISC45
+24.346275,1.5092864,Beach,beach,06_AID
+34.979893,-11.922884,Beach,water_area,01_RSI_CB128
+43.601753,15.003408,Beach,other_land,01_RSI_CB128
+31.99059,-15.737142,Beach,beach,05_PatternNet
+34.87092,-12.183478,Beach,water_area,01_RSI_CB128
+36.105896,16.380152,Beach,beach,07_NWPU_RESISC45
+35.38055,-13.193247,Beach,water_area,01_RSI_CB128
+35.566986,-12.243545,Beach,,01_RSI_CB128
+34.233406,-13.45642,Beach,coastline,09_RSI-CB256
+49.410995,3.3670974,Beach,sandbeach,09_RSI-CB256
+32.180077,-13.85551,Beach,beach,05_PatternNet
+31.66249,-14.484642,Beach,beach,CLRS
+31.179619,-13.0134945,Beach,beach,07_NWPU_RESISC45
+43.626087,13.818934,Beach,other_land,01_RSI_CB128
+31.485565,-13.094829,Beach,beach,CLRS
+31.972034,-13.947326,Beach,beach,05_PatternNet
+34.210728,-14.467563,Beach,coastline,09_RSI-CB256
+46.344444,-8.747136,Beach,water_area,01_RSI_CB128
+31.690125,-15.495982,Beach,beach,07_NWPU_RESISC45
+31.607336,-12.948477,Beach,beach,CLRS
+43.28094,14.300567,Beach,other_land,01_RSI_CB128
+2.4337313,-21.709427,Beach,beach,CLRS
+31.546612,-12.127679,Beach,beach,06_AID
+31.003027,-13.864145,Beach,beach,CLRS
+23.667175,2.8610387,Beach,beach,CLRS
+54.423523,-8.03759,Beach,other_land,01_RSI_CB128
+-31.347445,5.3903522,Parking_partial or fully occupied,transportation,01_RSI_CB128
+-33.196484,-20.68592,Parking_partial or fully occupied,parking_lot,09_RSI-CB256
+-26.000662,1.0944226,Parking_partial or fully occupied,parking_lot,08_RSSCN7
+-30.452751,-19.364096,Parking_partial or fully occupied,parking_lot,05_PatternNet
+-2.622614,3.0271926,Parking_partial or fully occupied,parking_lot,RSD46-WHU
+-30.507797,-10.580179,Parking_partial or fully occupied,parking_lot,05_PatternNet
+-33.409595,-20.393131,Parking_partial or fully occupied,parking_lot,09_RSI-CB256
+-30.697338,-19.663994,Parking_partial or fully occupied,parking_lot,05_PatternNet
+-15.464067,-4.1346736,Parking_partial or fully occupied,parking_lot,CLRS
+-30.112228,-19.236544,Parking_partial or fully occupied,parking_lot,07_NWPU_RESISC45
+-22.388746,4.657496,Parking_partial or fully occupied,parking_lot,CLRS
+-21.914995,3.0992293,Parking_partial or fully occupied,parking_lot,CLRS
+-30.967897,-16.293097,Parking_partial or fully occupied,parking_lot,05_PatternNet
+-32.184856,-18.320503,Parking_partial or fully occupied,parking_lot,07_NWPU_RESISC45
+-15.213634,-15.405759,Parking_partial or fully occupied,parking_lot,08_RSSCN7
+-31.598598,-16.552158,Parking_partial or fully occupied,transportation,01_RSI_CB128
+-31.773638,-10.463826,Parking_partial or fully occupied,parking_lot,07_NWPU_RESISC45
+-21.11183,6.416816,Parking_partial or fully occupied,parking_lot,05_PatternNet
+-32.33921,-18.764563,Parking_partial or fully occupied,parking_lot,05_PatternNet
+-35.0452,-16.508018,Parking_partial or fully occupied,transportation,01_RSI_CB128
+-34.355717,-19.755228,Parking_partial or fully occupied,transportation,01_RSI_CB128
+-14.643483,-19.080153,Parking_partial or fully occupied,parking_lot,CLRS
+-7.057665,5.176268,Parking_partial or fully occupied,parking_lot,RSD46-WHU
+-28.059656,-0.6411936,Parking_partial or fully occupied,parking_lot,RSITMD
+-7.1257496,5.304745,Parking_partial or fully occupied,parking_lot,RSD46-WHU
+-34.400436,-21.395573,Parking_partial or fully occupied,parking_lot,06_AID
+-28.022121,-0.474533,Parking_partial or fully occupied,parking_lot,05_PatternNet
+-31.334349,-16.190495,Parking_partial or fully occupied,parking_lot,05_PatternNet
+-15.533308,-30.200403,Parking_partial or fully occupied,parking_lot,07_NWPU_RESISC45
+-31.622444,-12.853272,Parking_partial or fully occupied,transportation,01_RSI_CB128
+-25.368645,-7.976874,Parking_partial or fully occupied,parking_lot,WHU-RS19
+-32.16823,-18.304518,Parking_partial or fully occupied,parking_lot,07_NWPU_RESISC45
+-29.222725,-11.672369,Parking_partial or fully occupied,transportation,01_RSI_CB128
+-32.11513,-15.972566,Parking_partial or fully occupied,transportation,01_RSI_CB128
+-21.657572,-2.7203994,Parking_partial or fully occupied,parking_lot,08_RSSCN7
+-33.70558,-20.345636,Parking_partial or fully occupied,parking_lot,09_RSI-CB256
+-19.152103,-3.085686,Parking_partial or fully occupied,parking_lot,07_NWPU_RESISC45
+-31.608068,-12.359344,Parking_partial or fully occupied,transportation,01_RSI_CB128
+5.895451,-1.5875591,Parking_partial or fully occupied,parking_lot,07_NWPU_RESISC45
+-31.180798,5.632327,Parking_partial or fully occupied,transportation,01_RSI_CB128
+-59.8861,-6.3721757,sewage plant-type-one,wastewater_treatment_plant,05_PatternNet
+-61.09167,-5.712101,sewage plant-type-one,wastewater_treatment_plant,05_PatternNet
+-59.38171,-5.747924,sewage plant-type-one,wastewater_treatment_plant,05_PatternNet
+-58.274067,-4.3978276,sewage plant-type-one,wastewater_treatment_plant,05_PatternNet
+-57.795303,-5.855909,sewage plant-type-one,wastewater_treatment_plant,05_PatternNet
+-61.35314,-6.712801,sewage plant-type-one,wastewater_treatment_plant,05_PatternNet
+-58.447105,-4.1621423,sewage plant-type-one,wastewater_treatment_plant,05_PatternNet
+-55.570732,-6.2567472,sewage plant-type-one,wastewater_treatment_plant,05_PatternNet
+-59.602287,-6.3548384,sewage plant-type-one,wastewater_treatment_plant,05_PatternNet
+-54.254234,-3.066289,sewage plant-type-one,wastewater_treatment_plant,RSD46-WHU
+-58.97861,-13.370519,sewage plant-type-one,wastewater_treatment_plant,05_PatternNet
+-56.63097,-7.622656,sewage plant-type-one,wastewater_treatment_plant,05_PatternNet
+-59.805252,-4.961913,sewage plant-type-one,wastewater_treatment_plant,05_PatternNet
+-55.659164,-3.7289548,sewage plant-type-one,wastewater_treatment_plant,RSD46-WHU
+-55.794098,-4.4373384,sewage plant-type-one,wastewater_treatment_plant,RSD46-WHU
+-57.14094,-7.102276,sewage plant-type-one,wastewater_treatment_plant,05_PatternNet
+-59.392548,-3.4663684,sewage plant-type-one,wastewater_treatment_plant,05_PatternNet
+-54.538822,-3.4888494,sewage plant-type-one,wastewater_treatment_plant,RSD46-WHU
+-57.373764,-3.8861623,sewage plant-type-one,wastewater_treatment_plant,05_PatternNet
+-59.09912,-5.7618313,sewage plant-type-one,wastewater_treatment_plant,05_PatternNet
+-60.854565,-5.9515553,sewage plant-type-one,wastewater_treatment_plant,05_PatternNet
+-61.939594,-6.046938,sewage plant-type-one,wastewater_treatment_plant,05_PatternNet
+-56.41812,-4.6432014,sewage plant-type-one,wastewater_treatment_plant,05_PatternNet
+-57.476097,-4.08712,sewage plant-type-one,wastewater_treatment_plant,05_PatternNet
+-57.16387,-2.8790245,sewage plant-type-one,wastewater_treatment_plant,05_PatternNet
+-55.52244,-4.3484573,sewage plant-type-one,wastewater_treatment_plant,RSD46-WHU
+-57.645527,-7.407479,sewage plant-type-one,wastewater_treatment_plant,05_PatternNet
+-57.852478,-7.550738,sewage plant-type-one,wastewater_treatment_plant,05_PatternNet
+7.2962685,0.6833499,sewage plant-type-one,wastewater_treatment_plant,05_PatternNet
+-59.109226,-8.089912,sewage plant-type-one,wastewater_treatment_plant,05_PatternNet
+-54.7405,-3.6824455,sewage plant-type-one,wastewater_treatment_plant,RSD46-WHU
+-13.072891,-6.5449014,sewage plant-type-one,wastewater_treatment_plant,05_PatternNet
+-57.09819,-2.6707041,sewage plant-type-one,wastewater_treatment_plant,05_PatternNet
+-61.650307,-6.799438,sewage plant-type-one,wastewater_treatment_plant,05_PatternNet
+-58.83514,-8.037095,sewage plant-type-one,wastewater_treatment_plant,05_PatternNet
+-57.474625,-6.68021,sewage plant-type-one,wastewater_treatment_plant,05_PatternNet
+-57.437576,-6.5492363,sewage plant-type-one,wastewater_treatment_plant,05_PatternNet
+-59.995583,-15.0955,sewage plant-type-one,wastewater_treatment_plant,05_PatternNet
+-61.1272,-6.0732775,sewage plant-type-one,wastewater_treatment_plant,05_PatternNet
+-58.531315,-4.125551,sewage plant-type-one,wastewater_treatment_plant,05_PatternNet
+9.617745,-32.57914,dam,water_area,01_RSI_CB128
+7.3026114,-21.54315,dam,dam,09_RSI-CB256
+7.7629485,-30.561033,dam,dam,09_RSI-CB256
+9.064149,-34.691338,dam,,01_RSI_CB128
+10.211075,-33.539627,dam,water_area,01_RSI_CB128
+6.5103135,-30.727877,dam,dam,09_RSI-CB256
+8.78627,-31.912783,dam,dam,09_RSI-CB256
+8.211305,-33.586617,dam,water_area,01_RSI_CB128
+-6.7567515,-38.84326,dam,water_area,01_RSI_CB128
+5.927058,-31.12473,dam,water_area,01_RSI_CB128
+11.01358,-32.691948,dam,water_area,01_RSI_CB128
+8.901748,-31.916122,dam,dam,09_RSI-CB256
+-1.070159,8.085812,dam,dam,09_RSI-CB256
+7.003515,-31.006258,dam,dam,09_RSI-CB256
+6.9461102,-30.85885,dam,dam,09_RSI-CB256
+8.782708,-31.215752,dam,dam,09_RSI-CB256
+8.903037,-31.867542,dam,dam,09_RSI-CB256
+8.670971,-31.829208,dam,dam,09_RSI-CB256
+-6.6615386,-38.96402,dam,water_area,01_RSI_CB128
+5.6877236,-31.484241,dam,water_area,01_RSI_CB128
+-6.734727,-38.93527,dam,water_area,01_RSI_CB128
+8.583649,-21.879639,dam,dam,09_RSI-CB256
+8.071606,-33.343876,dam,dam,09_RSI-CB256
+6.829258,-33.236137,dam,dam,09_RSI-CB256
+10.381202,-33.54664,dam,water_area,01_RSI_CB128
+8.84057,-30.182362,dam,river_lake,08_RSSCN7
+8.2076235,-32.903145,dam,dam,09_RSI-CB256
+-5.2677464,-29.369602,dam,water_area,01_RSI_CB128
+9.078633,-34.64819,dam,water_area,01_RSI_CB128
+6.112467,-29.65945,dam,water_area,01_RSI_CB128
+9.326186,-32.321434,dam,water_area,01_RSI_CB128
+9.864937,-30.981247,dam,dam,09_RSI-CB256
+2.7239687,-28.355927,dam,dam,09_RSI-CB256
+7.5669827,-21.427973,dam,water_area,01_RSI_CB128
+6.694529,-33.28943,dam,dam,09_RSI-CB256
+7.1619697,-20.447746,dam,dam,09_RSI-CB256
+6.034626,-29.481255,dam,water_area,01_RSI_CB128
+8.14327,-32.15644,dam,dam,09_RSI-CB256
+8.760331,-31.230873,dam,dam,09_RSI-CB256
+8.875215,-32.0073,dam,dam,09_RSI-CB256
+-3.9909778,2.3277235,construction site,construction_site,RSD46-WHU
+-4.4012003,3.359277,construction site,construction_site,RSD46-WHU
+-9.328615,-7.520015,construction site,construction_site,RSD46-WHU
+-3.9848225,-1.3783778,construction site,construction_site,RSD46-WHU
+-4.736168,5.078895,construction site,construction_site,RSD46-WHU
+-3.0739255,1.4569832,construction site,construction_site,RSD46-WHU
+-3.5858972,-1.1059847,construction site,construction_site,RSD46-WHU
+-2.8796306,2.5221856,construction site,construction_site,RSD46-WHU
+-5.46174,-0.60934126,construction site,construction_site,RSD46-WHU
+-15.17294,-6.963753,construction site,construction_site,RSD46-WHU
+-7.812212,-1.8168856,construction site,construction_site,RSD46-WHU
+-5.869857,2.0545454,construction site,construction_site,RSD46-WHU
+-4.6713934,6.2056084,construction site,construction_site,RSD46-WHU
+-5.1368437,4.8730497,construction site,construction_site,RSD46-WHU
+-1.9823272,0.52161217,construction site,construction_site,RSD46-WHU
+-3.343666,-0.20886977,construction site,construction_site,RSD46-WHU
+-5.5904355,2.1372066,construction site,construction_site,RSD46-WHU
+-4.810311,6.4880443,construction site,construction_site,RSD46-WHU
+-3.781941,0.10517154,construction site,construction_site,RSD46-WHU
+-13.943972,-18.723469,construction site,construction_site,RSD46-WHU
+-3.8617575,1.2957616,construction site,construction_site,RSD46-WHU
+8.280397,15.568928,construction site,construction_site,RSD46-WHU
+-1.9731969,4.7089252,construction site,construction_site,RSD46-WHU
+-3.932174,0.81653666,construction site,construction_site,RSD46-WHU
+-3.7861943,2.2323415,construction site,construction_site,RSD46-WHU
+-30.499014,17.337011,construction site,construction_site,RSD46-WHU
+-5.7927628,-3.671252,construction site,construction_site,RSD46-WHU
+-4.062003,4.352737,construction site,construction_site,RSD46-WHU
+-5.326206,6.7671905,construction site,construction_site,RSD46-WHU
+-2.6672838,5.113024,construction site,construction_site,RSD46-WHU
+-5.9978724,-1.2640816,construction site,construction_site,RSD46-WHU
+-6.336736,1.9402452,construction site,construction_site,RSD46-WHU
+-3.7328806,-1.2657056,construction site,construction_site,RSD46-WHU
+-3.250262,5.2862997,construction site,construction_site,RSD46-WHU
+-3.554306,4.0096564,construction site,construction_site,RSD46-WHU
+-4.3060837,-3.8469388,construction site,construction_site,RSD46-WHU
+-0.2149933,4.277322,construction site,construction_site,RSD46-WHU
+-3.8876889,6.6100564,construction site,construction_site,RSD46-WHU
+-4.6092353,0.6464374,construction site,construction_site,RSD46-WHU
+-4.105311,-4.203313,construction site,construction_site,RSD46-WHU
+28.794775,22.378078,cloud,cloud,07_NWPU_RESISC45
+27.008009,18.87649,cloud,cloud,07_NWPU_RESISC45
+22.40401,20.676355,cloud,cloud,07_NWPU_RESISC45
+26.734158,22.431458,cloud,cloud,07_NWPU_RESISC45
+22.960157,21.449938,cloud,cloud,07_NWPU_RESISC45
+6.4899564,8.549024,cloud,cloud,07_NWPU_RESISC45
+31.496828,18.06133,cloud,cloud,07_NWPU_RESISC45
+27.518545,24.01682,cloud,cloud,07_NWPU_RESISC45
+29.644121,17.406225,cloud,cloud,07_NWPU_RESISC45
+27.826292,19.015808,cloud,cloud,07_NWPU_RESISC45
+30.411701,17.698917,cloud,cloud,07_NWPU_RESISC45
+30.130735,17.535301,cloud,cloud,07_NWPU_RESISC45
+26.806683,23.1354,cloud,cloud,07_NWPU_RESISC45
+28.145594,22.71148,cloud,cloud,07_NWPU_RESISC45
+28.312485,21.200695,cloud,cloud,07_NWPU_RESISC45
+27.497293,18.743364,cloud,cloud,07_NWPU_RESISC45
+23.660254,20.99995,cloud,cloud,07_NWPU_RESISC45
+27.800488,18.316187,cloud,cloud,07_NWPU_RESISC45
+22.73051,21.470676,cloud,cloud,07_NWPU_RESISC45
+30.083775,21.879337,cloud,cloud,07_NWPU_RESISC45
+27.791613,21.900333,cloud,cloud,07_NWPU_RESISC45
+23.956223,21.24931,cloud,cloud,07_NWPU_RESISC45
+27.653812,17.945997,cloud,cloud,07_NWPU_RESISC45
+21.900639,19.93316,cloud,cloud,07_NWPU_RESISC45
+30.563625,18.150927,cloud,cloud,07_NWPU_RESISC45
+27.916948,18.126398,cloud,cloud,07_NWPU_RESISC45
+26.554256,22.259344,cloud,cloud,07_NWPU_RESISC45
+28.805807,22.511654,cloud,cloud,07_NWPU_RESISC45
+32.295544,18.191898,cloud,cloud,07_NWPU_RESISC45
+23.593813,20.738995,cloud,cloud,07_NWPU_RESISC45
+28.376173,22.519562,cloud,cloud,07_NWPU_RESISC45
+6.9966226,9.1119,cloud,cloud,07_NWPU_RESISC45
+27.379505,23.982103,cloud,cloud,07_NWPU_RESISC45
+28.192877,17.698757,cloud,cloud,07_NWPU_RESISC45
+7.062027,9.319521,cloud,cloud,07_NWPU_RESISC45
+31.59265,18.03694,cloud,cloud,07_NWPU_RESISC45
+30.318474,17.640882,cloud,cloud,07_NWPU_RESISC45
+28.90923,22.942497,cloud,cloud,07_NWPU_RESISC45
+28.042501,19.879908,cloud,cloud,07_NWPU_RESISC45
+22.543959,21.911823,cloud,cloud,07_NWPU_RESISC45
+55.403038,-1.5820457,stream,stream,09_RSI-CB256
+55.725166,-2.4244747,stream,stream,09_RSI-CB256
+53.813953,-3.4679694,stream,water_area,01_RSI_CB128
+52.95108,-4.7492776,stream,water_area,01_RSI_CB128
+54.691723,-4.658552,stream,water_area,01_RSI_CB128
+56.92881,-4.232848,stream,water_area,01_RSI_CB128
+55.936375,-4.361544,stream,water_area,01_RSI_CB128
+53.484013,-3.6106317,stream,water_area,01_RSI_CB128
+56.16226,-2.4918976,stream,stream,09_RSI-CB256
+54.833214,-2.6496518,stream,stream,09_RSI-CB256
+56.347446,-5.231695,stream,water_area,01_RSI_CB128
+56.44381,-2.3138473,stream,stream,09_RSI-CB256
+55.363148,-2.5960584,stream,stream,09_RSI-CB256
+54.424786,-4.1691566,stream,water_area,01_RSI_CB128
+55.767624,-2.14043,stream,stream,09_RSI-CB256
+56.99612,-2.025034,stream,stream,09_RSI-CB256
+54.58876,-5.2415633,stream,water_area,01_RSI_CB128
+55.275005,-4.7426043,stream,water_area,01_RSI_CB128
+54.84995,-3.1892855,stream,stream,09_RSI-CB256
+53.310005,-4.4044075,stream,stream,09_RSI-CB256
+54.516388,-4.907963,stream,water_area,01_RSI_CB128
+52.934784,-2.120351,stream,stream,09_RSI-CB256
+56.066444,-3.7136714,stream,water_area,01_RSI_CB128
+56.022068,-4.668279,stream,water_area,01_RSI_CB128
+53.202267,-5.28629,stream,water_area,01_RSI_CB128
+55.073914,-1.9110066,stream,stream,09_RSI-CB256
+55.049934,-3.930583,stream,water_area,01_RSI_CB128
+54.46397,-5.283388,stream,water_area,01_RSI_CB128
+57.319267,-3.3250918,stream,stream,09_RSI-CB256
+53.594414,-4.473643,stream,water_area,01_RSI_CB128
+53.496113,-5.904677,stream,water_area,01_RSI_CB128
+57.19054,-4.5176926,stream,water_area,01_RSI_CB128
+56.360493,-4.207708,stream,water_area,01_RSI_CB128
+52.254868,-3.4062126,stream,stream,09_RSI-CB256
+56.447113,-4.005974,stream,water_area,01_RSI_CB128
+55.97015,-5.6569777,stream,water_area,01_RSI_CB128
+54.058876,-5.218277,stream,water_area,01_RSI_CB128
+55.787926,-3.7586823,stream,water_area,01_RSI_CB128
+53.850384,-3.6121407,stream,water_area,01_RSI_CB128
+52.17651,-4.7985287,stream,water_area,01_RSI_CB128
+-22.63687,39.233604,Tower,construction_land,01_RSI_CB128
+-22.830898,42.0191,Tower,construction_land,01_RSI_CB128
+-24.743336,40.279213,Tower,construction_land,01_RSI_CB128
+-20.860378,40.093758,Tower,construction_land,01_RSI_CB128
+-24.455574,40.662155,Tower,construction_land,01_RSI_CB128
+-24.139885,38.676125,Tower,construction_land,01_RSI_CB128
+-23.35156,38.42433,Tower,construction_land,01_RSI_CB128
+-24.956963,42.277847,Tower,construction_land,01_RSI_CB128
+-3.4752643,-15.288106,Tower,construction_land,01_RSI_CB128
+-23.263428,39.306953,Tower,construction_land,01_RSI_CB128
+-20.801334,40.054993,Tower,construction_land,01_RSI_CB128
+-24.974783,42.257263,Tower,construction_land,01_RSI_CB128
+-1.3321068,-17.853025,Tower,construction_land,01_RSI_CB128
+-24.274166,41.7029,Tower,construction_land,01_RSI_CB128
+-38.01027,0.081881225,Tower,construction_land,01_RSI_CB128
+-23.057863,42.79551,Tower,construction_land,01_RSI_CB128
+-22.624336,41.3592,Tower,construction_land,01_RSI_CB128
+-23.034456,39.872562,Tower,construction_land,01_RSI_CB128
+-23.736471,38.465008,Tower,construction_land,01_RSI_CB128
+-23.334063,41.30209,Tower,construction_land,01_RSI_CB128
+-15.9862995,-12.595242,Tower,construction_land,01_RSI_CB128
+-24.002651,42.69334,Tower,construction_land,01_RSI_CB128
+-23.498617,41.397114,Tower,construction_land,01_RSI_CB128
+-21.927258,42.355774,Tower,construction_land,01_RSI_CB128
+-23.304173,42.474117,Tower,construction_land,01_RSI_CB128
+-23.239298,39.14113,Tower,construction_land,01_RSI_CB128
+-25.0292,39.130928,Tower,construction_land,01_RSI_CB128
+-23.350761,39.863583,Tower,construction_land,01_RSI_CB128
+-22.374939,41.44907,Tower,construction_land,01_RSI_CB128
+-1.3202696,-17.808578,Tower,construction_land,01_RSI_CB128
+-23.481407,42.81819,Tower,construction_land,01_RSI_CB128
+-1.3378322,-17.836515,Tower,construction_land,01_RSI_CB128
+-22.443779,41.562737,Tower,construction_land,01_RSI_CB128
+-2.9733162,-15.497423,Tower,construction_land,01_RSI_CB128
+-21.325819,42.10837,Tower,construction_land,01_RSI_CB128
+-24.959497,38.727257,Tower,construction_land,01_RSI_CB128
+-24.110338,40.110336,Tower,construction_land,01_RSI_CB128
+-25.181137,42.334667,Tower,construction_land,01_RSI_CB128
+-11.5812235,-46.27936,Tower,construction_land,01_RSI_CB128
+-23.759396,42.61403,Tower,construction_land,01_RSI_CB128
+-12.850644,-1.6192348,buildings,city_building,09_RSI-CB256
+-39.061478,-16.856958,buildings,city_building,09_RSI-CB256
+-20.16868,16.608585,buildings,palace,07_NWPU_RESISC45
+-19.109669,1.5936878,buildings,palace,07_NWPU_RESISC45
+-36.2564,-12.854015,buildings,construction_land,01_RSI_CB128
+-17.165205,3.6342337,buildings,dense_tall_building,RSD46-WHU
+-12.605013,-1.4495229,buildings,city_building,09_RSI-CB256
+-36.180977,-12.838306,buildings,construction_land,01_RSI_CB128
+-39.51098,6.6870446,buildings,construction_land,01_RSI_CB128
+-12.969343,-1.6705102,buildings,city_building,09_RSI-CB256
+-5.527238,4.331615,buildings,medium_density_scattered_building,RSD46-WHU
+-7.611252,11.969729,buildings,low_scattered_building,RSD46-WHU
+-36.139023,-12.613797,buildings,construction_land,01_RSI_CB128
+-33.85179,2.3831043,buildings,church,07_NWPU_RESISC45
+-33.254604,2.4904683,buildings,church,07_NWPU_RESISC45
+-32.39806,7.493887,buildings,city_building,09_RSI-CB256
+-16.607605,6.3682485,buildings,palace,07_NWPU_RESISC45
+-36.336487,-14.054843,buildings,construction_land,01_RSI_CB128
+-20.267174,15.678373,buildings,church,07_NWPU_RESISC45
+-34.578003,2.852945,buildings,church,RSITMD
+-40.596565,-12.915148,buildings,construction_land,01_RSI_CB128
+-34.535492,-1.9181017,buildings,construction_land,01_RSI_CB128
+-35.010777,-12.211705,buildings,city_building,09_RSI-CB256
+-15.887269,3.9774802,buildings,medium_density_scattered_building,RSD46-WHU
+-25.050577,6.3830457,buildings,medium_density_structured_building,RSD46-WHU
+-4.107822,6.6209583,buildings,construction_site,RSD46-WHU
+-20.489452,15.8928995,buildings,church,07_NWPU_RESISC45
+-34.814022,-12.128602,buildings,city_building,09_RSI-CB256
+-17.859764,3.278146,buildings,dense_tall_building,RSD46-WHU
+-36.09375,-13.529163,buildings,construction_land,01_RSI_CB128
+-12.959494,-1.7171,buildings,city_building,09_RSI-CB256
+-39.193027,6.776856,buildings,city_building,09_RSI-CB256
+-19.92881,16.912588,buildings,palace,07_NWPU_RESISC45
+-1.0146501,1.4464363,buildings,medium_density_structured_building,RSD46-WHU
+-1.8471787,4.219654,buildings,construction_site,RSD46-WHU
+-35.231335,-12.315894,buildings,city_building,09_RSI-CB256
+-39.39995,-17.120853,buildings,city_building,09_RSI-CB256
+-18.044428,-0.5670432,buildings,dense_tall_building,RSD46-WHU
+-16.646814,9.021672,buildings,school,06_AID
+-19.960745,3.3784459,buildings,school,RSITMD
+-14.798348,9.397088,mobile_home_park,mobile_home_park,07_NWPU_RESISC45
+-35.087166,13.912425,mobile_home_park,mobile_home_park,05_PatternNet
+-35.44943,14.225037,mobile_home_park,,05_PatternNet
+-13.909572,9.629859,mobile_home_park,mobile_home_park,07_NWPU_RESISC45
+-32.90452,11.8708515,mobile_home_park,mobile_home_park,05_PatternNet
+-34.548557,12.183748,mobile_home_park,mobile_home_park,05_PatternNet
+-20.41386,3.961517,mobile_home_park,mobile_home_park,05_PatternNet
+-35.0012,10.948305,mobile_home_park,mobile_home_park,05_PatternNet
+-34.51258,9.411676,mobile_home_park,mobile_home_park,05_PatternNet
+-33.59427,12.898245,mobile_home_park,mobile_home_park,UCMerced_LandUse
+-34.410336,9.258846,mobile_home_park,mobile_home_park,05_PatternNet
+-30.743612,10.730938,mobile_home_park,mobile_home_park,UCMerced_LandUse
+-36.502144,14.349091,mobile_home_park,mobile_home_park,05_PatternNet
+-32.22244,13.659473,mobile_home_park,mobile_home_park,07_NWPU_RESISC45
+-22.833408,18.894283,mobile_home_park,mobile_home_park,05_PatternNet
+-30.974848,10.73171,mobile_home_park,mobile_home_park,UCMerced_LandUse
+-33.327568,10.803283,mobile_home_park,mobile_home_park,05_PatternNet
+-31.781326,13.004624,mobile_home_park,mobile_home_park,07_NWPU_RESISC45
+-34.99115,12.632362,mobile_home_park,mobile_home_park,05_PatternNet
+-34.556717,11.625081,mobile_home_park,mobile_home_park,05_PatternNet
+-35.833534,12.299564,mobile_home_park,mobile_home_park,07_NWPU_RESISC45
+-29.897776,8.381703,mobile_home_park,mobile_home_park,07_NWPU_RESISC45
+-33.30977,10.645636,mobile_home_park,mobile_home_park,05_PatternNet
+-31.233793,14.44356,mobile_home_park,mobile_home_park,05_PatternNet
+-35.932472,14.312536,mobile_home_park,mobile_home_park,05_PatternNet
+-21.256832,11.595509,mobile_home_park,mobile_home_park,07_NWPU_RESISC45
+-31.198254,10.335578,mobile_home_park,mobile_home_park,UCMerced_LandUse
+-36.02849,12.0928,mobile_home_park,mobile_home_park,07_NWPU_RESISC45
+-32.316517,12.955659,mobile_home_park,mobile_home_park,07_NWPU_RESISC45
+-34.65513,13.758676,mobile_home_park,mobile_home_park,05_PatternNet
+-34.25089,12.947569,mobile_home_park,mobile_home_park,05_PatternNet
+-20.504383,4.0719376,mobile_home_park,mobile_home_park,05_PatternNet
+-36.416958,12.168047,mobile_home_park,mobile_home_park,05_PatternNet
+-33.761135,14.5381565,mobile_home_park,mobile_home_park,05_PatternNet
+-33.77485,14.530806,mobile_home_park,mobile_home_park,05_PatternNet
+-33.76902,11.345051,mobile_home_park,mobile_home_park,05_PatternNet
+-34.38591,12.692602,mobile_home_park,mobile_home_park,05_PatternNet
+-33.856255,13.2982645,mobile_home_park,mobile_home_park,05_PatternNet
+-32.08732,12.850338,mobile_home_park,mobile_home_park,07_NWPU_RESISC45
+-20.706604,5.3951163,mobile_home_park,mobile_home_park,07_NWPU_RESISC45
+-9.057117,6.6986465,square,square,RSD46-WHU
+-10.566157,7.5319657,square,square,RSD46-WHU
+-2.7224154,10.261757,square,square,RSD46-WHU
+-11.691683,-7.401123,square,square,RSD46-WHU
+-6.4995093,8.515736,square,square,RSD46-WHU
+-12.061649,6.773295,square,square,RSD46-WHU
+-11.711017,12.884652,square,square,RSITMD
+-5.0938807,8.7691765,square,square,RSD46-WHU
+-15.709503,7.3832192,square,square,RSITMD
+-11.832892,6.8543158,square,square,RSD46-WHU
+-19.677153,-13.629249,square,square,RSD46-WHU
+-11.050557,5.0376596,square,square,RSD46-WHU
+-11.470582,7.3435893,square,square,RSD46-WHU
+-10.956481,3.50837,square,square,RSD46-WHU
+-25.837955,-5.201366,square,square,RSITMD
+-8.6318035,8.352805,square,square,RSD46-WHU
+-5.689274,11.796348,square,square,RSD46-WHU
+-9.0968,6.764275,square,square,RSD46-WHU
+-11.990063,4.2073393,square,square,RSD46-WHU
+-18.500051,11.133883,square,square,RSITMD
+-10.237316,5.7822766,square,square,RSD46-WHU
+-11.892688,7.169451,square,square,RSD46-WHU
+-9.280317,6.3294487,square,square,RSD46-WHU
+-26.46409,-2.844133,square,square,RSITMD
+-9.648496,-17.58075,square,square,RSD46-WHU
+-15.102753,7.6678057,square,square,RSITMD
+-9.149201,-8.768695,square,square,RSD46-WHU
+-53.606922,-3.2022834,square,square,RSD46-WHU
+-10.159853,4.9667516,square,square,RSD46-WHU
+-8.593698,8.308611,square,square,RSD46-WHU
+-11.3445835,-6.9510045,square,square,RSD46-WHU
+-8.768264,8.41994,square,square,RSD46-WHU
+-6.611431,9.823075,square,square,RSD46-WHU
+-10.645681,5.102523,square,square,RSD46-WHU
+-26.688368,-4.718325,square,square,RSITMD
+-30.080854,17.556942,square,square,RSD46-WHU
+-30.857704,-25.156157,square,square,RSD46-WHU
+-10.114054,9.047819,square,square,RSD46-WHU
+-12.892818,5.888666,square,square,RSD46-WHU
+-34.11013,20.666098,square,square,RSD46-WHU

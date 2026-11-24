@@ -88,7 +88,7 @@ DEFAULTS = {
     "svm_epochs": "200",
     "svm_lr": "5e-3",
     "svm_batch": "2048",
-    "alphas": "1e-7,1e-6,1e-5,1e-4,1e-3,1e-2",
+    "alphas": "1e-8,1e-7,1e-6,1e-5,1e-4,1e-3,1e-2,1e-1,1,10",
     "feature_batch": "256",
     # model selection for the raw labels and for fine-tuning
     "raw_top_per_family": "5",

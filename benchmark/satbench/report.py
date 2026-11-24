@@ -37,6 +37,12 @@ def embedding_analysis(log, out, clean_df):
     lab_r = np.array([raw.get(idx[i]["path"], "") for i in sel])
     src = np.array([idx[i]["path"].split("/")[1] if idx[i]["path"].count("/") > 1 else "?" for i in sel])
     m = lab_r != ""
+    raw_rows = load_index("raw")
+    n_raw_total = len({r["label"] for r in raw_rows})
+    all_sources = sorted({r["path"].split("/")[1] for r in raw_rows if r["path"].count("/") > 1})
+    absent = [s for s in all_sources if s not in set(src)]
+    n_src_total = len(all_sources)
+    absent_note = f"; not in clean list: {', '.join(absent)}" if absent else ""
     rows, emb = [], {}
     for d in sorted((FEAT / "clean").glob("*")):
         meta = read_json(d / "meta.json", {})
@@ -82,14 +88,21 @@ def embedding_analysis(log, out, clean_df):
             Y = TSNE(
                 n_components=2, perplexity=min(30, max(5, len(sel) // 4)), init="pca", random_state=0
             ).fit_transform(emb[mname])
+            pd.DataFrame(
+                {"x": Y[:, 0], "y": Y[:, 1], "clean_label": lab_c, "raw_label": lab_r, "source": src}
+            ).to_csv(out / f"tsne_{short_name(mname)}.csv", index=False)
         except Exception as e:
             log(f"  t-SNE skipped for {mname}: {e}")
             continue
         fig, axes = plt.subplots(1, 3, figsize=(16, 5.6))
         for ax, labels, title in (
             (axes[0], lab_c, f"CLEAN labels ({len(set(lab_c))} classes)"),
-            (axes[1], np.where(m, lab_r, "(no raw label)"), f"RAW labels ({len(set(lab_r[m]))} classes)"),
-            (axes[2], src, f"SOURCE dataset ({len(set(src))})"),
+            (
+                axes[1],
+                np.where(m, lab_r, "(no raw label)"),
+                f"RAW labels ({len(set(lab_r[m]))} of {n_raw_total} classes in this sample)",
+            ),
+            (axes[2], src, f"SOURCE dataset ({len(set(src))} of {n_src_total}{absent_note})"),
         ):
             u = sorted(set(labels))
             cmap = plt.get_cmap("tab20")

@@ -13,7 +13,7 @@
 | `results/jobs/<job>/result.json` | every run of every experiment, per-class recall and F1 |
 | `results/jobs/<job>/confusion*.npy` | (mean) confusion matrices |
 | `results/model_info/` | feature dimension, parameters, input size and GPU speed per model |
-| `results/figures/` | results PDF, t-SNE maps, pipeline figure |
+| `results/figures/` | results PDF, t-SNE maps (+ their coordinates as CSV), pipeline figure |
 
 Job names: `lp_clean__<model>`, `lp_raw__<model>`, `ft_clean__<model>__s<seed>`.
 
@@ -23,14 +23,14 @@ Job names: `lp_clean__<model>`, `lp_raw__<model>`, `ft_clean__<model>__s<seed>`.
 |---:|---|---|---|---|---:|---:|---:|
 | 1 | `vit_large_patch16_224.augreg_in21k_ft_in1k` | ViT | 0.9289 ± 0.0020 | 93.80% | 303.3 | 224 | 464 |
 | 2 | `tf_efficientnet_b7.ns_jft_in1k` | CNN | 0.9269 ± 0.0018 | 93.52% | 63.8 | 600 | 113 |
-| 3 | `vit_base_patch16_clip_224.openai` | ViT | 0.9218 ± 0.0018 | 92.87% | 85.8 | 224 | 1261 |
+| 3 | `vit_base_patch16_clip_224.openai` | ViT | 0.9217 ± 0.0018 | 92.86% | 85.8 | 224 | 1261 |
 | 4 | `densenet201.tv_in1k` | CNN | 0.9153 ± 0.0030 | 92.63% | 18.1 | 224 | 1312 |
 | 5 | `densenet169.tv_in1k` | CNN | 0.9103 ± 0.0023 | 92.26% | 12.5 | 224 | 1646 |
 | 6 | `convnext_base.fb_in22k_ft_in1k` | CNN | 0.9086 ± 0.0019 | 92.07% | 87.6 | 224 | 885 |
 | 7 | `swin_base_patch4_window7_224.ms_in22k_ft_in1k` | ViT | 0.9079 ± 0.0024 | 92.10% | 86.7 | 224 | 650 |
 | 8 | `beit_base_patch16_224.in22k_ft_in22k_in1k` | ViT | 0.9047 ± 0.0028 | 91.73% | 85.8 | 224 | 1186 |
 | 9 | `vit_base_patch16_224.augreg2_in21k_ft_in1k` | ViT | 0.9026 ± 0.0014 | 91.64% | 85.8 | 224 | 1279 |
-| 10 | `beitv2_base_patch16_224.in1k_ft_in22k_in1k` | ViT | 0.9005 ± 0.0024 | 91.37% | 85.8 | 224 | 1185 |
+| 10 | `beitv2_base_patch16_224.in1k_ft_in22k_in1k` | ViT | 0.9002 ± 0.0027 | 91.36% | 85.8 | 224 | 1185 |
 | 11 | `densenet121.tv_in1k` | CNN | 0.8966 ± 0.0028 | 91.03% | 7.0 | 224 | 2069 |
 | 12 | `swin_small_patch4_window7_224.ms_in22k_ft_in1k` | ViT | 0.8960 ± 0.0024 | 90.91% | 48.8 | 224 | 873 |
 | 13 | `convnext_small.fb_in22k_ft_in1k` | CNN | 0.8925 ± 0.0022 | 90.68% | 49.5 | 224 | 1216 |
@@ -50,17 +50,17 @@ Job names: `lp_clean__<model>`, `lp_raw__<model>`, `ft_clean__<model>__s<seed>`.
 | 27 | `mobilenetv3_small_100.lamb_in1k` | CNN | 0.8663 ± 0.0024 | 88.27% | 1.5 | 224 | 20487 |
 | 28 | `coat_lite_mini.in1k` | ViT | 0.8515 ± 0.0032 | 86.93% | 10.5 | 224 | 2028 |
 | 29 | `pvt_v2_b2.in1k` | ViT | 0.8510 ± 0.0015 | 87.07% | 24.9 | 224 | 1392 |
-| 30 | `cait_s24_224.fb_dist_in1k` | ViT | 0.8505 ± 0.0019 | 87.13% | 46.5 | 224 | 678 |
+| 30 | `cait_s24_224.fb_dist_in1k` | ViT | 0.8505 ± 0.0020 | 87.14% | 46.5 | 224 | 678 |
 | 31 | `twins_pcpvt_small.in1k` | ViT | 0.8470 ± 0.0033 | 86.65% | 23.6 | 224 | 1755 |
 | 32 | `vgg16.tv_in1k` | CNN | 0.8440 ± 0.0027 | 86.29% | 134.3 | 224 | 1481 |
-| 33 | `deit_small_patch16_224.fb_in1k` | ViT | 0.8373 ± 0.0033 | 85.64% | 21.7 | 224 | 3511 |
+| 33 | `deit_small_patch16_224.fb_in1k` | ViT | 0.8372 ± 0.0033 | 85.64% | 21.7 | 224 | 3511 |
 | 34 | `xception71.tf_in1k` | CNN | 0.8350 ± 0.0036 | 85.54% | 40.3 | 299 | 540 |
 | 35 | `vgg19.tv_in1k` | CNN | 0.8314 ± 0.0046 | 85.30% | 139.6 | 224 | 1295 |
 | 36 | `resnet34.a1_in1k` | CNN | 0.8213 ± 0.0044 | 84.09% | 21.3 | 224 | 4951 |
 | 37 | `vit_tiny_patch16_224.augreg_in21k_ft_in1k` | ViT | 0.8195 ± 0.0024 | 83.07% | 5.5 | 224 | 6636 |
-| 38 | `cait_xxs24_224.fb_dist_in1k` | ViT | 0.7958 ± 0.0039 | 80.49% | 11.8 | 224 | 1182 |
-| 39 | `deit_tiny_patch16_224.fb_in1k` | ViT | 0.7948 ± 0.0037 | 80.39% | 5.5 | 224 | 6827 |
-| 40 | `crossvit_tiny_240.in1k` | ViT | 0.7811 ± 0.0033 | 79.85% | 6.7 | 240 | 4096 |
+| 38 | `cait_xxs24_224.fb_dist_in1k` | ViT | 0.7959 ± 0.0041 | 80.49% | 11.8 | 224 | 1182 |
+| 39 | `deit_tiny_patch16_224.fb_in1k` | ViT | 0.7949 ± 0.0038 | 80.39% | 5.5 | 224 | 6827 |
+| 40 | `crossvit_tiny_240.in1k` | ViT | 0.7810 ± 0.0033 | 79.84% | 6.7 | 240 | 4096 |
 
 ## Fine-tuning
 
@@ -69,7 +69,7 @@ Job names: `lp_clean__<model>`, `lp_raw__<model>`, `ft_clean__<model>__s<seed>`.
 | `vit_large_patch16_224.augreg_in21k_ft_in1k` | ViT | **0.9717 ± 0.0010** | 97.68% | 0.9289 |
 | `densenet201.tv_in1k` | CNN | **0.9673 ± 0.0007** | 97.41% | 0.9153 |
 | `densenet169.tv_in1k` | CNN | **0.9653 ± 0.0003** | 97.22% | 0.9103 |
-| `vit_base_patch16_clip_224.openai` | ViT | **0.9609 ± 0.0011** | 96.87% | 0.9218 |
+| `vit_base_patch16_clip_224.openai` | ViT | **0.9609 ± 0.0011** | 96.87% | 0.9217 |
 
 EfficientNet-B7 was not fine-tuned because its native input (600 px) is above the 320 px limit.
 
@@ -79,7 +79,7 @@ EfficientNet-B7 was not fine-tuned because its native input (600 px) is above th
 |---|---|---|---|---|
 | `vit_large_patch16_224.augreg_in21k_ft_in1k` | ViT | 0.9029 | 0.9289 | +0.0260 |
 | `tf_efficientnet_b7.ns_jft_in1k` | CNN | 0.8980 | 0.9269 | +0.0289 |
-| `vit_base_patch16_clip_224.openai` | ViT | 0.8958 | 0.9218 | +0.0260 |
+| `vit_base_patch16_clip_224.openai` | ViT | 0.8958 | 0.9217 | +0.0259 |
 | `densenet201.tv_in1k` | CNN | 0.8906 | 0.9153 | +0.0247 |
 | `densenet169.tv_in1k` | CNN | 0.8843 | 0.9103 | +0.0260 |
 | `convnext_base.fb_in22k_ft_in1k` | CNN | 0.8788 | 0.9086 | +0.0298 |

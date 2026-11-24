@@ -40,6 +40,7 @@ All GPUs reported by `nvidia-smi` are used, one job per GPU. To use fewer, set `
 | Key | Default | Meaning |
 |---|---|---|
 | `lp_runs` | 10 | linear-probe repetitions (different splits) |
+| `alphas` | 1e-8 … 10 | L2 strengths tried for the linear SVM (chosen on validation) |
 | `raw_top_per_family` | 5 | models per family re-tested on the raw list |
 | `ft_top_per_family` | 2 | models per family that are fine-tuned |
 | `ft_seeds`, `ft_epochs`, `ft_batch`, `ft_lr` | 3, 10, 64, 1e-4 | fine-tuning |

@@ -92,7 +92,7 @@
       "n_train": 140125,
       "n_val": 30029,
       "n_test": 30029,
-      "seconds": 21.4
+      "seconds": 23.3
     },
     {
       "accuracy": 0.871990409271038,
@@ -104,7 +104,7 @@
       "n_train": 140125,
       "n_val": 30029,
       "n_test": 30029,
-      "seconds": 20.9
+      "seconds": 23.4
     },
     {
       "accuracy": 0.8694928236038496,
@@ -116,7 +116,7 @@
       "n_train": 140125,
       "n_val": 30029,
       "n_test": 30029,
-      "seconds": 20.9
+      "seconds": 23.6
     },
     {
       "accuracy": 0.8709247727197043,
@@ -128,7 +128,7 @@
       "n_train": 140125,
       "n_val": 30029,
       "n_test": 30029,
-      "seconds": 20.8
+      "seconds": 23.6
     },
     {
       "accuracy": 0.868993306470412,
@@ -140,7 +140,7 @@
       "n_train": 140125,
       "n_val": 30029,
       "n_test": 30029,
-      "seconds": 20.9
+      "seconds": 23.6
     },
     {
       "accuracy": 0.8715907955642879,
@@ -152,7 +152,7 @@
       "n_train": 140125,
       "n_val": 30029,
       "n_test": 30029,
-      "seconds": 20.9
+      "seconds": 22.6
     },
     {
       "accuracy": 0.869925738452829,
@@ -164,7 +164,7 @@
       "n_train": 140125,
       "n_val": 30029,
       "n_test": 30029,
-      "seconds": 20.9
+      "seconds": 22.8
     },
     {
       "accuracy": 0.8713243864264544,
@@ -176,7 +176,7 @@
       "n_train": 140125,
       "n_val": 30029,
       "n_test": 30029,
-      "seconds": 20.9
+      "seconds": 22.4
     },
     {
       "accuracy": 0.8718572047021212,
@@ -188,7 +188,7 @@
       "n_train": 140125,
       "n_val": 30029,
       "n_test": 30029,
-      "seconds": 21.0
+      "seconds": 22.8
     },
     {
       "accuracy": 0.8701588464484332,
@@ -200,7 +200,7 @@
       "n_train": 140125,
       "n_val": 30029,
       "n_test": 30029,
-      "seconds": 20.8
+      "seconds": 23.4
     }
   ],
   "summary": {
@@ -373,5 +373,5 @@
     "transformer_station": 0.9523,
     "wetland": 0.726
   },
-  "finished": "2026-11-21 18:09:34"
+  "finished": "2026-11-23 14:08:02"
 }

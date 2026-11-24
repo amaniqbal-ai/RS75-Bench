@@ -92,7 +92,7 @@
       "n_train": 140125,
       "n_val": 30029,
       "n_test": 30029,
-      "seconds": 17.3
+      "seconds": 29.7
     },
     {
       "accuracy": 0.8940690665689833,
@@ -104,7 +104,7 @@
       "n_train": 140125,
       "n_val": 30029,
       "n_test": 30029,
-      "seconds": 16.9
+      "seconds": 29.2
     },
     {
       "accuracy": 0.8957674248226715,
@@ -116,7 +116,7 @@
       "n_train": 140125,
       "n_val": 30029,
       "n_test": 30029,
-      "seconds": 16.9
+      "seconds": 29.4
     },
     {
       "accuracy": 0.8925039128842119,
@@ -128,7 +128,7 @@
       "n_train": 140125,
       "n_val": 30029,
       "n_test": 30029,
-      "seconds": 17.0
+      "seconds": 31.0
     },
     {
       "accuracy": 0.8924040094575244,
@@ -140,7 +140,7 @@
       "n_train": 140125,
       "n_val": 30029,
       "n_test": 30029,
-      "seconds": 17.1
+      "seconds": 29.0
     },
     {
       "accuracy": 0.8948682939824836,
@@ -152,7 +152,7 @@
       "n_train": 140125,
       "n_val": 30029,
       "n_test": 30029,
-      "seconds": 17.1
+      "seconds": 29.2
     },
     {
       "accuracy": 0.8937027540044623,
@@ -164,7 +164,7 @@
       "n_train": 140125,
       "n_val": 30029,
       "n_test": 30029,
-      "seconds": 17.1
+      "seconds": 29.1
     },
     {
       "accuracy": 0.8928702254487328,
@@ -176,7 +176,7 @@
       "n_train": 140125,
       "n_val": 30029,
       "n_test": 30029,
-      "seconds": 17.1
+      "seconds": 29.5
     },
     {
       "accuracy": 0.8935362482933165,
@@ -188,7 +188,7 @@
       "n_train": 140125,
       "n_val": 30029,
       "n_test": 30029,
-      "seconds": 17.1
+      "seconds": 29.2
     },
     {
       "accuracy": 0.8948016916980253,
@@ -200,7 +200,7 @@
       "n_train": 140125,
       "n_val": 30029,
       "n_test": 30029,
-      "seconds": 17.1
+      "seconds": 29.0
     }
   ],
   "summary": {
@@ -373,5 +373,5 @@
     "transformer_station": 0.9755,
     "wetland": 0.792
   },
-  "finished": "2026-11-21 15:58:58"
+  "finished": "2026-11-23 12:57:42"
 }

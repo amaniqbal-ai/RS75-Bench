@@ -58,14 +58,14 @@ pip install -r requirements.txt
 |---:|---|---|---|---|---:|---:|---:|
 | 1 | `vit_large_patch16_224.augreg_in21k_ft_in1k` | ViT | 0.9289 ± 0.0020 | 93.80% | 303.3 | 224 | 464 |
 | 2 | `tf_efficientnet_b7.ns_jft_in1k` | CNN | 0.9269 ± 0.0018 | 93.52% | 63.8 | 600 | 113 |
-| 3 | `vit_base_patch16_clip_224.openai` | ViT | 0.9218 ± 0.0018 | 92.87% | 85.8 | 224 | 1261 |
+| 3 | `vit_base_patch16_clip_224.openai` | ViT | 0.9217 ± 0.0018 | 92.86% | 85.8 | 224 | 1261 |
 | 4 | `densenet201.tv_in1k` | CNN | 0.9153 ± 0.0030 | 92.63% | 18.1 | 224 | 1312 |
 | 5 | `densenet169.tv_in1k` | CNN | 0.9103 ± 0.0023 | 92.26% | 12.5 | 224 | 1646 |
 | 6 | `convnext_base.fb_in22k_ft_in1k` | CNN | 0.9086 ± 0.0019 | 92.07% | 87.6 | 224 | 885 |
 | 7 | `swin_base_patch4_window7_224.ms_in22k_ft_in1k` | ViT | 0.9079 ± 0.0024 | 92.10% | 86.7 | 224 | 650 |
 | 8 | `beit_base_patch16_224.in22k_ft_in22k_in1k` | ViT | 0.9047 ± 0.0028 | 91.73% | 85.8 | 224 | 1186 |
 | 9 | `vit_base_patch16_224.augreg2_in21k_ft_in1k` | ViT | 0.9026 ± 0.0014 | 91.64% | 85.8 | 224 | 1279 |
-| 10 | `beitv2_base_patch16_224.in1k_ft_in22k_in1k` | ViT | 0.9005 ± 0.0024 | 91.37% | 85.8 | 224 | 1185 |
+| 10 | `beitv2_base_patch16_224.in1k_ft_in22k_in1k` | ViT | 0.9002 ± 0.0027 | 91.36% | 85.8 | 224 | 1185 |
 
 Full table: [docs/4_results.md](docs/4_results.md).
 
@@ -76,7 +76,7 @@ Full table: [docs/4_results.md](docs/4_results.md).
 | `vit_large_patch16_224.augreg_in21k_ft_in1k` | ViT | **0.9717 ± 0.0010** | 97.68% | 0.9289 |
 | `densenet201.tv_in1k` | CNN | **0.9673 ± 0.0007** | 97.41% | 0.9153 |
 | `densenet169.tv_in1k` | CNN | **0.9653 ± 0.0003** | 97.22% | 0.9103 |
-| `vit_base_patch16_clip_224.openai` | ViT | **0.9609 ± 0.0011** | 96.87% | 0.9218 |
+| `vit_base_patch16_clip_224.openai` | ViT | **0.9609 ± 0.0011** | 96.87% | 0.9217 |
 
 **Raw vs clean labels:** the same ten models score 2.5–3.1 points higher macro-F1 on the clean list, while their
 ranking is almost unchanged (Kendall τ = 0.91). On the *same* real images, the
